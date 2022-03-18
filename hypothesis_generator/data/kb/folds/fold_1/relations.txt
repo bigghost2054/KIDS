@@ -1,11 +1,7 @@
 confers#SPACE#resistance#SPACE#to#SPACE#antibiotic
 confers#SPACE#no#SPACE#resistance#SPACE#to#SPACE#antibiotic
-is#SPACE#downregulated#SPACE#by#SPACE#antibiotic
-is#SPACE#upregulated#SPACE#by#SPACE#antibiotic
-is#SPACE#not#SPACE#regulated#SPACE#by#SPACE#antibiotic
-is#SPACE#mutated#SPACE#by#SPACE#antibiotic
-is#SPACE#not#SPACE#mutated#SPACE#by#SPACE#antibiotic
-is#SPACE#associated#SPACE#with#SPACE#resistance#SPACE#to#SPACE#antibiotic
+upregulated#SPACE#by#SPACE#antibiotic
+not#SPACE#upregulated#SPACE#by#SPACE#antibiotic
 represses
 no#SPACE#represses
 activates

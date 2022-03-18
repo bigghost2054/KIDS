@@ -1,4 +1,4 @@
 Path	Source
-/home/bigghost/KIDS/kg_constructor/data/dataset/GO/GO_toy.txt	GO
-/home/bigghost/KIDS/kg_constructor/data/dataset/Tamae_et_al/Tamae_et_al_KO_Antibiotics_toy.txt	Tamae
-/home/bigghost/KIDS/kg_constructor/data/dataset/Liu_et_al/Liu_et_al_KO_Antibiotics_toy.txt	Liu
+/path/to/dataset/directory/GO/GO_toy.txt	GO
+/path/to/dataset/directory/Tamae_et_al/Tamae_et_al_KO_Antibiotics_toy.txt	Tamae
+/path/to/dataset/directory/Liu_et_al/Liu_et_al_KO_Antibiotics_toy.txt	Liu

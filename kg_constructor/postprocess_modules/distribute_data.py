@@ -71,18 +71,6 @@ class DistributeData():
 
         # positive triplets containing only or no target predicates
         self.pos_target = self.pos_data[self.pos_data[self._PRED_STR].isin([self.target_relation])]
-        '''
-        print(self.pos_data)
-        print("===")
-        print(self.pos_data.iloc[60])
-        print("===")
-        print(self.pos_data[self._PRED_STR].isin([self.target_relation]).iloc[61])
-        print("===")
-        print(self._PRED_STR)
-        print("===")
-        print(self.target_relation)
-        raise("!")
-        '''
         self.pos_except_target = self.pos_data[
             ~self.pos_data[self._PRED_STR].isin([self.target_relation])]
 

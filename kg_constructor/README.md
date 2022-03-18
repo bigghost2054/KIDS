@@ -13,7 +13,7 @@ This folder contains source code responsible for **1)** creating the KG using kn
 Steps below describe how to replicate the results reported in the paper.
 
 ### Step 1: Update the paths.
-Running the following script will automatically update the paths to match your local computer path.First go to the kg_generator directory.
+Running the following script will automatically update the paths to match your local computer path.
 ```
 ./update_paths.sh
 ```
