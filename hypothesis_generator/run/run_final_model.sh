@@ -4,9 +4,13 @@ set -e
 
 # global variables
 current_dir=$(pwd)
+if [ -z "$1" ]; then
+	config_dir='final'
+else
+	config_dir="$1"
+fi
 
-config_dir="$1" # e.g. final
-output_dir=$current_dir/$2 # e.g. output
+output_dir=$current_dir/output_1a
 
 echo "Config directory: $config_dir"
 echo "Output directory: $output_dir"
@@ -39,9 +43,9 @@ mkdir -p "$er_mlp_instance_dir/$config_dir"
 cp "configuration/$config_dir/er_mlp.ini" "$er_mlp_instance_dir/$config_dir/$config_dir.ini"
 cd $er_mlp_model_dir
 
-python -u build_network.py --dir $config_dir --logfile $er_mlp_log_dir --final_model
-python -u predict.py --dir $config_dir --predict_file train_local.txt --logfile $er_mlp_log_dir --final_model
-python -u predict.py --dir $config_dir --predict_file test.txt --logfile $er_mlp_log_dir --final_model
+python3 -u build_network.py --dir $config_dir --logfile $er_mlp_log_dir --final_model
+python3 -u predict.py --dir $config_dir --predict_file train_local.txt --logfile $er_mlp_log_dir --final_model
+python3 -u predict.py --dir $config_dir --predict_file test.txt --logfile $er_mlp_log_dir --final_model
 
 ###########
 # stacked #
@@ -55,8 +59,8 @@ mkdir -p $stacked_instance_dir/$config_dir
 cp 'configuration/'$config_dir'/stacked.ini' $stacked_instance_dir/$config_dir/$config_dir'.ini'
 cd $stacked_dir
 
-python -u build_model.py --dir $config_dir --er_mlp $config_dir --pra $config_dir --final_model
-python -u evaluate.py --dir $config_dir --final_model
+python3 -u build_model.py --dir $config_dir --er_mlp $config_dir --pra $config_dir --final_model
+python3 -u evaluate.py --dir $config_dir --final_model
 
 ################
 # post process #
@@ -87,7 +91,6 @@ awk -F"[][]" '{print $2}' $confidence_file > tmp && mv tmp $confidence_file
 hypotheses_confidence_file=$output_dir/hypotheses_confidence.txt
 echo "Saving hypotheses confidence file to: $hypotheses_confidence_file"
 
-rm $hypotheses_confidence_file
 paste $hypotheses_file $confidence_file >> $hypotheses_confidence_file
 
 # remove intermediate files

@@ -31,7 +31,7 @@ class DataManager:
     """
 
     def __init__(self, data_paths, map_file=None, data_rule_file=None, replace_rule_file=None):
-        """
+        """       
         Class constructor for DataManager. All inputs are optional
         since only name mapping may be used somewhere else.
 
@@ -40,19 +40,19 @@ class DataManager:
             map_file: (str, optional) Filepath of name mapping table.
             data_rule_file: (str, optional) Filepath for knowledge inferral.
             replace_rule_file: (str, optional) Filepath for any replacements.
-        """
+        """       
         self.data_paths = data_paths
         self.map_file = map_file
         self.data_rule_file = data_rule_file
         self.replace_rule_file = replace_rule_file
 
     def integrate(self):
-        """
-        Integrate data from multiple sources.
+        """       
+       Integrate data from multiple sources.
 
         Returns:
             pd_integrated: (pd.DataFrame) Integrated data.
-        """
+        """      
         list_integrated = []
         pd_data_paths = pd.read_csv(self.data_paths, sep='\t')
 
@@ -87,7 +87,7 @@ class DataManager:
         return pd_integrated.reset_index(drop=True)
 
     def map_name(self, pd_data):
-        """
+        """   
         Perform name mapping given data from single source.
 
         Inputs:
@@ -95,7 +95,7 @@ class DataManager:
 
         Returns:
             pd_mapped: (pd.DataFrame) Name mapped data.
-        """
+        """   
         if not self.map_file:
             log.info('Mapping file not specified. Skipping name mapping...')
             return pd_data
@@ -132,7 +132,7 @@ class DataManager:
         pd_mapped = pd_data.apply(has_mapping_name, axis=1, args=(dict_map, ))
 
         return pd_mapped
-
+        
     def infer(self, pd_data):
         """
         Apply data rule and infer new data.
@@ -146,12 +146,12 @@ class DataManager:
         if not self.data_rule_file:
             log.info('Data rule file not specified. Skipping knowledge inferral...')
             return pd_data
-
+        
         data_rules = ET.parse(self.data_rule_file).getroot()
         pd_updated = pd_data.copy()
 
         log.info('Applying data rule to infer new data using %s', self.data_rule_file)
-
+ 
         # iterate over each data rule
         for data_rule in data_rules:
             log.debug('Processing data rule %s', data_rule.get('name'))
@@ -189,10 +189,10 @@ class DataManager:
         """
         Replace any parts of the data if necessary.
         (Currently used specifically to drop temporal data.)
-
+        
         Inputs:
             pd_data: (pd.DataFrame) Data that has parts to be replaced.
-
+        
         Returns:
             pd_replaced: (pd.DataFrame) Data with parts replaced.
         """
