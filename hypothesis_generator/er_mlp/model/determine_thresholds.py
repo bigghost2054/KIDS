@@ -73,7 +73,7 @@ def main():
     # setup configuration parser
     configparser = ConfigParser(config_file)
 
-    with tf.Session() as sess:
+    with tf.compat.v1.Session() as sess:
         # load the saved parameters
         with open(os.path.join(model_save_dir, 'params.pkl'), 'rb') as file:
             params = pickle.load(file)

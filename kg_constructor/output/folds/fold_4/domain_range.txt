@@ -1,7 +1,11 @@
 confers#SPACE#resistance#SPACE#to#SPACE#antibiotic	gene	antibiotic
 confers#SPACE#no#SPACE#resistance#SPACE#to#SPACE#antibiotic	gene	antibiotic
-upregulated#SPACE#by#SPACE#antibiotic	gene	antibiotic
-not#SPACE#upregulated#SPACE#by#SPACE#antibiotic	gene	antibiotic
+is#SPACE#downregulated#SPACE#by#SPACE#antibiotic	gene	antibiotic
+is#SPACE#upregulated#SPACE#by#SPACE#antibiotic	gene	antibiotic
+is#SPACE#not#SPACE#regulated#SPACE#by#SPACE#antibiotic	gene	antibiotic
+is#SPACE#mutated#SPACE#by#SPACE#antibiotic	gene	antibiotic
+is#SPACE#not#SPACE#mutated#SPACE#by#SPACE#antibiotic	gene	antibiotic
+is#SPACE#associated#SPACE#with#SPACE#resistance#SPACE#to#SPACE#antibiotic	gene	antibiotic
 represses	gene	gene
 no#SPACE#represses	gene	gene
 activates	gene	gene

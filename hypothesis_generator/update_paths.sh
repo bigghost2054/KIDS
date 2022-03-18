@@ -9,7 +9,7 @@ hg_dir=`pwd`
 # common variabls
 config_dir="$hg_dir/run/configuration"
 data_dir="$hg_dir/data"
-default_data_dir="/path/to/data/directory"
+default_data_dir="/home/jasonyoun/Jason/Research/KIDS/hypothesis_generator/data"
 
 # update paths in config.sh
 echo "Updating filepaths in 'config.sh'..."
