@@ -1,4 +1,4 @@
 Path	Source
 /Users/adilsalim/github/KIDS/kg_constructor/data/ecoli/GO_sal/GO_sal_Feb11_Final.txt	GO_sal
-/home/adilsalim/github/KIDS/kg_constructor/data/ecoli/Salm/salm-Ab-Mar3.txt	Salm
-/home/adilsalim/github/KIDS/kg_constructor/data/ecoli/Pathogen_Detection_DB/PathogenD_db_feb15.txt	Pathogen_Detection_DB
+/Users/home/adilsalim/github/KIDS/kg_constructor/data/ecoli/Salm/salm-Ab-Mar3.txt	Salm
+/Users/home/adilsalim/github/KIDS/kg_constructor/data/ecoli/Pathogen_Detection_DB/PathogenD_db_feb15.txt	Pathogen_Detection_DB
