@@ -1,4 +1,4 @@
-Source 	Target
+Source  Target
 Q8ZKA7	fljA
 Q8ZL47	fljA
 Q8ZLG0	fljB
