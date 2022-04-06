@@ -6,13 +6,13 @@ This folder contains source code for constructing the inconsistency-free knowled
 * <code>[./output](./output)</code>: All output files go here.
 * <code>[./src](./src)</code>: Contains all source code used for knowledge graph construction.
 
-##Clean the output directory.
+## Clean the output directory.
 Current output directory consists of results used in the paper. If you wish to run the code and obtain new results, please remove all files and directories under it.
 ```
 rm -r ./output/*
 ```
-**
-## Identify the current branch.**
+
+## Identify the current branch.
 The current repo has two directories master and refactor. Refactor is the updated one and we will run this. 
 Find out your current brach by using the following. 
 
@@ -25,8 +25,8 @@ git branch
 ```
 The branch highlighted in green is your current branch.
 
-**
-## How to Switch different branches **
+
+## How to Switch different branches 
 Switch to the desired branch using the following. 
 git checkout <your desired branch>
 ```
