@@ -1,2 +1,0 @@
-Subject	Predicate	Object	Belief	Source size	Sources	Total source size	Mean belief of conflicting tuples	Belief difference	Conflicting tuple info
-tnpA1	is downregulated by antibiotic	Fosmidomycin	0.2715215976	1	Salm	2	0.2715215976	0.0000000000	[(('tnpA1', 'is not regulated by antibiotic', 'Fosmidomycin'), ['Salm'], 0.2715215975998815)]
