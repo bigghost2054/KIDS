@@ -1,0 +1,128 @@
+dfrI	confers resistance to antibiotic	Trimethoprim	1
+qnrD	confers resistance to antibiotic	Quinolone	1
+blaCMY	confers resistance to antibiotic	Cephalosporin	1
+aph3''Ia	confers resistance to antibiotic	Gentamicin	1
+tetJ	confers resistance to antibiotic	Tetracycline	1
+t0533	confers resistance to antibiotic	Ciprofloxacin	1
+aac(3)-IVa	confers resistance to antibiotic	Aminoglycosides	1
+GyrA	confers resistance to antibiotic	Nalidixic Acid	1
+floR	confers resistance to antibiotic	Quinolones	1
+blaACT	confers resistance to antibiotic	Cephalosporin	1
+qacH	confers resistance to antibiotic	Other Classes	1
+mdtM	confers resistance to antibiotic	Efflux	1
+aph(3')-Ia	confers resistance to antibiotic	Aminoglycosides	1
+aacA57	confers resistance to antibiotic	Aminoglycoside	1
+linB	confers resistance to antibiotic	Other Classes	1
+emrR	confers resistance to antibiotic	Multiple Antibiotics	1
+aac-Iva	confers resistance to antibiotic	Gentamicin	1
+fosL1	confers resistance to antibiotic	Fosfomycin	1
+micF	confers resistance to antibiotic	Ciprofloxacin	1
+cml	confers resistance to antibiotic	Chloramphenicol	1
+catB4	confers resistance to antibiotic	Chloramphenicol	1
+fos	confers resistance to antibiotic	Fosfomycin	1
+aadA23	confers resistance to antibiotic	Gentamicin	1
+fosA8	confers resistance to antibiotic	Fosfomycin	1
+GlpT	confers resistance to antibiotic	Fosfomycin	1
+lnuG	confers resistance to antibiotic	Lincosamide	1
+sul3	confers resistance to antibiotic	Sulfisoxazole	1
+blaA	confers resistance to antibiotic	Beta-Lactam	1
+aac6-Iaa	confers resistance to antibiotic	Gentamicin	1
+sul	confers resistance to antibiotic	Sulfanilamide	1
+aac(6)-Ib	confers resistance to antibiotic	Streptomycin	1
+QnrB19	confers resistance to antibiotic	Ciprofloxacin	1
+pnp	confers resistance to antibiotic	Ciprofloxacin	1
+MCR-5.1	confers resistance to antibiotic	Colistin	1
+aph4-ia	confers resistance to antibiotic	HygromycinB	1
+abc-f	confers resistance to antibiotic	Macrolide	1
+aadA17	confers resistance to antibiotic	Streptomycin	1
+mphE	confers resistance to antibiotic	Macrolide	1
+aph(3')-Ic	confers resistance to antibiotic	Gentamicin	1
+soxR	confers resistance to antibiotic	Tetracycline	1
+parC	confers resistance to antibiotic	Quinolones	1
+cat2	confers resistance to antibiotic	Phenicols	1
+dfrB6	confers resistance to antibiotic	Trimethoprim	1
+mecA	confers resistance to antibiotic	Beta-Lactam	1
+MdtK	confers resistance to antibiotic	Acriflavine	1
+erm	confers resistance to antibiotic	Macrolide	1
+dfrA19	confers resistance to antibiotic	Trimethoprim	1
+blaEC	confers resistance to antibiotic	Beta-Lactam	1
+QnrS2	confers resistance to antibiotic	Quinolones	1
+aac(6')-33	confers resistance to antibiotic	Aminoglycoside	1
+catB3	confers resistance to antibiotic	Phenicols	1
+FosA7.5	confers resistance to antibiotic	Fosfomycin	1
+bla	confers resistance to antibiotic	Cafepime	1
+qnrVC5	confers resistance to antibiotic	Quinolone	1
+lnuC	confers resistance to antibiotic	Lincosamide	1
+acrA	confers resistance to antibiotic	Ciprofloxacin	1
+aadE	confers resistance to antibiotic	Aminoglycosides	1
+aadD2	confers resistance to antibiotic	Tobramycin	1
+gyrA	confers resistance to antibiotic	Quinolone	1
+sul1	confers resistance to antibiotic	Sulfisoxazole	1
+bla	confers resistance to antibiotic	Sulfamethoxazole	1
+cmlA5	confers resistance to antibiotic	Tetracycline	1
+rmtC	confers resistance to antibiotic	Multiple Antibiotics	1
+ybhT	confers resistance to antibiotic	Ciprofloxacin	1
+ant3''Ih	confers resistance to antibiotic	Streptomycin	1
+aacA34	confers resistance to antibiotic	Aminoglycoside	1
+aacA4	confers resistance to antibiotic	Gentamicin	1
+MCR-9.1	confers resistance to antibiotic	Colistin	1
+msrE	confers resistance to antibiotic	Macrolide	1
+"ant(3"")-Ia"	confers resistance to antibiotic	Aminoglycosides	1
+aac6-Iy	confers resistance to antibiotic	Aminoglycosides	1
+aph(3')-Ic	confers resistance to antibiotic	Streptomycin	1
+bla	confers resistance to antibiotic	Cloxacillin	1
+cmlA9	confers resistance to antibiotic	Multiple Antibiotics	1
+dnaA	confers resistance to antibiotic	Other Classes	1
+blaSHV	confers resistance to antibiotic	Amoxicillin	1
+ant(2'')-Ia	confers resistance to antibiotic	Gentamicin	1
+sul2	confers resistance to antibiotic	Sulfamethoxazole	1
+phoP	confers resistance to antibiotic	Phenicols	1
+floR	confers resistance to antibiotic	Phenicols	1
+aacC3	confers resistance to antibiotic	Aminoglycosides	1
+aac(6')-Im	confers resistance to antibiotic	Kanamycin	1
+mrx	confers resistance to antibiotic	Other Classes	1
+blaOXA	confers resistance to antibiotic	Carbapenem	1
+catB3	confers resistance to antibiotic	Chloramphenicol	1
+"ant (3"")-Ia"	confers resistance to antibiotic	Streptomycin	1
+aadA25	confers resistance to antibiotic	Aminoglycosides	1
+errn(c)	confers resistance to antibiotic	Erythromycin	1
+aph(3'')	confers resistance to antibiotic	Aminoglycosides	1
+aac3-Iid	confers resistance to antibiotic	Aminoglycosides	1
+uvrD	confers resistance to antibiotic	Ofloxacin	1
+aadA13	confers resistance to antibiotic	Gentamicin	1
+xseA	confers resistance to antibiotic	Ofloxacin	1
+phoPQ	confers resistance to antibiotic	Multiple Antibiotics	1
+cmlA9	confers resistance to antibiotic	Phenicols	1
+qnrS11	confers resistance to antibiotic	Quinolone	1
+aac(6')-Ib3	confers resistance to antibiotic	Amikacin	1
+aac(6')-Ib-cr	confers resistance to antibiotic	Quinolones	1
+gyrB	confers resistance to antibiotic	Quinolone	1
+ais	confers resistance to antibiotic	Phenicols	1
+strA	confers resistance to antibiotic	Gentamicin	1
+PBP3	confers resistance to antibiotic	Beta-Lactam	1
+glnA	confers resistance to antibiotic	Ciprofloxacin	1
+xseA	confers resistance to antibiotic	Ciprofloxacin	1
+mefC	confers resistance to antibiotic	Macrolide	1
+linG	confers resistance to antibiotic	lincosamide	1
+OmpC	confers resistance to antibiotic	Tetracycline	1
+catB8	confers resistance to antibiotic	Phenicols	1
+aadA12	confers resistance to antibiotic	Streptomycin	1
+ereA	confers resistance to antibiotic	Macrolides	1
+aac6-Iaa	confers resistance to antibiotic	Aminoglycosides	1
+KpnF	confers resistance to antibiotic	Multiple Antibiotics	1
+cat4	confers resistance to antibiotic	Multiple Antibiotics	1
+rm(F)	confers resistance to antibiotic	Erythromycin	1
+dfrA32	confers resistance to antibiotic	Trimethoprim	1
+aac(6')-Ib4	confers resistance to antibiotic	Aminoglycoside	1
+bla	confers resistance to antibiotic	Beta-Lactam	1
+aacC1	confers resistance to antibiotic	Aminoglycosides	1
+lnuF	confers resistance to antibiotic	Lincosamide	1
+MCR-4.1	confers resistance to antibiotic	Colistin	1
+aac(6')-Iaa	confers resistance to antibiotic	Kanamycin	1
+"aph(3"")-Ib"	confers resistance to antibiotic	Gentamicin	1
+aadD1	confers resistance to antibiotic	Tobramycin	1
+aacA38	confers resistance to antibiotic	Aminoglycoside	1
+qnrB4	confers resistance to antibiotic	Quinolone	1
+aph(6)-Id	confers resistance to antibiotic	Aminoglycosides	1
+aph4-Ia	confers resistance to antibiotic	Streptomycin	1
+tetO	confers resistance to antibiotic	Tetracycline	1
