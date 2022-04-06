@@ -33,8 +33,10 @@ git checkout <your desired branch>
 git checkout refactor
 ```
 
-
+## Deleting files from outpul folder.
+```  
 rm -r ./output/*
+```
 ## How to Run
 Using the toy graph makes sure everything is setup correctly.
 ```
