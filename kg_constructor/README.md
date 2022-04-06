@@ -11,8 +11,8 @@ Current output directory consists of results used in the paper. If you wish to r
 ```
 rm -r ./output/*
 ```
-
-##Identify the current branch.
+**
+## Identify the current branch.**
 The current repo has two directories master and refactor. Refactor is the updated one and we will run this. 
 Find out your current brach by using the following. 
 
@@ -25,8 +25,8 @@ git branch
 ```
 The branch highlighted in green is your current branch.
 
-
-##How to Switch different branches 
+**
+## How to Switch different branches **
 Switch to the desired branch using the following. 
 git checkout <your desired branch>
 ```
