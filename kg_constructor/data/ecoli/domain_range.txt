@@ -1,8 +1,12 @@
 Relation	Domain	Range
 confers resistance to antibiotic	gene	antibiotic
 confers no resistance to antibiotic	gene	antibiotic
-upregulated by antibiotic	gene	antibiotic
-not upregulated by antibiotic	gene	antibiotic
+is upregulated by antibiotic	gene	antibiotic
+is not regulated by antibiotic	gene	antibiotic
+is downregulated by antibiotic	gene	antibiotic
+is mutated by antibiotic	gene	antibiotic
+is not mutated by antibiotic	gene	antibiotic
+is associated with resistance to antibiotic	gene	antibiotic
 represses	gene	gene
 no represses	gene	gene
 activates	gene	gene
