@@ -166,6 +166,7 @@ class Sums:
                 belief = df_present_belief_and_source.loc[inconsistent_tuple].values[0]
                 # log.debug('{} {}'.format(inconsistent_tuple, belief))
                 inconsistent_tuples_with_max_belief.append((inconsistent_tuple, sources, belief))
+             
                 df_belief_and_source_without_inconsistencies = \
                     df_belief_and_source_without_inconsistencies.drop(inconsistent_tuple)
 

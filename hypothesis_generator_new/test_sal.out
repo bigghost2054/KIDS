@@ -1,0 +1,317 @@
+num_iterations: [1]
+batch_size: [128]
+learning_rate: [0.0002]
+decay_rate: [1.0]
+ent_vec_dim: [200]
+rel_vec_dim: [100, 30]
+input_dropout: [0.2]
+hidden_dropout1: [0.4]
+hidden_dropout2: [0.5]
+label_smoothing: [0.1]
+Multiple sets of hyperparameters were passed.
+Doing grid search using train/val set.
+*******************************
+Processing 1/2...
+Hyperparameters: (1, 128, 0.0002, 1.0, 200, 100, 0.2, 0.4, 0.5, 0.1)
+Processing fold: ../../../kg_constructor/output/salmonella/folds/fold_0
+Doing training and validation
+Loading train data...
+Loading val data...
+Training the TuckER model...
+Number of training data points: 84531
+Starting training...
+Iteration: 1
+Loss: 0.7019379911599336
+Mode: None
+<class 'list'>
+<class 'numpy.ndarray'>
+f1: 0.03981663392272429
+accuracy: 0.035394736842105264
+confusion: 152 7331 0 117
+precision: 0.020312708806628357
+recall: 1.0
+Processing fold: ../../../kg_constructor/output/salmonella/folds/fold_1
+Doing training and validation
+Loading train data...
+Loading val data...
+Training the TuckER model...
+Number of training data points: 84531
+Starting training...
+Iteration: 1
+Loss: 0.701775015136342
+Mode: None
+<class 'list'>
+<class 'numpy.ndarray'>
+f1: 0.0407239819004525
+accuracy: 0.1631578947368421
+confusion: 135 6343 17 1105
+precision: 0.020839765359678915
+recall: 0.8881578947368421
+Processing fold: ../../../kg_constructor/output/salmonella/folds/fold_2
+Doing training and validation
+Loading train data...
+Loading val data...
+Training the TuckER model...
+Number of training data points: 84531
+Starting training...
+Iteration: 1
+Loss: 0.701894066951893
+Mode: None
+<class 'list'>
+<class 'numpy.ndarray'>
+f1: 0.039727582292849034
+accuracy: 0.10947368421052632
+confusion: 140 6756 12 692
+precision: 0.020301624129930394
+recall: 0.9210526315789473
+Processing fold: ../../../kg_constructor/output/salmonella/folds/fold_3
+Doing training and validation
+Loading train data...
+Loading val data...
+Training the TuckER model...
+Number of training data points: 84531
+Starting training...
+Iteration: 1
+Loss: 0.7017060275431033
+Mode: None
+<class 'list'>
+<class 'numpy.ndarray'>
+f1: 0.03962973676598206
+accuracy: 0.12631578947368421
+confusion: 137 6625 15 823
+precision: 0.02026027802425318
+recall: 0.9013157894736842
+Processing fold: ../../../kg_constructor/output/salmonella/folds/fold_4
+Doing training and validation
+Loading train data...
+Loading val data...
+Training the TuckER model...
+Number of training data points: 84531
+Starting training...
+Iteration: 1
+Loss: 0.7015832302011089
+Mode: None
+<class 'list'>
+<class 'numpy.ndarray'>
+f1: 0.04680851063829787
+accuracy: 0.8231578947368421
+confusion: 33 1225 119 6223
+precision: 0.026232114467408585
+recall: 0.21710526315789475
+*******************************
+Processing 2/2...
+Hyperparameters: (1, 128, 0.0002, 1.0, 200, 30, 0.2, 0.4, 0.5, 0.1)
+Processing fold: ../../../kg_constructor/output/salmonella/folds/fold_0
+Doing training and validation
+Loading train data...
+Loading val data...
+Training the TuckER model...
+Number of training data points: 84531
+Starting training...
+Iteration: 1
+Loss: 0.7018247879581687
+Mode: None
+<class 'list'>
+<class 'numpy.ndarray'>
+f1: 0.04028886354998099
+accuracy: 0.6677631578947368
+confusion: 53 2426 99 5022
+precision: 0.021379588543767647
+recall: 0.34868421052631576
+Processing fold: ../../../kg_constructor/output/salmonella/folds/fold_1
+Doing training and validation
+Loading train data...
+Loading val data...
+Training the TuckER model...
+Number of training data points: 84531
+Starting training...
+Iteration: 1
+Loss: 0.7016746747640916
+Mode: None
+<class 'list'>
+<class 'numpy.ndarray'>
+f1: 0.042320819112627986
+accuracy: 0.8153947368421053
+confusion: 31 1282 121 6166
+precision: 0.02361005331302361
+recall: 0.20394736842105263
+Processing fold: ../../../kg_constructor/output/salmonella/folds/fold_2
+Doing training and validation
+Loading train data...
+Loading val data...
+Training the TuckER model...
+Number of training data points: 84531
+Starting training...
+Iteration: 1
+Loss: 0.7018687026000318
+Mode: None
+<class 'list'>
+<class 'numpy.ndarray'>
+f1: 0.04602660913340525
+accuracy: 0.650921052631579
+confusion: 64 2565 88 4883
+precision: 0.024343856979840244
+recall: 0.42105263157894735
+Processing fold: ../../../kg_constructor/output/salmonella/folds/fold_3
+Doing training and validation
+Loading train data...
+Loading val data...
+Training the TuckER model...
+Number of training data points: 84531
+Starting training...
+Iteration: 1
+Loss: 0.701705538932188
+Mode: None
+<class 'list'>
+<class 'numpy.ndarray'>
+f1: 0.05038488453463961
+accuracy: 0.8214473684210526
+confusion: 36 1241 116 6207
+precision: 0.028191072826938137
+recall: 0.23684210526315788
+Processing fold: ../../../kg_constructor/output/salmonella/folds/fold_4
+Doing training and validation
+Loading train data...
+Loading val data...
+Training the TuckER model...
+Number of training data points: 84531
+Starting training...
+Iteration: 1
+Loss: 0.7017630191496861
+Mode: None
+<class 'list'>
+<class 'numpy.ndarray'>
+f1: 0.04310833806012478
+accuracy: 0.5560526315789474
+confusion: 76 3298 76 4150
+precision: 0.022525192649673977
+recall: 0.5
+Finding results in directory: ../../output/ecoli/tucker
+Found 1 files in the directory.
+Hyperparameters search result sorted by f1:
+                                     hyperparameters        f1
+1  (300, 128, 0.0002, 1.0, 200, 30, 0.2, 0.4, 0.5...  0.329856
+0  (300, 128, 0.0002, 1.0, 200, 100, 0.2, 0.4, 0....  0.321308
+num_iterations: [1]
+batch_size: [128]
+learning_rate: [0.0002]
+decay_rate: [1.0]
+ent_vec_dim: [200]
+rel_vec_dim: [30]
+input_dropout: [0.2]
+hidden_dropout1: [0.4]
+hidden_dropout2: [0.5]
+label_smoothing: [0.1]
+Loading train data...
+Loading val data...
+Loading test data...
+Training the TuckER model...
+Number of training data points: 84683
+Starting training...
+Iteration: 1
+Loss: 0.7016969977355585
+Mode: None
+<class 'list'>
+<class 'numpy.ndarray'>
+f1: 0.040314756925730305
+accuracy: 0.0628421052631579
+confusion: 187 8900 3 410
+precision: 0.020578848905029163
+recall: 0.9842105263157894
+Loading train data...
+Loading val data...
+Loading test data...
+Training the TuckER model...
+Number of training data points: 84683
+Starting training...
+Iteration: 1
+Loss: 0.7016740419515749
+Mode: None
+<class 'list'>
+<class 'numpy.ndarray'>
+f1: 0.04527979495941905
+accuracy: 0.7647368421052632
+confusion: 53 2098 137 7212
+precision: 0.024639702463970247
+recall: 0.2789473684210526
+Loading train data...
+Loading val data...
+Loading test data...
+Training the TuckER model...
+Number of training data points: 84683
+Starting training...
+Iteration: 1
+Loss: 0.7016166724809786
+Mode: None
+<class 'list'>
+<class 'numpy.ndarray'>
+f1: 0.05405405405405406
+accuracy: 0.9631578947368421
+confusion: 10 170 180 9140
+precision: 0.05555555555555555
+recall: 0.05263157894736842
+Loading train data...
+Loading val data...
+Loading test data...
+Training the TuckER model...
+Number of training data points: 84683
+Starting training...
+Iteration: 1
+Loss: 0.7017671458604859
+Mode: None
+<class 'list'>
+<class 'numpy.ndarray'>
+f1: 0.04
+accuracy: 0.16126315789473683
+confusion: 166 7944 24 1366
+precision: 0.020468557336621455
+recall: 0.8736842105263158
+Loading train data...
+Loading val data...
+Loading test data...
+Training the TuckER model...
+Number of training data points: 84683
+Starting training...
+Iteration: 1
+Loss: 0.7016700062809921
+Mode: None
+<class 'list'>
+<class 'numpy.ndarray'>
+f1: 0.0392764857881137
+accuracy: 0.02157894736842105
+confusion: 190 9295 0 15
+precision: 0.020031628887717447
+recall: 1.0
+Finding results in directory: ../../output/ecoli/tucker
+[{'f1': 0.3669112741827885, 'accuracy': 0.9729243937232525, 'tn': 33826, 'fp': 523, 'fn': 426, 'tp': 275, 'precision': 0.34461152882205515, 'recall': 0.39229671897289586}, {'f1': 0.36964980544747084, 'accuracy': 0.9722681883024251, 'tn': 33793, 'fp': 556, 'fn': 416, 'tp': 285, 'precision': 0.3388822829964328, 'recall': 0.4065620542082739}, {'f1': 0.38121170864533693, 'accuracy': 0.9740656205420828, 'tn': 33861, 'fp': 488, 'fn': 421, 'tp': 280, 'precision': 0.3645833333333333, 'recall': 0.39942938659058486}, {'f1': 0.37926136363636365, 'accuracy': 0.9750641940085591, 'tn': 33909, 'fp': 440, 'fn': 434, 'tp': 267, 'precision': 0.37765205091937765, 'recall': 0.38088445078459343}, {'f1': 0.3713892709766162, 'accuracy': 0.9739229671897289, 'tn': 33866, 'fp': 483, 'fn': 431, 'tp': 270, 'precision': 0.35856573705179284, 'recall': 0.38516405135520687}]
+Aggregated results before taking average:
+{'f1': [0.3669112741827885, 0.36964980544747084, 0.38121170864533693, 0.37926136363636365, 0.3713892709766162], 'accuracy': [0.9729243937232525, 0.9722681883024251, 0.9740656205420828, 0.9750641940085591, 0.9739229671897289], 'tn': [33826, 33793, 33861, 33909, 33866], 'fp': [523, 556, 488, 440, 483], 'fn': [426, 416, 421, 434, 431], 'tp': [275, 285, 280, 267, 270], 'precision': [0.34461152882205515, 0.3388822829964328, 0.3645833333333333, 0.37765205091937765, 0.35856573705179284], 'recall': [0.39229671897289586, 0.4065620542082739, 0.39942938659058486, 0.38088445078459343, 0.38516405135520687]}
+Aggregated results after taking average:
+{'f1': '0.374±0.006', 'accuracy': '0.974±0.001', 'tn': '33851.000±39.187', 'fp': '498.000±39.187', 'fn': '425.600±6.530', 'tp': '275.400±6.530', 'precision': '0.357±0.014', 'recall': '0.393±0.009'}
+num_iterations: [5]
+batch_size: [128]
+learning_rate: [0.0002]
+decay_rate: [1.0]
+ent_vec_dim: [200]
+rel_vec_dim: [30]
+input_dropout: [0.2]
+hidden_dropout1: [0.4]
+hidden_dropout2: [0.5]
+label_smoothing: [0.1]
+Loading train data...
+Loading test data...
+Training the TuckER model...
+Number of training data points: 84873
+Starting training...
+Iteration: 1
+Loss: 0.7015970701194671
+Iteration: 2
+Loss: 0.6937036492738379
+Iteration: 3
+Loss: 0.6736766064023397
+Iteration: 4
+Loss: 0.6324396765375712
+Iteration: 5
+Loss: 0.5744377755257021
+Mode: final
+Runtime error: CUDA out of memory. Tried to allocate 61.78 GiB (GPU 0; 4.00 GiB total capacity; 742.32 MiB already allocated; 2.01 GiB free; 766.00 MiB reserved in total by PyTorch) If reserved memory is >> allocated memory try setting max_split_size_mb to avoid fragmentation.  See documentation for Memory Management and PYTORCH_CUDA_ALLOC_CONF

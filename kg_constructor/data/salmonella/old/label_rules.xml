@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<rules>
+	<rule label="1">
+		<feature if="confers resistance to antibiotic" then="confers resistance to antibiotic"></feature>
+		<feature if="is upregulated by antibiotic" then="is upregulated by antibiotic"></feature>
+		<feature if="is associated with resistance to antibiotic" then="is associated with resistance to antibiotic"></feature>
+		<feature if="is mutated by antibiotic" then="is mutated by antibiotic"></feature>
+		<feature if="is associated with resistance to antibiotic" then="is associated with resistance to antibiotic"></feature>
+		<feature if="has" then="has"></feature>
+		<feature if="is involved in" then="is involved in"></feature>
+		<feature if="is part of" then="is part of"></feature>
+		<feature if="is downregulated by antibiotic" then="is downregulated by antibiotic"></feature>
+	</rule>
+	<rule label="-1">
+		<feature if="confers no resistance to antibiotic" then="confers resistance to antibiotic"></feature>
+		<feature if="is not regulated by antibiotic" then="is upregulated by antibiotic"></feature>
+		<feature if="is not mutated by antibiotic" then="is mutated by antibiotic"></feature>
+	</rule>
+</rules>

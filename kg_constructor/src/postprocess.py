@@ -331,7 +331,6 @@ def split_and_save_folds(
 
         fold += 1
 
-
 def generate_negatives(
         df,
         df_known_pos,
@@ -413,15 +412,31 @@ def generate_data_for_final_model(
         entity_dict,
         domain_range_filepath,
         hypothesis_relation,
+        corrupt_where,
+        num_negatives,
         output_dir):
     """
     Generate hypothesis.
 
     Inputs:
     """
-    df_train = df_with_label.copy()[df_with_label['Label'] == 1]
     df_domain_range = pd.read_csv(domain_range_filepath, sep='\t')
-
+    
+    df_train = df_with_label.copy()[df_with_label['Label'] == 1]
+    df_match_rel = df_train[df_train['Predicate'] == hypothesis_relation]
+    
+    df_train_with_negative = df_with_label.copy()
+    if num_negatives > 0:
+        log.info('Generating negatives for training set (final)!')
+        df_train_with_negative = generate_negatives(
+            df=df_match_rel,
+            df_known_pos=df_train,
+            df_dr=df_domain_range,
+            entity_dict=entity_dict,
+            corrupt_where=corrupt_where,
+            num_negatives=num_negatives,
+        )
+    
     df_dr_match = df_domain_range[df_domain_range['Relation'] == hypothesis_relation]
     domain_type = df_dr_match['Domain'].tolist()[0]
     range_type = df_dr_match['Range'].tolist()[0]
@@ -447,6 +462,8 @@ def generate_data_for_final_model(
 
     df_train.to_csv(
         os.path.join(final_save_dir, 'train.txt'), sep='\t', index=False, header=None)
+    df_train_with_negative.to_csv(
+        os.path.join(final_save_dir, 'train_with_negative.txt'), sep='\t', index=False, header=None)
     df_hypothesis.to_csv(
         os.path.join(final_save_dir, 'test.txt'), sep='\t', index=False, header=None)
 
@@ -575,34 +592,40 @@ def main() -> None:
     )
 
     # # reformat and save the data
-    # df_with_label = add_label(
-    #     df_filepath=args.final_kg_filename,
-    #     pos_neg_relation_pairs_filepath=args.pos_neg_relation_pairs_filename,
-    #     final_kg_with_label_filepath=args.final_kg_with_label_filename,
-    # )
+    df_with_label = add_label(
+        df_filepath=args.final_kg_filename,
+        pos_neg_relation_pairs_filepath=args.pos_neg_relation_pairs_filename,
+        final_kg_with_label_filepath=args.final_kg_with_label_filename,
+    )
 
     # # split the dataset into specified folds
-    # split_and_save_folds(
-    #     df_with_label=df_with_label,
-    #     test_proportion=args.test_proportion,
-    #     num_folds=args.num_folds,
-    #     domain_range_filepath=args.domain_range_filename,
-    #     entity_dict=entity_dict,
-    #     corrupt_where=args.corrupt_where,
-    #     num_negatives=args.num_negatives,
-    #     random_state=args.random_state,
-    #     hypothesis_relation=args.hypothesis_relation,
-    #     output_dir=args.output_dir,
-    # )
+    split_and_save_folds(
+        df_with_label=df_with_label,
+        test_proportion=args.test_proportion,
+        num_folds=args.num_folds,
+        domain_range_filepath=args.domain_range_filename,
+        entity_dict=entity_dict,
+        corrupt_where=args.corrupt_where,
+        num_negatives=args.num_negatives,
+        random_state=args.random_state,
+        hypothesis_relation=args.hypothesis_relation,
+        output_dir=args.output_dir,
+    )
 
     # # save data to use for training the final model
-    # generate_data_for_final_model(
-    #     df_with_label=df_with_label,
-    #     entity_dict=entity_dict,
-    #     domain_range_filepath=args.domain_range_filename,
-    #     hypothesis_relation=args.hypothesis_relation,
-    #     output_dir=args.output_dir,
-    # )
+    generate_data_for_final_model(
+        df_with_label=df_with_label,
+        entity_dict=entity_dict,
+        domain_range_filepath=args.domain_range_filename,
+        hypothesis_relation=args.hypothesis_relation,
+        corrupt_where=args.corrupt_where,
+        num_negatives=args.num_negatives,
+        output_dir=args.output_dir,
+    )
+    
+    
+    
+    
 
     # generate OpenKE compatible data
     convert_2_openke_compatible(

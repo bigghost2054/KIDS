@@ -1,0 +1,6 @@
+Path	Source
+
+/home/bigghost/KIDS/kg_constructor/data/dataset/GO_sal/GO_sal_Feb11_Final.txt	GO_sal
+/home/bigghost/KIDS/kg_constructor/data/dataset/Salm/Sal-Ab_Feb14-Final.txt	Salm
+/home/bigghost/KIDS/kg_constructor/data/dataset/Pathogen_Detection_DB/PathogenD_db_feb15.txt	Pathogen_Detection_DB
+

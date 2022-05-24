@@ -1,0 +1,6421 @@
+Subject	Predicate	Object
+rtsB	represses	STM14_2791
+rtsB	represses	STM14_5355
+rtsB	represses	STM14_2071
+rtsB	represses	STM14_0643
+rtsB	represses	STM14_5356
+rtsB	represses	STM14_5357
+rtsB	represses	STM14_5358
+rtsB	represses	STM14_5359
+rtsB	represses	STM14_5360
+rtsB	represses	STM14_5361
+rtsB	represses	STM14_0650
+rtsB	represses	STM14_1514
+rtsB	represses	STM14_1803
+rtsB	represses	STM14_2168
+rtsB	represses	STM14_1939
+rtsB	represses	STM14_5055
+rtsB	represses	STM14_4725
+rtsB	represses	STM14_1512
+rtsB	represses	STM14_1767
+rtsB	represses	STM14_4890
+rtsB	represses	STM14_0740
+rtsB	represses	STM14_1587
+rtsB	represses	STM14_1805
+rtsB	represses	STM14_3784
+rtsB	represses	STM14_4531
+rtsB	represses	STM14_0051
+rtsB	represses	STM14_2167
+rtsB	represses	STM14_3785
+rtsB	represses	STM14_0902
+rtsB	represses	STM14_4889
+rtsB	represses	STM14_0187
+rtsB	represses	STM14_3662
+rtsB	represses	STM14_1564
+rtsB	represses	STM14_2236
+rtsB	represses	STM14_1001
+rtsB	represses	STM14_2291
+rtsB	represses	STM14_3319
+rtsB	represses	STM14_4801
+rtsB	represses	STM14_1790
+rtsB	represses	STM14_1513
+rtsB	represses	STM14_5414
+rtsB	represses	STM14_3817
+rtsB	represses	STM14_2323
+rtsB	represses	STM14_5186
+rtsB	represses	STM14_1243
+rtsB	represses	STM14_5185
+rtsB	represses	STM14_2856
+rtsB	represses	STM14_3372
+rtsB	represses	STM14_3700
+rtsB	represses	STM14_4378
+rtsB	represses	STM14_5154
+rtsB	represses	STM14_5273
+rtsB	represses	STM14_5413
+rtsB	represses	STM14_5431
+rtsB	represses	STM14_2379
+rtsB	represses	STM14_0816
+rtsB	represses	STM14_0819
+rtsB	represses	STM14_5118
+rtsB	represses	STM14_2674
+rtsB	represses	STM14_2339
+rtsB	represses	STM14_3340
+rtsB	represses	STM14_3835
+rtsB	represses	STM14_5415
+rtsB	represses	STM14_4510
+rtsB	represses	STM14_3121
+rtsB	represses	STM14_1578
+rtsB	represses	STM14_5117
+rtsB	represses	STM14_3122
+rtsB	represses	STM14_2951
+rtsB	represses	STM14_5362
+rtsB	represses	STM14_3893
+rtsB	represses	STM14_3343
+rtsB	represses	STM14_5545
+rtsB	represses	STM14_5569
+hilA	represses	STM14_1288
+hilA	represses	STM14_0446
+hilA	represses	STM14_2975
+hilA	represses	STM14_3691
+hilA	represses	STM14_4801
+hilA	represses	STM14_5026
+hilA	represses	STM14_2004
+hilA	represses	STM14_0819
+hilA	represses	STM14_0102
+hilA	represses	STM14_0105
+hilA	represses	STM14_0225
+hilA	represses	STM14_0536
+hilA	represses	STM14_0610
+hilA	represses	STM14_1093
+hilA	represses	STM14_1356
+hilA	represses	STM14_1950
+hilA	represses	STM14_2133
+hilA	represses	STM14_2160
+hilA	represses	STM14_2187
+hilA	represses	STM14_2264
+hilA	represses	STM14_2293
+hilA	represses	STM14_4182
+hilA	represses	STM14_4696
+hilA	represses	STM14_4889
+hilA	represses	STM14_4951
+hilA	represses	STM14_5116
+hilA	represses	STM14_5468
+hilA	represses	STM14_969
+hilA	represses	STM14_1001
+hilA	represses	STM14_2276
+hilA	represses	STM14_2834
+hilA	represses	STM14_1902
+hilA	represses	STM14_1978
+hilA	represses	STM14_2151
+hilA	represses	STM14_2856
+hilA	represses	STM14_3063
+hilA	represses	STM14_3197
+hilA	represses	STM14_3259
+hilA	represses	STM14_4497
+hilA	represses	STM14_4578
+hilA	represses	STM14_5063
+hilA	represses	STM14_986
+hilA	represses	STM14_1587
+hilA	represses	STM14_3838
+hilA	represses	STM14_3784
+hilA	represses	STM14_0659
+hilA	represses	STM14_1131
+hilA	represses	STM14_3219
+hilA	represses	STM14_0038
+hilA	represses	STM14_0051
+hilA	represses	STM14_0361
+hilA	represses	STM14_0403
+hilA	represses	STM14_0406
+hilA	represses	STM14_0420
+hilA	represses	STM14_0528
+hilA	represses	STM14_0650
+hilA	represses	STM14_0714
+hilA	represses	STM14_0893
+hilA	represses	STM14_1053
+hilA	represses	STM14_1189
+hilA	represses	STM14_1290
+hilA	represses	STM14_1291
+hilA	represses	STM14_1326
+hilA	represses	STM14_1327
+hilA	represses	STM14_1376
+hilA	represses	STM14_1502
+hilA	represses	STM14_1828
+hilA	represses	STM14_1831
+hilA	represses	STM14_1867
+hilA	represses	STM14_1913
+hilA	represses	STM14_1980
+hilA	represses	STM14_1994
+hilA	represses	STM14_2222
+hilA	represses	STM14_2313
+hilA	represses	STM14_2561
+hilA	represses	STM14_2759
+hilA	represses	STM14_2798
+hilA	represses	STM14_2952
+hilA	represses	STM14_3081
+hilA	represses	STM14_3260
+hilA	represses	STM14_3312
+hilA	represses	STM14_3421
+hilA	represses	STM14_3508
+hilA	represses	STM14_3645
+hilA	represses	STM14_3690
+hilA	represses	STM14_3723
+hilA	represses	STM14_4269
+hilA	represses	STM14_4376
+hilA	represses	STM14_4378
+hilA	represses	STM14_4427
+hilA	represses	STM14_4437
+hilA	represses	STM14_4521
+hilA	represses	STM14_4630
+hilA	represses	STM14_4641
+hilA	represses	STM14_4856
+hilA	represses	STM14_4886
+hilA	represses	STM14_4931
+hilA	represses	STM14_4934
+hilA	represses	STM14_4950
+hilA	represses	STM14_4993
+hilA	represses	STM14_5084
+hilA	represses	STM14_5175
+hilA	represses	STM14_5396
+hilA	represses	STM14_5433
+hilA	represses	STM14_940
+hilA	represses	STM14_5532
+hilA	represses	STM14_5565
+sprB	represses	STM14_2854
+sprB	represses	STM14_4558
+sprB	represses	STM14_4950
+sprB	represses	STM14_2133
+sprB	represses	STM14_4951
+sprB	represses	STM14_4343
+sprB	represses	STM14_5413
+sprB	represses	STM14_1216
+sprB	represses	STM14_1289
+sprB	represses	STM14_2834
+sprB	represses	STM14_3341
+sprB	represses	STM14_3700
+sprB	represses	STM14_4167
+sprB	represses	STM14_967
+sprB	represses	STM14_1522
+sprB	represses	STM14_0076
+sprB	represses	STM14_0446
+sprB	represses	STM14_0597
+sprB	represses	STM14_1356
+sprB	represses	STM14_1510
+sprB	represses	STM14_2015
+sprB	represses	STM14_2148
+sprB	represses	STM14_2158
+sprB	represses	STM14_2822
+sprB	represses	STM14_2856
+sprB	represses	STM14_2955
+sprB	represses	STM14_3063
+sprB	represses	STM14_3300
+sprB	represses	STM14_3525
+sprB	represses	STM14_3642
+sprB	represses	STM14_3690
+sprB	represses	STM14_3773
+sprB	represses	STM14_3783
+sprB	represses	STM14_3897
+sprB	represses	STM14_4416
+sprB	represses	STM14_5018
+sprB	represses	STM14_5190
+sprB	represses	STM14_5362
+sprB	represses	STM14_5451
+sprB	represses	STM14_5355
+sprB	represses	STM14_0819
+sprB	represses	STM14_0181
+sprB	represses	STM14_0420
+sprB	represses	STM14_5356
+sprB	represses	STM14_3155
+sprB	represses	STM14_5063
+sprB	represses	STM14_1514
+sprB	represses	STM14_1513
+sprB	represses	STM14_5455
+sprB	represses	STM14_3784
+sprB	represses	STM14_0384
+sprB	represses	STM14_0165
+sprB	represses	STM14_0179
+sprB	represses	STM14_0317
+sprB	represses	STM14_0337
+sprB	represses	STM14_0424
+sprB	represses	STM14_0714
+sprB	represses	STM14_1530
+sprB	represses	STM14_2791
+sprB	represses	STM14_3960
+sprB	represses	STM14_4742
+sprB	represses	STM14_5002
+sprB	represses	STM14_989
+sprB	represses	STM14_1587
+sprB	represses	STM14_2811
+sprB	represses	STM14_0816
+sprB	represses	STM14_0573
+sprB	represses	STM14_1479
+sprB	represses	STM14_1528
+sprB	represses	STM14_5401
+sprB	represses	STM14_4938
+sprB	represses	STM14_1167
+sprB	represses	STM14_2004
+sprB	represses	STM14_2671
+sprB	represses	STM14_0178
+sprB	represses	STM14_5357
+sprB	represses	STM14_5359
+sprB	represses	STM14_1261
+sprB	represses	STM14_3107
+sprB	represses	STM14_5452
+sprB	represses	STM14_1273
+sprB	represses	STM14_0051
+sprB	represses	STM14_1293
+sprB	represses	STM14_4801
+sprB	represses	STM14_2189
+sprB	represses	STM14_4562
+sprB	represses	STM14_1283
+sprB	represses	STM14_5360
+sprB	represses	STM14_2738
+sprB	represses	STM14_5449
+sprB	represses	STM14_5361
+sprB	represses	STM14_5358
+sprB	represses	STM14_3382
+sprB	represses	STM14_1849
+sprB	represses	STM14_0177
+sprB	represses	STM14_2881
+sprB	represses	STM14_0012
+sprB	represses	STM14_0019
+sprB	represses	STM14_0027
+sprB	represses	STM14_0314
+sprB	represses	STM14_0329
+sprB	represses	STM14_0331
+sprB	represses	STM14_0412
+sprB	represses	STM14_0843
+sprB	represses	STM14_0844
+sprB	represses	STM14_1034
+sprB	represses	STM14_1141
+sprB	represses	STM14_1147
+sprB	represses	STM14_1160
+sprB	represses	STM14_1169
+sprB	represses	STM14_1453
+sprB	represses	STM14_1557
+sprB	represses	STM14_1572
+sprB	represses	STM14_1636
+sprB	represses	STM14_1784
+sprB	represses	STM14_1821
+sprB	represses	STM14_1848
+sprB	represses	STM14_1864
+sprB	represses	STM14_1902
+sprB	represses	STM14_2169
+sprB	represses	STM14_2180
+sprB	represses	STM14_2264
+sprB	represses	STM14_2268
+sprB	represses	STM14_2272
+sprB	represses	STM14_2293
+sprB	represses	STM14_2490
+sprB	represses	STM14_2710
+sprB	represses	STM14_2815
+sprB	represses	STM14_2889
+sprB	represses	STM14_2940
+sprB	represses	STM14_3100
+sprB	represses	STM14_3119
+sprB	represses	STM14_3144
+sprB	represses	STM14_3230
+sprB	represses	STM14_3331
+sprB	represses	STM14_3362
+sprB	represses	STM14_3363
+sprB	represses	STM14_3464
+sprB	represses	STM14_3510
+sprB	represses	STM14_3579
+sprB	represses	STM14_3645
+sprB	represses	STM14_3661
+sprB	represses	STM14_3662
+sprB	represses	STM14_3691
+sprB	represses	STM14_3759
+sprB	represses	STM14_3838
+sprB	represses	STM14_3959
+sprB	represses	STM14_4069
+sprB	represses	STM14_4074
+sprB	represses	STM14_4224
+sprB	represses	STM14_4325
+sprB	represses	STM14_4336
+sprB	represses	STM14_4376
+sprB	represses	STM14_4458
+sprB	represses	STM14_4497
+sprB	represses	STM14_4540
+sprB	represses	STM14_4549
+sprB	represses	STM14_4811
+sprB	represses	STM14_4856
+sprB	represses	STM14_4875
+sprB	represses	STM14_5047
+sprB	represses	STM14_5175
+sprB	represses	STM14_5273
+sprB	represses	STM14_5313
+sprB	represses	STM14_5429
+sprB	represses	STM14_5584
+invF	represses	STM14_5582
+invF	represses	STM14_5584
+invF	represses	STM14_0039
+invF	represses	STM14_0310
+invF	represses	STM14_0345
+invF	represses	STM14_0405
+invF	represses	STM14_0406
+invF	represses	STM14_0653
+invF	represses	STM14_0714
+invF	represses	STM14_0840
+invF	represses	STM14_0844
+invF	represses	STM14_1137
+invF	represses	STM14_1153
+invF	represses	STM14_1160
+invF	represses	STM14_1190
+invF	represses	STM14_1198
+invF	represses	STM14_1292
+invF	represses	STM14_1356
+invF	represses	STM14_1376
+invF	represses	STM14_1496
+invF	represses	STM14_1500
+invF	represses	STM14_1831
+invF	represses	STM14_1904
+invF	represses	STM14_1914
+invF	represses	STM14_1961
+invF	represses	STM14_1978
+invF	represses	STM14_1980
+invF	represses	STM14_2014
+invF	represses	STM14_2061
+invF	represses	STM14_2115
+invF	represses	STM14_2160
+invF	represses	STM14_2254
+invF	represses	STM14_2264
+invF	represses	STM14_2271
+invF	represses	STM14_2272
+invF	represses	STM14_2710
+invF	represses	STM14_2823
+invF	represses	STM14_2854
+invF	represses	STM14_2872
+invF	represses	STM14_2925
+invF	represses	STM14_2975
+invF	represses	STM14_3032
+invF	represses	STM14_3069
+invF	represses	STM14_3079
+invF	represses	STM14_3154
+invF	represses	STM14_3168
+invF	represses	STM14_3169
+invF	represses	STM14_3295
+invF	represses	STM14_3331
+invF	represses	STM14_3662
+invF	represses	STM14_3726
+invF	represses	STM14_3757
+invF	represses	STM14_3959
+invF	represses	STM14_4224
+invF	represses	STM14_4229
+invF	represses	STM14_4343
+invF	represses	STM14_4378
+invF	represses	STM14_4485
+invF	represses	STM14_4501
+invF	represses	STM14_4540
+invF	represses	STM14_4768
+invF	represses	STM14_4874
+invF	represses	STM14_4876
+invF	represses	STM14_4931
+invF	represses	STM14_4953
+invF	represses	STM14_4993
+invF	represses	STM14_5050
+invF	represses	STM14_5051
+invF	represses	STM14_5175
+invF	represses	STM14_5212
+invF	represses	STM14_5362
+invF	represses	STM14_5431
+invF	represses	STM14_5462
+invF	represses	STM14_5496
+invF	represses	STM14_5516
+invF	represses	STM14_967
+rtsA	represses	STM14_5547
+rtsA	represses	STM14_0420
+rtsA	represses	STM14_0740
+rtsA	represses	STM14_1593
+rtsA	represses	STM14_1816
+rtsA	represses	STM14_0012
+rtsA	represses	STM14_0039
+rtsA	represses	STM14_0076
+rtsA	represses	STM14_0102
+rtsA	represses	STM14_0310
+rtsA	represses	STM14_0332
+rtsA	represses	STM14_0345
+rtsA	represses	STM14_0361
+rtsA	represses	STM14_0562
+rtsA	represses	STM14_0599
+rtsA	represses	STM14_06230
+rtsA	represses	STM14_0645
+rtsA	represses	STM14_0659
+rtsA	represses	STM14_0660
+rtsA	represses	STM14_0671
+rtsA	represses	STM14_0714
+rtsA	represses	STM14_0726
+rtsA	represses	STM14_0783
+rtsA	represses	STM14_0888
+rtsA	represses	STM14_1161
+rtsA	represses	STM14_1279
+rtsA	represses	STM14_1280
+rtsA	represses	STM14_1292
+rtsA	represses	STM14_1502
+rtsA	represses	STM14_1526
+rtsA	represses	STM14_1533
+rtsA	represses	STM14_1550
+rtsA	represses	STM14_1557
+rtsA	represses	STM14_1587
+rtsA	represses	STM14_1658
+rtsA	represses	STM14_1786
+rtsA	represses	STM14_1831
+rtsA	represses	STM14_1864
+rtsA	represses	STM14_1975
+rtsA	represses	STM14_1978
+rtsA	represses	STM14_1980
+rtsA	represses	STM14_1994
+rtsA	represses	STM14_2015
+rtsA	represses	STM14_2061
+rtsA	represses	STM14_2073
+rtsA	represses	STM14_2180
+rtsA	represses	STM14_2251
+rtsA	represses	STM14_2267
+rtsA	represses	STM14_2293
+rtsA	represses	STM14_2366
+rtsA	represses	STM14_2419
+rtsA	represses	STM14_2470
+rtsA	represses	STM14_2490
+rtsA	represses	STM14_2501
+rtsA	represses	STM14_2619
+rtsA	represses	STM14_2660
+rtsA	represses	STM14_2726
+rtsA	represses	STM14_2759
+rtsA	represses	STM14_2766
+rtsA	represses	STM14_2823
+rtsA	represses	STM14_2834
+rtsA	represses	STM14_2856
+rtsA	represses	STM14_2902
+rtsA	represses	STM14_2977
+rtsA	represses	STM14_3069
+rtsA	represses	STM14_3107
+rtsA	represses	STM14_3169
+rtsA	represses	STM14_3205
+rtsA	represses	STM14_3206
+rtsA	represses	STM14_3314
+rtsA	represses	STM14_3385
+rtsA	represses	STM14_3431
+rtsA	represses	STM14_3579
+rtsA	represses	STM14_3700
+rtsA	represses	STM14_3712
+rtsA	represses	STM14_3757
+rtsA	represses	STM14_3872
+rtsA	represses	STM14_4023
+rtsA	represses	STM14_4074
+rtsA	represses	STM14_4207
+rtsA	represses	STM14_4213
+rtsA	represses	STM14_4261
+rtsA	represses	STM14_4269
+rtsA	represses	STM14_4343
+rtsA	represses	STM14_4519
+rtsA	represses	STM14_4582
+rtsA	represses	STM14_4595
+rtsA	represses	STM14_4658
+rtsA	represses	STM14_4696
+rtsA	represses	STM14_4741
+rtsA	represses	STM14_4808
+rtsA	represses	STM14_4856
+rtsA	represses	STM14_4874
+rtsA	represses	STM14_4889
+rtsA	represses	STM14_4894
+rtsA	represses	STM14_4914
+rtsA	represses	STM14_4931
+rtsA	represses	STM14_4938
+rtsA	represses	STM14_5018
+rtsA	represses	STM14_5020
+rtsA	represses	STM14_5044
+rtsA	represses	STM14_5131
+rtsA	represses	STM14_5168
+rtsA	represses	STM14_5175
+rtsA	represses	STM14_5309
+rtsA	represses	STM14_5362
+rtsA	represses	STM14_5367
+rtsA	represses	STM14_5410
+rtsA	represses	STM14_5431
+rtsA	represses	STM14_940
+rtsA	represses	STM14_967
+rtsA	represses	STM14_997
+rtsA	represses	STM14_5547
+hilC	represses	STM14_5606
+hilC	represses	STM14_5152
+hilC	represses	STM14_0361
+hilC	represses	STM14_2271
+hilC	represses	STM14_3800
+hilC	represses	STM14_0019
+hilC	represses	STM14_0046
+hilC	represses	STM14_0064
+hilC	represses	STM14_0536
+hilC	represses	STM14_0597
+hilC	represses	STM14_0820
+hilC	represses	STM14_0826
+hilC	represses	STM14_1002
+hilC	represses	STM14_1390
+hilC	represses	STM14_1476
+hilC	represses	STM14_2222
+hilC	represses	STM14_2257
+hilC	represses	STM14_2387
+hilC	represses	STM14_2632
+hilC	represses	STM14_2952
+hilC	represses	STM14_3169
+hilC	represses	STM14_3197
+hilC	represses	STM14_3205
+hilC	represses	STM14_3312
+hilC	represses	STM14_3662
+hilC	represses	STM14_3665
+hilC	represses	STM14_3704
+hilC	represses	STM14_3713
+hilC	represses	STM14_3773
+hilC	represses	STM14_4185
+hilC	represses	STM14_4875
+hilC	represses	STM14_5225
+hilC	represses	STM14_5396
+hilC	represses	STM14_5212
+hilC	represses	STM14_3822
+hilC	represses	STM14_1294
+hilC	represses	STM14_3821
+hilC	represses	STM14_4325
+hilC	represses	STM14_3220
+hilC	represses	STM14_2854
+hilC	represses	STM14_1001
+hilC	represses	STM14_3230
+hilC	represses	STM14_0420
+hilC	represses	STM14_3398
+hilC	represses	STM14_0012
+hilC	represses	STM14_0165
+hilC	represses	STM14_1153
+hilC	represses	STM14_1216
+hilC	represses	STM14_1975
+hilC	represses	STM14_2276
+hilC	represses	STM14_2834
+hilC	represses	STM14_3314
+hilC	represses	STM14_4340
+hilC	represses	STM14_5125
+hilC	represses	STM14_4501
+hilC	represses	STM14_5047
+hilC	represses	STM14_0819
+hilC	represses	STM14_3069
+hilC	represses	STM14_5362
+hilC	represses	STM14_4437
+hilD	represses	STM14_5548
+hilD	represses	STM14_5570
+hilD	represses	STM14_5582
+hilD	represses	STM14_4895
+hilD	represses	STM14_4905
+hilD	represses	STM14_0420
+hilD	represses	STM14_1923
+hilD	represses	STM14_0419
+hilD	represses	STM14_1484
+hilD	represses	STM14_2049
+hilD	represses	STM14_2726
+hilD	represses	STM14_3774
+hilD	represses	STM14_4521
+hilD	represses	STM14_0422
+hilD	represses	STM14_5454
+hilD	represses	STM14_3398
+hilD	represses	STM14_2187
+hilD	represses	STM14_4336
+hilD	represses	STM14_0451
+hilD	represses	STM14_5450
+hilD	represses	STM14_2952
+hilD	represses	STM14_0740
+hilD	represses	STM14_5453
+hilD	represses	STM14_5449
+hilD	represses	STM14_1307
+hilD	represses	STM14_2189
+hilD	represses	STM14_2128
+hilD	represses	STM14_0424
+hilD	represses	STM14_0653
+hilD	represses	STM14_2115
+hilD	represses	STM14_2470
+hilD	represses	STM14_2925
+hilD	represses	STM14_3196
+hilD	represses	STM14_3362
+hilD	represses	STM14_4800
+hilD	represses	STM14_4867
+hilD	represses	STM14_4934
+hilD	represses	STM14_5125
+hilD	represses	STM14_5413
+hilD	represses	STM14_1884
+hilD	represses	STM14_0633
+hilD	represses	STM14_2680
+hilD	represses	STM14_3803
+hilD	represses	STM14_5452
+hilD	represses	STM14_4770
+hilD	represses	STM14_4552
+hilD	represses	STM14_1102
+hilD	represses	STM14_3960
+hilD	represses	STM14_1601
+hilD	represses	STM14_1162
+hilD	represses	STM14_1831
+hilD	represses	STM14_5451
+hilD	represses	STM14_5455
+hilD	represses	STM14_0449
+hilD	represses	STM14_3365
+hilD	represses	STM14_0423
+hilD	represses	STM14_2389
+hilD	represses	STM14_2651
+hilD	represses	STM14_0384
+hilD	represses	STM14_3253
+hilD	represses	STM14_4556
+hilD	represses	STM14_1038
+hilD	represses	STM14_1442
+hilD	represses	STM14_4501
+hilD	represses	STM14_4808
+hilD	represses	STM14_4909
+hilD	represses	STM14_2209
+hilD	represses	STM14_3378
+hilD	represses	STM14_4553
+hilD	represses	STM14_1849
+hilD	represses	STM14_3273
+hilD	represses	STM14_1751
+hilD	represses	STM14_4740
+hilD	represses	STM14_3217
+hilD	represses	STM14_2888
+hilD	represses	STM14_4167
+hilD	represses	STM14_1261
+hilD	represses	STM14_1914
+hilD	represses	STM14_3331
+hilD	represses	STM14_1154
+hilD	represses	STM14_2640
+hilD	represses	STM14_1952
+hilD	represses	STM14_2456
+hilD	represses	STM14_1964
+hilD	represses	STM14_1530
+hilD	represses	STM14_1602
+hilD	represses	STM14_4500
+hilD	represses	STM14_2424
+hilD	represses	STM14_0343
+hilD	represses	STM14_1522
+hilD	represses	STM14_0498
+hilD	represses	STM14_1550
+hilD	represses	STM14_3773
+hilD	represses	STM14_4325
+hilD	represses	STM14_4801
+hilD	represses	STM14_2745
+hilD	represses	STM14_1361
+hilD	represses	STM14_0051
+hilD	represses	STM14_2466
+hilD	represses	STM14_2773
+hilD	represses	STM14_5430
+hilD	represses	STM14_3304
+hilD	represses	STM14_4519
+hilD	represses	STM14_1289
+hilD	represses	STM14_1290
+hilD	represses	STM14_1960
+hilD	represses	STM14_5479
+hilD	represses	STM14_1803
+hilD	represses	STM14_2484
+hilD	represses	STM14_0450
+hilD	represses	STM14_3155
+hilD	represses	STM14_0665
+hilD	represses	STM14_4914
+hilD	represses	STM14_1883
+hilD	represses	STM14_3944
+hilD	represses	STM14_4595
+hilD	represses	STM14_5402
+hilD	represses	STM14_1068
+hilD	represses	STM14_2267
+hilD	represses	STM14_5033
+hilD	represses	STM14_5404
+hilD	represses	STM14_5096
+hilD	represses	STM14_4051
+hilD	represses	STM14_1932
+hilD	represses	STM14_0421
+hilD	represses	STM14_4563
+hilD	represses	STM14_1872
+hilD	represses	STM14_1183
+hilD	represses	STM14_1882
+hilD	represses	STM14_0047
+hilD	represses	STM14_1483
+hilD	represses	STM14_0026
+hilD	represses	STM14_0039
+hilD	represses	STM14_0179
+hilD	represses	STM14_0336
+hilD	represses	STM14_0386
+hilD	represses	STM14_0464
+hilD	represses	STM14_0894
+hilD	represses	STM14_1000
+hilD	represses	STM14_1152
+hilD	represses	STM14_1161
+hilD	represses	STM14_1167
+hilD	represses	STM14_1280
+hilD	represses	STM14_1327
+hilD	represses	STM14_1390
+hilD	represses	STM14_1784
+hilD	represses	STM14_1975
+hilD	represses	STM14_2276
+hilD	represses	STM14_2701
+hilD	represses	STM14_2975
+hilD	represses	STM14_2977
+hilD	represses	STM14_3165
+hilD	represses	STM14_3364
+hilD	represses	STM14_3704
+hilD	represses	STM14_3837
+hilD	represses	STM14_3959
+hilD	represses	STM14_4439
+hilD	represses	STM14_4825
+hilD	represses	STM14_4875
+hilD	represses	STM14_5025
+hilD	represses	STM14_5026
+hilD	represses	STM14_5031
+hilD	represses	STM14_5046
+hilD	represses	STM14_5052
+hilD	represses	STM14_5111
+hilD	represses	STM14_5333
+hilD	represses	STM14_5347
+hilD	represses	STM14_5362
+hilD	represses	STM14_5496
+hilD	represses	STM14_5516
+sprB	represses	abrB
+hilD	represses	abrB
+hilD	represses	aceA
+hilD	represses	aceB
+hilD	represses	acs
+hilD	represses	actP
+rtsB	represses	adhP
+sprB	represses	adiY
+rtsB	represses	aer
+hilD	represses	alaW
+hilD	represses	alaX
+sprB	represses	ansB
+hilD	represses	ansB
+sprB	represses	argD_1
+hilD	represses	argD_1
+rtsB	represses	argS
+hilD	represses	argT
+rtsB	represses	arnT
+rtsB	represses	aroG
+rtsB	represses	asnS
+hilD	represses	astA
+hilD	represses	astB
+hilD	represses	astD
+hilD	represses	astE
+rtsB	represses	atpA
+rtsB	represses	atpC
+rtsB	represses	atpD
+rtsB	represses	atpF
+rtsB	represses	atpG
+sprB	represses	bcfF
+invF	represses	bcfF
+hilD	represses	bcfH
+hilD	represses	bioA
+rtsA	represses	bioB
+hilC	represses	bioB
+rtsB	represses	bisC
+rtsB	represses	bssR
+rtsB	represses	bssS
+hilD	represses	bssS
+hilD	represses	ccmC_1
+hilD	represses	ccmC_2
+hilD	represses	chbA
+rtsB	represses	cheA
+rtsB	represses	cheB
+rtsB	represses	cheM
+rtsB	represses	cheR
+rtsB	represses	cheW
+rtsB	represses	cheY
+rtsB	represses	cheZ
+sprB	represses	citB
+hilC	represses	citB
+hilD	represses	citB
+hilA	represses	citC2
+sprB	represses	citC2
+invF	represses	citC2
+rtsA	represses	citT
+invF	represses	csgB
+rtsA	represses	csgC
+hilD	represses	csgD
+sprB	represses	csgE
+hilC	represses	csgE
+hilA	represses	csgF
+invF	represses	csgF
+hilC	represses	csgF
+hilD	represses	csiE
+hilD	represses	cyoA
+hilD	represses	cysI
+hilD	represses	dadA
+hilD	represses	dadX
+rtsB	represses	damX
+hilA	represses	dcoC
+sprB	represses	dcoC
+hilA	represses	dgoT
+rtsB	represses	dnaN
+hilD	represses	dppB
+hilD	represses	dsrB
+rtsB	represses	eco
+sprB	represses	ego
+hilD	represses	ego
+rtsB	represses	eno
+sprB	represses	entD
+hilD	represses	entD
+hilD	represses	envZ
+sprB	represses	eutB
+sprB	represses	eutC
+rtsB	represses	eutD
+sprB	represses	eutD
+invF	represses	eutD
+hilC	represses	eutD
+hilD	represses	eutD
+sprB	represses	eutE
+hilD	represses	eutE
+sprB	represses	eutG
+invF	represses	eutG
+hilD	represses	eutG
+sprB	represses	eutH
+hilD	represses	eutH
+hilD	represses	eutJ
+sprB	represses	eutM
+hilC	represses	eutM
+hilD	represses	eutM
+sprB	represses	eutN
+hilC	represses	eutN
+hilD	represses	eutN
+rtsB	represses	eutP
+sprB	represses	eutP
+invF	represses	eutP
+hilC	represses	eutP
+hilD	represses	eutP
+sprB	represses	eutQ
+sprB	represses	eutR
+sprB	represses	eutS
+hilD	represses	eutS
+sprB	represses	eutT
+hilC	represses	eutT
+hilD	represses	eutT
+hilD	represses	fadA
+hilD	represses	fadB
+hilD	represses	fadE
+hilD	represses	fadH
+hilD	represses	fadI
+rtsB	represses	fdx
+rtsB	represses	fepE
+sprB	represses	fepG
+rtsB	represses	fimA
+rtsB	represses	fimC
+rtsB	represses	fimD
+rtsB	represses	fimF
+rtsB	represses	sfmH
+rtsB	represses	fimI
+rtsB	represses	fimW
+rtsB	represses	fimY
+rtsB	represses	fimZ
+sprB	represses	fimZ
+hilA	represses	fixC
+sprB	represses	fixC
+invF	represses	fixC
+rtsB	represses	flgB
+rtsB	represses	flgC
+rtsB	represses	flgD
+rtsB	represses	flgE
+rtsB	represses	flgF
+rtsB	represses	flgG
+rtsB	represses	flgH
+rtsB	represses	flgI
+rtsB	represses	flgJ
+rtsB	represses	flgK
+rtsB	represses	flgL
+rtsB	represses	flgM
+rtsB	represses	flgN
+rtsB	represses	flhB
+rtsB	represses	flhC
+rtsB	represses	flhD
+rtsB	represses	fliA
+rtsB	represses	fliB
+rtsB	represses	fliC
+rtsB	represses	fliD
+rtsB	represses	fliF
+rtsB	represses	fliG
+rtsB	represses	fliH
+rtsB	represses	fliI
+rtsB	represses	fliJ
+rtsB	represses	fliK
+rtsB	represses	fliL
+rtsB	represses	fliM
+rtsB	represses	fliO
+sprB	represses	fliQ
+sprB	represses	fliR
+invF	represses	fliR
+rtsB	represses	fliS
+rtsB	represses	fliT
+rtsB	represses	fliZ
+sprB	represses	fljA
+invF	represses	fljA
+rtsB	represses	fljB
+rtsB	represses	frr
+rtsB	represses	fruA
+rtsB	represses	fruB
+rtsB	represses	fruK
+sprB	represses	fsr
+rtsB	represses	ftnB
+sprB	represses	fucK
+hilD	represses	fumC
+rtsB	represses	fusA
+sprB	represses	gabD
+hilD	represses	gabD
+hilD	represses	gabT
+sprB	represses	gatY_1
+sprB	represses	gatY_2
+sprB	represses	hyi
+hilD	represses	glgS
+invF	represses	glnK
+rtsB	represses	glpA
+hilA	represses	glpA
+sprB	represses	glpA
+invF	represses	glpA
+rtsA	represses	glpA
+hilC	represses	glpA
+hilD	represses	glpA
+sprB	represses	glpB
+rtsA	represses	glpB
+hilD	represses	glpB
+hilD	represses	glpC
+hilD	represses	glpK
+hilD	represses	glpQ
+hilD	represses	gltI
+hilD	represses	gltJ
+hilD	represses	gltK
+sprB	represses	gltL
+hilD	represses	gltL
+rtsB	represses	gltS
+rtsA	represses	glxR
+sprB	represses	gntK
+rtsB	represses	hemA
+hilA	represses	hemA
+hilD	represses	guaC
+hilD	represses	hin
+hilD	represses	hns
+hilD	represses	hofC
+hilA	represses	hopD
+sprB	represses	hpaA
+hilD	represses	hpaF
+hilD	represses	hpaG
+sprB	represses	hpaI
+rtsB	represses	hscA
+rtsB	represses	hscB
+rtsB	represses	hsdS
+hilA	represses	htgA
+hilD	represses	hutH
+rtsB	represses	hycD
+rtsB	represses	hycE
+rtsB	represses	hycF
+rtsB	represses	hycG
+hilD	represses	iclR
+sprB	represses	idnR
+rtsB	represses	infB
+rtsB	represses	iroB
+sprB	represses	iroB
+sprB	represses	iroD
+hilA	represses	kdpA
+sprB	represses	kdpA
+invF	represses	kdpA
+hilD	represses	kdpA
+sprB	represses	kdpB
+rtsA	represses	kdpB
+rtsB	represses	ldcC
+hilA	represses	leuO
+hilD	represses	lldD
+hilD	represses	lldP
+hilD	represses	lldR
+rtsB	represses	lolD
+hilD	represses	lpfB
+hilC	represses	lpfE
+hilD	represses	lysA
+hilD	represses	lysC
+rtsB	represses	malE
+sprB	represses	malF
+rtsA	represses	malF
+rtsB	represses	malK
+sprB	represses	cpsB
+sprB	represses	marA
+sprB	represses	marB
+sprB	represses	marR
+rtsB	represses	mazG
+hilD	represses	metA
+hilD	represses	metB
+hilD	represses	metF
+hilD	represses	metR
+sprB	represses	mglA
+hilD	represses	mglA
+sprB	represses	mglC
+rtsA	represses	mgtB
+invF	represses	micF
+rtsA	represses	misL
+rtsB	represses	motA
+rtsB	represses	motB
+hilD	represses	msyB
+hilD	represses	mutT
+rtsB	represses	umpH
+hilD	represses	nanK
+rtsB	represses	napA
+rtsB	represses	napD
+rtsB	represses	napF
+rtsA	represses	narK
+sprB	represses	narU
+hilD	represses	narU
+sprB	represses	nemA
+rtsB	represses	nifS
+rtsB	represses	nrdG
+hilD	represses	nrdG
+sprB	represses	nrdH
+hilD	represses	nrdH
+rtsB	represses	nrdI
+rtsA	represses	nrdI
+hilA	represses	oadA
+sprB	represses	oadA
+invF	represses	oadA
+rtsB	represses	oadG
+hilA	represses	oadG
+hilD	represses	oadG
+hilD	represses	oat
+rtsB	represses	obgE
+rtsB	represses	ompA
+sprB	represses	orf32
+sprB	represses	orf48
+rtsA	represses	orfX
+hilD	represses	orfX
+hilD	represses	osmB
+hilD	represses	osmC
+hilD	represses	otsB
+sprB	represses	parA
+hilD	represses	parA
+rtsB	represses	pbpG
+rtsB	represses	pduH
+invF	represses	pduH
+sprB	represses	pduJ
+invF	represses	pduJ
+invF	represses	pduK
+sprB	represses	pduP
+hilC	represses	pduT
+invF	represses	pduU
+rtsA	represses	pefA
+rtsA	represses	pefA
+rtsB	represses	pepB
+hilD	represses	pflC
+invF	represses	pflE
+invF	represses	phnU
+hilD	represses	phnV
+rtsB	represses	potE
+sprB	represses	potE
+hilD	represses	potF
+hilD	represses	potG
+sprB	represses	ppdA
+rtsA	represses	ppdA
+rtsB	represses	ppsA
+sprB	represses	prfH
+hilD	represses	prpR
+rtsB	represses	purB
+rtsB	represses	purD
+rtsB	represses	purF
+rtsB	represses	pyrH
+sprB	represses	rcsA
+rtsA	represses	repA2
+rtsA	represses	repA2
+rtsB	represses	rfaK
+rtsB	represses	rfbA
+rtsB	represses	rfbB
+rtsB	represses	rfbC
+rtsB	represses	rfbD
+rtsB	represses	rfbF
+rtsB	represses	rfbI
+rtsB	represses	rfbK
+rtsB	represses	rfbM
+rtsB	represses	rfbN
+rtsB	represses	rfbP
+rtsB	represses	rfbU
+rtsB	represses	rfbV
+rtsB	represses	rffG
+rtsB	represses	rplC
+rtsB	represses	rplD
+rtsB	represses	rplF
+rtsB	represses	rplJ
+rtsB	represses	rplL
+rtsB	represses	rplP
+rtsB	represses	rplS
+rtsB	represses	rplU
+rtsB	represses	rplV
+rtsB	represses	rpmA
+rtsB	represses	rpmD
+rtsB	represses	rpoB
+rtsB	represses	rprA
+sprB	represses	rprA
+rtsA	represses	rprA
+rtsB	represses	rpsC
+rtsB	represses	rpsD
+rtsB	represses	rpsS
+rtsA	represses	rrfA
+rtsB	represses	rrfB
+hilA	represses	rrfC
+rtsB	represses	rrfE
+hilA	represses	rrfE
+rtsA	represses	rrfE
+rtsA	represses	rrfG
+hilA	represses	rspA
+sprB	represses	rspA
+sprB	represses	sbp
+hilD	represses	sbp
+hilD	represses	sdhC
+rtsB	represses	sdiA
+rtsA	represses	sgbE
+sprB	represses	sgbU
+hilA	represses	sinH
+sprB	represses	sinH
+invF	represses	sinH
+sprB	represses	sinI
+sprB	represses	spaR
+rtsB	represses	speF
+hilA	represses	speF
+sprB	represses	speF
+invF	represses	speF
+hilC	represses	speF
+sprB	represses	spvB
+hilD	represses	spvB
+hilD	represses	spvC
+sprB	represses	spvD
+rtsB	represses	spvR
+rtsB	represses	srlA
+rtsB	represses	srlE
+hilD	represses	ssaQ
+rtsB	represses	sseB
+hilD	represses	stbC
+sprB	represses	stcB
+invF	represses	stcB
+rtsB	represses	stdA
+hilD	represses	stdC
+hilA	represses	stfD
+hilD	represses	stfD
+sprB	represses	stfE
+sprB	represses	stfG
+invF	represses	sthA
+sprB	represses	sthD
+hilC	represses	sthD
+hilA	represses	stiC
+sprB	represses	stiC
+hilD	represses	stiC
+hilD	represses	sufA
+hilD	represses	sufC
+rtsB	represses	suhB
+rtsB	represses	tcp
+hilD	represses	tctD
+rtsB	represses	tdcB
+hilC	represses	tdcB
+rtsB	represses	tdcC
+rtsB	represses	tdcD
+rtsB	represses	tdcE
+sprB	represses	thrA
+sprB	represses	thrB
+rtsB	represses	tktA
+rtsB	represses	tolA
+rtsB	represses	tolR
+rtsB	represses	traD
+rtsB	represses	traE
+hilA	represses	traE
+sprB	represses	traJ
+rtsA	represses	traR
+rtsA	represses	traR
+hilC	represses	traR
+rtsB	represses	traY
+rtsB	represses	trg
+rtsB	represses	mnmE
+rtsA	represses	trpL
+rtsB	represses	tsf
+rtsB	represses	tsr
+hilC	represses	tsr
+hilD	represses	tsr
+hilD	represses	ttrC
+rtsB	represses	bipA
+sprB	represses	ugpA
+hilC	represses	ugpA
+hilD	represses	ugpA
+hilD	represses	ugpB
+hilD	represses	ugpC
+sprB	represses	ugpE
+hilD	represses	ugpE
+hilD	represses	ulaA_1
+sprB	represses	ulaA_3
+hilD	represses	umuC
+hilD	represses	wcaB
+rtsA	represses	wcaC
+hilD	represses	wcaC
+invF	represses	wcaE
+invF	represses	wcaH
+rtsA	represses	wcaM
+hilA	represses	wzb
+hilA	represses	wzc
+hilC	represses	wzc
+sprB	represses	wzxC
+invF	represses	wzxC
+rtsA	represses	wzxC
+rtsB	represses	yafK
+hilD	represses	yaiA
+hilD	represses	dgcC
+sprB	represses	yaiY
+hilD	represses	ybaM
+hilD	represses	ybbV
+rtsA	represses	ybcI
+hilD	represses	hcxA
+hilD	represses	ybdK
+hilD	represses	ybdR
+hilD	represses	ybeF
+hilD	represses	ybeL
+hilD	represses	ybgS
+sprB	represses	ybhM
+hilD	represses	ybhN
+hilD	represses	clsB
+hilD	represses	ybhP
+rtsB	represses	ybhQ
+rtsA	represses	ybiU
+hilD	represses	ycaP
+sprB	represses	yccJ
+sprB	represses	mdtG
+rtsB	represses	ycgR
+hilD	represses	ychH
+hilD	represses	yciG
+hilD	represses	yciH
+hilD	represses	ydcI
+rtsB	represses	ydcX
+rtsB	represses	bdm
+sprB	represses	bdm
+hilD	represses	bdm
+hilD	represses	lsrK
+hilD	represses	lsrR
+hilD	represses	lsrC
+hilD	represses	ydeZ
+rtsB	represses	mdtI
+rtsB	represses	mdtJ
+rtsB	represses	ydgI
+sprB	represses	ydiL
+rtsA	represses	ydiP
+hilD	represses	ydiP
+rtsB	represses	yeaD
+rtsB	represses	msrC
+rtsB	represses	letA
+sprB	represses	yedA
+rtsB	represses	yedE
+rtsB	represses	yedF
+hilD	represses	yedP
+hilD	represses	yeeO
+hilD	represses	yegT
+sprB	represses	yehE
+hilD	represses	yehY
+rtsB	represses	yehZ
+hilD	represses	yehZ
+rtsB	represses	arnA
+rtsB	represses	yfdH
+hilA	represses	yfdH
+rtsB	represses	pdeA
+sprB	represses	yfeK
+rtsB	represses	iscR
+sprB	represses	ygaC
+hilD	represses	lhgD
+sprB	represses	norW
+hilD	represses	yggM
+hilA	represses	ygiK
+rtsB	represses	sstT
+hilD	represses	yhcO
+sprB	represses	yhcR
+rtsA	represses	yhcR
+rtsB	represses	feoC
+rtsB	represses	yhiN
+sprB	represses	dtpB
+rtsB	represses	yhjG
+rtsB	represses	pdeH
+hilD	represses	yhjY
+rtsA	represses	yiaL
+rtsB	represses	xanP
+sprB	represses	yicJ
+hilD	represses	yicJ
+hilC	represses	maoP
+hilC	represses	yigG
+hilD	represses	yigI
+rtsB	represses	yihR
+invF	represses	yihT
+rtsA	represses	yihT
+hilD	represses	yihT
+hilD	represses	yiiR
+rtsA	represses	yjcB
+sprB	represses	yjcH
+hilD	represses	yjcH
+rtsA	represses	yjfI
+hilD	represses	rraB
+hilD	represses	ymdF
+hilD	represses	ymgE
+hilD	represses	curA
+hilD	represses	mcbR
+invF	represses	yncJ
+hilD	represses	yneA
+hilD	represses	lsrF
+hilD	represses	yneC
+rtsA	represses	ynfA
+hilD	represses	yohF
+rtsA	represses	yohG
+rtsB	represses	ypfG
+hilD	represses	yqeF
+rtsA	represses	yqgD
+hilC	represses	mzrA
+hilD	represses	yrfB
+rtsA	represses	yrfD
+sprB	represses	ytfF
+hilA	represses	ytgA
+sprB	represses	zraP
+rtsB	no activates	STM14_2791
+rtsB	no activates	STM14_5355
+rtsB	no activates	STM14_2071
+rtsB	no activates	STM14_0643
+rtsB	no activates	STM14_5356
+rtsB	no activates	STM14_5357
+rtsB	no activates	STM14_5358
+rtsB	no activates	STM14_5359
+rtsB	no activates	STM14_5360
+rtsB	no activates	STM14_5361
+rtsB	no activates	STM14_0650
+rtsB	no activates	STM14_1514
+rtsB	no activates	STM14_1803
+rtsB	no activates	STM14_2168
+rtsB	no activates	STM14_1939
+rtsB	no activates	STM14_5055
+rtsB	no activates	STM14_4725
+rtsB	no activates	STM14_1512
+rtsB	no activates	STM14_1767
+rtsB	no activates	STM14_4890
+rtsB	no activates	STM14_0740
+rtsB	no activates	STM14_1587
+rtsB	no activates	STM14_1805
+rtsB	no activates	STM14_3784
+rtsB	no activates	STM14_4531
+rtsB	no activates	STM14_0051
+rtsB	no activates	STM14_2167
+rtsB	no activates	STM14_3785
+rtsB	no activates	STM14_0902
+rtsB	no activates	STM14_4889
+rtsB	no activates	STM14_0187
+rtsB	no activates	STM14_3662
+rtsB	no activates	STM14_1564
+rtsB	no activates	STM14_2236
+rtsB	no activates	STM14_1001
+rtsB	no activates	STM14_2291
+rtsB	no activates	STM14_3319
+rtsB	no activates	STM14_4801
+rtsB	no activates	STM14_1790
+rtsB	no activates	STM14_1513
+rtsB	no activates	STM14_5414
+rtsB	no activates	STM14_3817
+rtsB	no activates	STM14_2323
+rtsB	no activates	STM14_5186
+rtsB	no activates	STM14_1243
+rtsB	no activates	STM14_5185
+rtsB	no activates	STM14_2856
+rtsB	no activates	STM14_3372
+rtsB	no activates	STM14_3700
+rtsB	no activates	STM14_4378
+rtsB	no activates	STM14_5154
+rtsB	no activates	STM14_5273
+rtsB	no activates	STM14_5413
+rtsB	no activates	STM14_5431
+rtsB	no activates	STM14_2379
+rtsB	no activates	STM14_0816
+rtsB	no activates	STM14_0819
+rtsB	no activates	STM14_5118
+rtsB	no activates	STM14_2674
+rtsB	no activates	STM14_2339
+rtsB	no activates	STM14_3340
+rtsB	no activates	STM14_3835
+rtsB	no activates	STM14_5415
+rtsB	no activates	STM14_4510
+rtsB	no activates	STM14_3121
+rtsB	no activates	STM14_1578
+rtsB	no activates	STM14_5117
+rtsB	no activates	STM14_3122
+rtsB	no activates	STM14_2951
+rtsB	no activates	STM14_5362
+rtsB	no activates	STM14_3893
+rtsB	no activates	STM14_3343
+rtsB	no activates	STM14_5545
+rtsB	no activates	STM14_5569
+hilA	no activates	STM14_1288
+hilA	no activates	STM14_0446
+hilA	no activates	STM14_2975
+hilA	no activates	STM14_3691
+hilA	no activates	STM14_4801
+hilA	no activates	STM14_5026
+hilA	no activates	STM14_2004
+hilA	no activates	STM14_0819
+hilA	no activates	STM14_0102
+hilA	no activates	STM14_0105
+hilA	no activates	STM14_0225
+hilA	no activates	STM14_0536
+hilA	no activates	STM14_0610
+hilA	no activates	STM14_1093
+hilA	no activates	STM14_1356
+hilA	no activates	STM14_1950
+hilA	no activates	STM14_2133
+hilA	no activates	STM14_2160
+hilA	no activates	STM14_2187
+hilA	no activates	STM14_2264
+hilA	no activates	STM14_2293
+hilA	no activates	STM14_4182
+hilA	no activates	STM14_4696
+hilA	no activates	STM14_4889
+hilA	no activates	STM14_4951
+hilA	no activates	STM14_5116
+hilA	no activates	STM14_5468
+hilA	no activates	STM14_969
+hilA	no activates	STM14_1001
+hilA	no activates	STM14_2276
+hilA	no activates	STM14_2834
+hilA	no activates	STM14_1902
+hilA	no activates	STM14_1978
+hilA	no activates	STM14_2151
+hilA	no activates	STM14_2856
+hilA	no activates	STM14_3063
+hilA	no activates	STM14_3197
+hilA	no activates	STM14_3259
+hilA	no activates	STM14_4497
+hilA	no activates	STM14_4578
+hilA	no activates	STM14_5063
+hilA	no activates	STM14_986
+hilA	no activates	STM14_1587
+hilA	no activates	STM14_3838
+hilA	no activates	STM14_3784
+hilA	no activates	STM14_0659
+hilA	no activates	STM14_1131
+hilA	no activates	STM14_3219
+hilA	no activates	STM14_0038
+hilA	no activates	STM14_0051
+hilA	no activates	STM14_0361
+hilA	no activates	STM14_0403
+hilA	no activates	STM14_0406
+hilA	no activates	STM14_0420
+hilA	no activates	STM14_0528
+hilA	no activates	STM14_0650
+hilA	no activates	STM14_0714
+hilA	no activates	STM14_0893
+hilA	no activates	STM14_1053
+hilA	no activates	STM14_1189
+hilA	no activates	STM14_1290
+hilA	no activates	STM14_1291
+hilA	no activates	STM14_1326
+hilA	no activates	STM14_1327
+hilA	no activates	STM14_1376
+hilA	no activates	STM14_1502
+hilA	no activates	STM14_1828
+hilA	no activates	STM14_1831
+hilA	no activates	STM14_1867
+hilA	no activates	STM14_1913
+hilA	no activates	STM14_1980
+hilA	no activates	STM14_1994
+hilA	no activates	STM14_2222
+hilA	no activates	STM14_2313
+hilA	no activates	STM14_2561
+hilA	no activates	STM14_2759
+hilA	no activates	STM14_2798
+hilA	no activates	STM14_2952
+hilA	no activates	STM14_3081
+hilA	no activates	STM14_3260
+hilA	no activates	STM14_3312
+hilA	no activates	STM14_3421
+hilA	no activates	STM14_3508
+hilA	no activates	STM14_3645
+hilA	no activates	STM14_3690
+hilA	no activates	STM14_3723
+hilA	no activates	STM14_4269
+hilA	no activates	STM14_4376
+hilA	no activates	STM14_4378
+hilA	no activates	STM14_4427
+hilA	no activates	STM14_4437
+hilA	no activates	STM14_4521
+hilA	no activates	STM14_4630
+hilA	no activates	STM14_4641
+hilA	no activates	STM14_4856
+hilA	no activates	STM14_4886
+hilA	no activates	STM14_4931
+hilA	no activates	STM14_4934
+hilA	no activates	STM14_4950
+hilA	no activates	STM14_4993
+hilA	no activates	STM14_5084
+hilA	no activates	STM14_5175
+hilA	no activates	STM14_5396
+hilA	no activates	STM14_5433
+hilA	no activates	STM14_940
+hilA	no activates	STM14_5532
+hilA	no activates	STM14_5565
+sprB	no activates	STM14_2854
+sprB	no activates	STM14_4558
+sprB	no activates	STM14_4950
+sprB	no activates	STM14_2133
+sprB	no activates	STM14_4951
+sprB	no activates	STM14_4343
+sprB	no activates	STM14_5413
+sprB	no activates	STM14_1216
+sprB	no activates	STM14_1289
+sprB	no activates	STM14_2834
+sprB	no activates	STM14_3341
+sprB	no activates	STM14_3700
+sprB	no activates	STM14_4167
+sprB	no activates	STM14_967
+sprB	no activates	STM14_1522
+sprB	no activates	STM14_0076
+sprB	no activates	STM14_0446
+sprB	no activates	STM14_0597
+sprB	no activates	STM14_1356
+sprB	no activates	STM14_1510
+sprB	no activates	STM14_2015
+sprB	no activates	STM14_2148
+sprB	no activates	STM14_2158
+sprB	no activates	STM14_2822
+sprB	no activates	STM14_2856
+sprB	no activates	STM14_2955
+sprB	no activates	STM14_3063
+sprB	no activates	STM14_3300
+sprB	no activates	STM14_3525
+sprB	no activates	STM14_3642
+sprB	no activates	STM14_3690
+sprB	no activates	STM14_3773
+sprB	no activates	STM14_3783
+sprB	no activates	STM14_3897
+sprB	no activates	STM14_4416
+sprB	no activates	STM14_5018
+sprB	no activates	STM14_5190
+sprB	no activates	STM14_5362
+sprB	no activates	STM14_5451
+sprB	no activates	STM14_5355
+sprB	no activates	STM14_0819
+sprB	no activates	STM14_0181
+sprB	no activates	STM14_0420
+sprB	no activates	STM14_5356
+sprB	no activates	STM14_3155
+sprB	no activates	STM14_5063
+sprB	no activates	STM14_1514
+sprB	no activates	STM14_1513
+sprB	no activates	STM14_5455
+sprB	no activates	STM14_3784
+sprB	no activates	STM14_0384
+sprB	no activates	STM14_0165
+sprB	no activates	STM14_0179
+sprB	no activates	STM14_0317
+sprB	no activates	STM14_0337
+sprB	no activates	STM14_0424
+sprB	no activates	STM14_0714
+sprB	no activates	STM14_1530
+sprB	no activates	STM14_2791
+sprB	no activates	STM14_3960
+sprB	no activates	STM14_4742
+sprB	no activates	STM14_5002
+sprB	no activates	STM14_989
+sprB	no activates	STM14_1587
+sprB	no activates	STM14_2811
+sprB	no activates	STM14_0816
+sprB	no activates	STM14_0573
+sprB	no activates	STM14_1479
+sprB	no activates	STM14_1528
+sprB	no activates	STM14_5401
+sprB	no activates	STM14_4938
+sprB	no activates	STM14_1167
+sprB	no activates	STM14_2004
+sprB	no activates	STM14_2671
+sprB	no activates	STM14_0178
+sprB	no activates	STM14_5357
+sprB	no activates	STM14_5359
+sprB	no activates	STM14_1261
+sprB	no activates	STM14_3107
+sprB	no activates	STM14_5452
+sprB	no activates	STM14_1273
+sprB	no activates	STM14_0051
+sprB	no activates	STM14_1293
+sprB	no activates	STM14_4801
+sprB	no activates	STM14_2189
+sprB	no activates	STM14_4562
+sprB	no activates	STM14_1283
+sprB	no activates	STM14_5360
+sprB	no activates	STM14_2738
+sprB	no activates	STM14_5449
+sprB	no activates	STM14_5361
+sprB	no activates	STM14_5358
+sprB	no activates	STM14_3382
+sprB	no activates	STM14_1849
+sprB	no activates	STM14_0177
+sprB	no activates	STM14_2881
+sprB	no activates	STM14_0012
+sprB	no activates	STM14_0019
+sprB	no activates	STM14_0027
+sprB	no activates	STM14_0314
+sprB	no activates	STM14_0329
+sprB	no activates	STM14_0331
+sprB	no activates	STM14_0412
+sprB	no activates	STM14_0843
+sprB	no activates	STM14_0844
+sprB	no activates	STM14_1034
+sprB	no activates	STM14_1141
+sprB	no activates	STM14_1147
+sprB	no activates	STM14_1160
+sprB	no activates	STM14_1169
+sprB	no activates	STM14_1453
+sprB	no activates	STM14_1557
+sprB	no activates	STM14_1572
+sprB	no activates	STM14_1636
+sprB	no activates	STM14_1784
+sprB	no activates	STM14_1821
+sprB	no activates	STM14_1848
+sprB	no activates	STM14_1864
+sprB	no activates	STM14_1902
+sprB	no activates	STM14_2169
+sprB	no activates	STM14_2180
+sprB	no activates	STM14_2264
+sprB	no activates	STM14_2268
+sprB	no activates	STM14_2272
+sprB	no activates	STM14_2293
+sprB	no activates	STM14_2490
+sprB	no activates	STM14_2710
+sprB	no activates	STM14_2815
+sprB	no activates	STM14_2889
+sprB	no activates	STM14_2940
+sprB	no activates	STM14_3100
+sprB	no activates	STM14_3119
+sprB	no activates	STM14_3144
+sprB	no activates	STM14_3230
+sprB	no activates	STM14_3331
+sprB	no activates	STM14_3362
+sprB	no activates	STM14_3363
+sprB	no activates	STM14_3464
+sprB	no activates	STM14_3510
+sprB	no activates	STM14_3579
+sprB	no activates	STM14_3645
+sprB	no activates	STM14_3661
+sprB	no activates	STM14_3662
+sprB	no activates	STM14_3691
+sprB	no activates	STM14_3759
+sprB	no activates	STM14_3838
+sprB	no activates	STM14_3959
+sprB	no activates	STM14_4069
+sprB	no activates	STM14_4074
+sprB	no activates	STM14_4224
+sprB	no activates	STM14_4325
+sprB	no activates	STM14_4336
+sprB	no activates	STM14_4376
+sprB	no activates	STM14_4458
+sprB	no activates	STM14_4497
+sprB	no activates	STM14_4540
+sprB	no activates	STM14_4549
+sprB	no activates	STM14_4811
+sprB	no activates	STM14_4856
+sprB	no activates	STM14_4875
+sprB	no activates	STM14_5047
+sprB	no activates	STM14_5175
+sprB	no activates	STM14_5273
+sprB	no activates	STM14_5313
+sprB	no activates	STM14_5429
+sprB	no activates	STM14_5584
+invF	no activates	STM14_5582
+invF	no activates	STM14_5584
+invF	no activates	STM14_0039
+invF	no activates	STM14_0310
+invF	no activates	STM14_0345
+invF	no activates	STM14_0405
+invF	no activates	STM14_0406
+invF	no activates	STM14_0653
+invF	no activates	STM14_0714
+invF	no activates	STM14_0840
+invF	no activates	STM14_0844
+invF	no activates	STM14_1137
+invF	no activates	STM14_1153
+invF	no activates	STM14_1160
+invF	no activates	STM14_1190
+invF	no activates	STM14_1198
+invF	no activates	STM14_1292
+invF	no activates	STM14_1356
+invF	no activates	STM14_1376
+invF	no activates	STM14_1496
+invF	no activates	STM14_1500
+invF	no activates	STM14_1831
+invF	no activates	STM14_1904
+invF	no activates	STM14_1914
+invF	no activates	STM14_1961
+invF	no activates	STM14_1978
+invF	no activates	STM14_1980
+invF	no activates	STM14_2014
+invF	no activates	STM14_2061
+invF	no activates	STM14_2115
+invF	no activates	STM14_2160
+invF	no activates	STM14_2254
+invF	no activates	STM14_2264
+invF	no activates	STM14_2271
+invF	no activates	STM14_2272
+invF	no activates	STM14_2710
+invF	no activates	STM14_2823
+invF	no activates	STM14_2854
+invF	no activates	STM14_2872
+invF	no activates	STM14_2925
+invF	no activates	STM14_2975
+invF	no activates	STM14_3032
+invF	no activates	STM14_3069
+invF	no activates	STM14_3079
+invF	no activates	STM14_3154
+invF	no activates	STM14_3168
+invF	no activates	STM14_3169
+invF	no activates	STM14_3295
+invF	no activates	STM14_3331
+invF	no activates	STM14_3662
+invF	no activates	STM14_3726
+invF	no activates	STM14_3757
+invF	no activates	STM14_3959
+invF	no activates	STM14_4224
+invF	no activates	STM14_4229
+invF	no activates	STM14_4343
+invF	no activates	STM14_4378
+invF	no activates	STM14_4485
+invF	no activates	STM14_4501
+invF	no activates	STM14_4540
+invF	no activates	STM14_4768
+invF	no activates	STM14_4874
+invF	no activates	STM14_4876
+invF	no activates	STM14_4931
+invF	no activates	STM14_4953
+invF	no activates	STM14_4993
+invF	no activates	STM14_5050
+invF	no activates	STM14_5051
+invF	no activates	STM14_5175
+invF	no activates	STM14_5212
+invF	no activates	STM14_5362
+invF	no activates	STM14_5431
+invF	no activates	STM14_5462
+invF	no activates	STM14_5496
+invF	no activates	STM14_5516
+invF	no activates	STM14_967
+rtsA	no activates	STM14_5547
+rtsA	no activates	STM14_0420
+rtsA	no activates	STM14_0740
+rtsA	no activates	STM14_1593
+rtsA	no activates	STM14_1816
+rtsA	no activates	STM14_0012
+rtsA	no activates	STM14_0039
+rtsA	no activates	STM14_0076
+rtsA	no activates	STM14_0102
+rtsA	no activates	STM14_0310
+rtsA	no activates	STM14_0332
+rtsA	no activates	STM14_0345
+rtsA	no activates	STM14_0361
+rtsA	no activates	STM14_0562
+rtsA	no activates	STM14_0599
+rtsA	no activates	STM14_06230
+rtsA	no activates	STM14_0645
+rtsA	no activates	STM14_0659
+rtsA	no activates	STM14_0660
+rtsA	no activates	STM14_0671
+rtsA	no activates	STM14_0714
+rtsA	no activates	STM14_0726
+rtsA	no activates	STM14_0783
+rtsA	no activates	STM14_0888
+rtsA	no activates	STM14_1161
+rtsA	no activates	STM14_1279
+rtsA	no activates	STM14_1280
+rtsA	no activates	STM14_1292
+rtsA	no activates	STM14_1502
+rtsA	no activates	STM14_1526
+rtsA	no activates	STM14_1533
+rtsA	no activates	STM14_1550
+rtsA	no activates	STM14_1557
+rtsA	no activates	STM14_1587
+rtsA	no activates	STM14_1658
+rtsA	no activates	STM14_1786
+rtsA	no activates	STM14_1831
+rtsA	no activates	STM14_1864
+rtsA	no activates	STM14_1975
+rtsA	no activates	STM14_1978
+rtsA	no activates	STM14_1980
+rtsA	no activates	STM14_1994
+rtsA	no activates	STM14_2015
+rtsA	no activates	STM14_2061
+rtsA	no activates	STM14_2073
+rtsA	no activates	STM14_2180
+rtsA	no activates	STM14_2251
+rtsA	no activates	STM14_2267
+rtsA	no activates	STM14_2293
+rtsA	no activates	STM14_2366
+rtsA	no activates	STM14_2419
+rtsA	no activates	STM14_2470
+rtsA	no activates	STM14_2490
+rtsA	no activates	STM14_2501
+rtsA	no activates	STM14_2619
+rtsA	no activates	STM14_2660
+rtsA	no activates	STM14_2726
+rtsA	no activates	STM14_2759
+rtsA	no activates	STM14_2766
+rtsA	no activates	STM14_2823
+rtsA	no activates	STM14_2834
+rtsA	no activates	STM14_2856
+rtsA	no activates	STM14_2902
+rtsA	no activates	STM14_2977
+rtsA	no activates	STM14_3069
+rtsA	no activates	STM14_3107
+rtsA	no activates	STM14_3169
+rtsA	no activates	STM14_3205
+rtsA	no activates	STM14_3206
+rtsA	no activates	STM14_3314
+rtsA	no activates	STM14_3385
+rtsA	no activates	STM14_3431
+rtsA	no activates	STM14_3579
+rtsA	no activates	STM14_3700
+rtsA	no activates	STM14_3712
+rtsA	no activates	STM14_3757
+rtsA	no activates	STM14_3872
+rtsA	no activates	STM14_4023
+rtsA	no activates	STM14_4074
+rtsA	no activates	STM14_4207
+rtsA	no activates	STM14_4213
+rtsA	no activates	STM14_4261
+rtsA	no activates	STM14_4269
+rtsA	no activates	STM14_4343
+rtsA	no activates	STM14_4519
+rtsA	no activates	STM14_4582
+rtsA	no activates	STM14_4595
+rtsA	no activates	STM14_4658
+rtsA	no activates	STM14_4696
+rtsA	no activates	STM14_4741
+rtsA	no activates	STM14_4808
+rtsA	no activates	STM14_4856
+rtsA	no activates	STM14_4874
+rtsA	no activates	STM14_4889
+rtsA	no activates	STM14_4894
+rtsA	no activates	STM14_4914
+rtsA	no activates	STM14_4931
+rtsA	no activates	STM14_4938
+rtsA	no activates	STM14_5018
+rtsA	no activates	STM14_5020
+rtsA	no activates	STM14_5044
+rtsA	no activates	STM14_5131
+rtsA	no activates	STM14_5168
+rtsA	no activates	STM14_5175
+rtsA	no activates	STM14_5309
+rtsA	no activates	STM14_5362
+rtsA	no activates	STM14_5367
+rtsA	no activates	STM14_5410
+rtsA	no activates	STM14_5431
+rtsA	no activates	STM14_940
+rtsA	no activates	STM14_967
+rtsA	no activates	STM14_997
+rtsA	no activates	STM14_5547
+hilC	no activates	STM14_5606
+hilC	no activates	STM14_5152
+hilC	no activates	STM14_0361
+hilC	no activates	STM14_2271
+hilC	no activates	STM14_3800
+hilC	no activates	STM14_0019
+hilC	no activates	STM14_0046
+hilC	no activates	STM14_0064
+hilC	no activates	STM14_0536
+hilC	no activates	STM14_0597
+hilC	no activates	STM14_0820
+hilC	no activates	STM14_0826
+hilC	no activates	STM14_1002
+hilC	no activates	STM14_1390
+hilC	no activates	STM14_1476
+hilC	no activates	STM14_2222
+hilC	no activates	STM14_2257
+hilC	no activates	STM14_2387
+hilC	no activates	STM14_2632
+hilC	no activates	STM14_2952
+hilC	no activates	STM14_3169
+hilC	no activates	STM14_3197
+hilC	no activates	STM14_3205
+hilC	no activates	STM14_3312
+hilC	no activates	STM14_3662
+hilC	no activates	STM14_3665
+hilC	no activates	STM14_3704
+hilC	no activates	STM14_3713
+hilC	no activates	STM14_3773
+hilC	no activates	STM14_4185
+hilC	no activates	STM14_4875
+hilC	no activates	STM14_5225
+hilC	no activates	STM14_5396
+hilC	no activates	STM14_5212
+hilC	no activates	STM14_3822
+hilC	no activates	STM14_1294
+hilC	no activates	STM14_3821
+hilC	no activates	STM14_4325
+hilC	no activates	STM14_3220
+hilC	no activates	STM14_2854
+hilC	no activates	STM14_1001
+hilC	no activates	STM14_3230
+hilC	no activates	STM14_0420
+hilC	no activates	STM14_3398
+hilC	no activates	STM14_0012
+hilC	no activates	STM14_0165
+hilC	no activates	STM14_1153
+hilC	no activates	STM14_1216
+hilC	no activates	STM14_1975
+hilC	no activates	STM14_2276
+hilC	no activates	STM14_2834
+hilC	no activates	STM14_3314
+hilC	no activates	STM14_4340
+hilC	no activates	STM14_5125
+hilC	no activates	STM14_4501
+hilC	no activates	STM14_5047
+hilC	no activates	STM14_0819
+hilC	no activates	STM14_3069
+hilC	no activates	STM14_5362
+hilC	no activates	STM14_4437
+hilD	no activates	STM14_5548
+hilD	no activates	STM14_5570
+hilD	no activates	STM14_5582
+hilD	no activates	STM14_4895
+hilD	no activates	STM14_4905
+hilD	no activates	STM14_0420
+hilD	no activates	STM14_1923
+hilD	no activates	STM14_0419
+hilD	no activates	STM14_1484
+hilD	no activates	STM14_2049
+hilD	no activates	STM14_2726
+hilD	no activates	STM14_3774
+hilD	no activates	STM14_4521
+hilD	no activates	STM14_0422
+hilD	no activates	STM14_5454
+hilD	no activates	STM14_3398
+hilD	no activates	STM14_2187
+hilD	no activates	STM14_4336
+hilD	no activates	STM14_0451
+hilD	no activates	STM14_5450
+hilD	no activates	STM14_2952
+hilD	no activates	STM14_0740
+hilD	no activates	STM14_5453
+hilD	no activates	STM14_5449
+hilD	no activates	STM14_1307
+hilD	no activates	STM14_2189
+hilD	no activates	STM14_2128
+hilD	no activates	STM14_0424
+hilD	no activates	STM14_0653
+hilD	no activates	STM14_2115
+hilD	no activates	STM14_2470
+hilD	no activates	STM14_2925
+hilD	no activates	STM14_3196
+hilD	no activates	STM14_3362
+hilD	no activates	STM14_4800
+hilD	no activates	STM14_4867
+hilD	no activates	STM14_4934
+hilD	no activates	STM14_5125
+hilD	no activates	STM14_5413
+hilD	no activates	STM14_1884
+hilD	no activates	STM14_0633
+hilD	no activates	STM14_2680
+hilD	no activates	STM14_3803
+hilD	no activates	STM14_5452
+hilD	no activates	STM14_4770
+hilD	no activates	STM14_4552
+hilD	no activates	STM14_1102
+hilD	no activates	STM14_3960
+hilD	no activates	STM14_1601
+hilD	no activates	STM14_1162
+hilD	no activates	STM14_1831
+hilD	no activates	STM14_5451
+hilD	no activates	STM14_5455
+hilD	no activates	STM14_0449
+hilD	no activates	STM14_3365
+hilD	no activates	STM14_0423
+hilD	no activates	STM14_2389
+hilD	no activates	STM14_2651
+hilD	no activates	STM14_0384
+hilD	no activates	STM14_3253
+hilD	no activates	STM14_4556
+hilD	no activates	STM14_1038
+hilD	no activates	STM14_1442
+hilD	no activates	STM14_4501
+hilD	no activates	STM14_4808
+hilD	no activates	STM14_4909
+hilD	no activates	STM14_2209
+hilD	no activates	STM14_3378
+hilD	no activates	STM14_4553
+hilD	no activates	STM14_1849
+hilD	no activates	STM14_3273
+hilD	no activates	STM14_1751
+hilD	no activates	STM14_4740
+hilD	no activates	STM14_3217
+hilD	no activates	STM14_2888
+hilD	no activates	STM14_4167
+hilD	no activates	STM14_1261
+hilD	no activates	STM14_1914
+hilD	no activates	STM14_3331
+hilD	no activates	STM14_1154
+hilD	no activates	STM14_2640
+hilD	no activates	STM14_1952
+hilD	no activates	STM14_2456
+hilD	no activates	STM14_1964
+hilD	no activates	STM14_1530
+hilD	no activates	STM14_1602
+hilD	no activates	STM14_4500
+hilD	no activates	STM14_2424
+hilD	no activates	STM14_0343
+hilD	no activates	STM14_1522
+hilD	no activates	STM14_0498
+hilD	no activates	STM14_1550
+hilD	no activates	STM14_3773
+hilD	no activates	STM14_4325
+hilD	no activates	STM14_4801
+hilD	no activates	STM14_2745
+hilD	no activates	STM14_1361
+hilD	no activates	STM14_0051
+hilD	no activates	STM14_2466
+hilD	no activates	STM14_2773
+hilD	no activates	STM14_5430
+hilD	no activates	STM14_3304
+hilD	no activates	STM14_4519
+hilD	no activates	STM14_1289
+hilD	no activates	STM14_1290
+hilD	no activates	STM14_1960
+hilD	no activates	STM14_5479
+hilD	no activates	STM14_1803
+hilD	no activates	STM14_2484
+hilD	no activates	STM14_0450
+hilD	no activates	STM14_3155
+hilD	no activates	STM14_0665
+hilD	no activates	STM14_4914
+hilD	no activates	STM14_1883
+hilD	no activates	STM14_3944
+hilD	no activates	STM14_4595
+hilD	no activates	STM14_5402
+hilD	no activates	STM14_1068
+hilD	no activates	STM14_2267
+hilD	no activates	STM14_5033
+hilD	no activates	STM14_5404
+hilD	no activates	STM14_5096
+hilD	no activates	STM14_4051
+hilD	no activates	STM14_1932
+hilD	no activates	STM14_0421
+hilD	no activates	STM14_4563
+hilD	no activates	STM14_1872
+hilD	no activates	STM14_1183
+hilD	no activates	STM14_1882
+hilD	no activates	STM14_0047
+hilD	no activates	STM14_1483
+hilD	no activates	STM14_0026
+hilD	no activates	STM14_0039
+hilD	no activates	STM14_0179
+hilD	no activates	STM14_0336
+hilD	no activates	STM14_0386
+hilD	no activates	STM14_0464
+hilD	no activates	STM14_0894
+hilD	no activates	STM14_1000
+hilD	no activates	STM14_1152
+hilD	no activates	STM14_1161
+hilD	no activates	STM14_1167
+hilD	no activates	STM14_1280
+hilD	no activates	STM14_1327
+hilD	no activates	STM14_1390
+hilD	no activates	STM14_1784
+hilD	no activates	STM14_1975
+hilD	no activates	STM14_2276
+hilD	no activates	STM14_2701
+hilD	no activates	STM14_2975
+hilD	no activates	STM14_2977
+hilD	no activates	STM14_3165
+hilD	no activates	STM14_3364
+hilD	no activates	STM14_3704
+hilD	no activates	STM14_3837
+hilD	no activates	STM14_3959
+hilD	no activates	STM14_4439
+hilD	no activates	STM14_4825
+hilD	no activates	STM14_4875
+hilD	no activates	STM14_5025
+hilD	no activates	STM14_5026
+hilD	no activates	STM14_5031
+hilD	no activates	STM14_5046
+hilD	no activates	STM14_5052
+hilD	no activates	STM14_5111
+hilD	no activates	STM14_5333
+hilD	no activates	STM14_5347
+hilD	no activates	STM14_5362
+hilD	no activates	STM14_5496
+hilD	no activates	STM14_5516
+sprB	no activates	abrB
+hilD	no activates	abrB
+hilD	no activates	aceA
+hilD	no activates	aceB
+hilD	no activates	acs
+hilD	no activates	actP
+rtsB	no activates	adhP
+sprB	no activates	adiY
+rtsB	no activates	aer
+hilD	no activates	alaW
+hilD	no activates	alaX
+sprB	no activates	ansB
+hilD	no activates	ansB
+sprB	no activates	argD_1
+hilD	no activates	argD_1
+rtsB	no activates	argS
+hilD	no activates	argT
+rtsB	no activates	arnT
+rtsB	no activates	aroG
+rtsB	no activates	asnS
+hilD	no activates	astA
+hilD	no activates	astB
+hilD	no activates	astD
+hilD	no activates	astE
+rtsB	no activates	atpA
+rtsB	no activates	atpC
+rtsB	no activates	atpD
+rtsB	no activates	atpF
+rtsB	no activates	atpG
+sprB	no activates	bcfF
+invF	no activates	bcfF
+hilD	no activates	bcfH
+hilD	no activates	bioA
+rtsA	no activates	bioB
+hilC	no activates	bioB
+rtsB	no activates	bisC
+rtsB	no activates	bssR
+rtsB	no activates	bssS
+hilD	no activates	bssS
+hilD	no activates	ccmC_1
+hilD	no activates	ccmC_2
+hilD	no activates	chbA
+rtsB	no activates	cheA
+rtsB	no activates	cheB
+rtsB	no activates	cheM
+rtsB	no activates	cheR
+rtsB	no activates	cheW
+rtsB	no activates	cheY
+rtsB	no activates	cheZ
+sprB	no activates	citB
+hilC	no activates	citB
+hilD	no activates	citB
+hilA	no activates	citC2
+sprB	no activates	citC2
+invF	no activates	citC2
+rtsA	no activates	citT
+invF	no activates	csgB
+rtsA	no activates	csgC
+hilD	no activates	csgD
+sprB	no activates	csgE
+hilC	no activates	csgE
+hilA	no activates	csgF
+invF	no activates	csgF
+hilC	no activates	csgF
+hilD	no activates	csiE
+hilD	no activates	cyoA
+hilD	no activates	cysI
+hilD	no activates	dadA
+hilD	no activates	dadX
+rtsB	no activates	damX
+hilA	no activates	dcoC
+sprB	no activates	dcoC
+hilA	no activates	dgoT
+rtsB	no activates	dnaN
+hilD	no activates	dppB
+hilD	no activates	dsrB
+rtsB	no activates	eco
+sprB	no activates	ego
+hilD	no activates	ego
+rtsB	no activates	eno
+sprB	no activates	entD
+hilD	no activates	entD
+hilD	no activates	envZ
+sprB	no activates	eutB
+sprB	no activates	eutC
+rtsB	no activates	eutD
+sprB	no activates	eutD
+invF	no activates	eutD
+hilC	no activates	eutD
+hilD	no activates	eutD
+sprB	no activates	eutE
+hilD	no activates	eutE
+sprB	no activates	eutG
+invF	no activates	eutG
+hilD	no activates	eutG
+sprB	no activates	eutH
+hilD	no activates	eutH
+hilD	no activates	eutJ
+sprB	no activates	eutM
+hilC	no activates	eutM
+hilD	no activates	eutM
+sprB	no activates	eutN
+hilC	no activates	eutN
+hilD	no activates	eutN
+rtsB	no activates	eutP
+sprB	no activates	eutP
+invF	no activates	eutP
+hilC	no activates	eutP
+hilD	no activates	eutP
+sprB	no activates	eutQ
+sprB	no activates	eutR
+sprB	no activates	eutS
+hilD	no activates	eutS
+sprB	no activates	eutT
+hilC	no activates	eutT
+hilD	no activates	eutT
+hilD	no activates	fadA
+hilD	no activates	fadB
+hilD	no activates	fadE
+hilD	no activates	fadH
+hilD	no activates	fadI
+rtsB	no activates	fdx
+rtsB	no activates	fepE
+sprB	no activates	fepG
+rtsB	no activates	fimA
+rtsB	no activates	fimC
+rtsB	no activates	fimD
+rtsB	no activates	fimF
+rtsB	no activates	sfmH
+rtsB	no activates	fimI
+rtsB	no activates	fimW
+rtsB	no activates	fimY
+rtsB	no activates	fimZ
+sprB	no activates	fimZ
+hilA	no activates	fixC
+sprB	no activates	fixC
+invF	no activates	fixC
+rtsB	no activates	flgB
+rtsB	no activates	flgC
+rtsB	no activates	flgD
+rtsB	no activates	flgE
+rtsB	no activates	flgF
+rtsB	no activates	flgG
+rtsB	no activates	flgH
+rtsB	no activates	flgI
+rtsB	no activates	flgJ
+rtsB	no activates	flgK
+rtsB	no activates	flgL
+rtsB	no activates	flgM
+rtsB	no activates	flgN
+rtsB	no activates	flhB
+rtsB	no activates	flhC
+rtsB	no activates	flhD
+rtsB	no activates	fliA
+rtsB	no activates	fliB
+rtsB	no activates	fliC
+rtsB	no activates	fliD
+rtsB	no activates	fliF
+rtsB	no activates	fliG
+rtsB	no activates	fliH
+rtsB	no activates	fliI
+rtsB	no activates	fliJ
+rtsB	no activates	fliK
+rtsB	no activates	fliL
+rtsB	no activates	fliM
+rtsB	no activates	fliO
+sprB	no activates	fliQ
+sprB	no activates	fliR
+invF	no activates	fliR
+rtsB	no activates	fliS
+rtsB	no activates	fliT
+rtsB	no activates	fliZ
+sprB	no activates	fljA
+invF	no activates	fljA
+rtsB	no activates	fljB
+rtsB	no activates	frr
+rtsB	no activates	fruA
+rtsB	no activates	fruB
+rtsB	no activates	fruK
+sprB	no activates	fsr
+rtsB	no activates	ftnB
+sprB	no activates	fucK
+hilD	no activates	fumC
+rtsB	no activates	fusA
+sprB	no activates	gabD
+hilD	no activates	gabD
+hilD	no activates	gabT
+sprB	no activates	gatY_1
+sprB	no activates	gatY_2
+sprB	no activates	hyi
+hilD	no activates	glgS
+invF	no activates	glnK
+rtsB	no activates	glpA
+hilA	no activates	glpA
+sprB	no activates	glpA
+invF	no activates	glpA
+rtsA	no activates	glpA
+hilC	no activates	glpA
+hilD	no activates	glpA
+sprB	no activates	glpB
+rtsA	no activates	glpB
+hilD	no activates	glpB
+hilD	no activates	glpC
+hilD	no activates	glpK
+hilD	no activates	glpQ
+hilD	no activates	gltI
+hilD	no activates	gltJ
+hilD	no activates	gltK
+sprB	no activates	gltL
+hilD	no activates	gltL
+rtsB	no activates	gltS
+rtsA	no activates	glxR
+sprB	no activates	gntK
+rtsB	no activates	hemA
+hilA	no activates	hemA
+hilD	no activates	guaC
+hilD	no activates	hin
+hilD	no activates	hns
+hilD	no activates	hofC
+hilA	no activates	hopD
+sprB	no activates	hpaA
+hilD	no activates	hpaF
+hilD	no activates	hpaG
+sprB	no activates	hpaI
+rtsB	no activates	hscA
+rtsB	no activates	hscB
+rtsB	no activates	hsdS
+hilA	no activates	htgA
+hilD	no activates	hutH
+rtsB	no activates	hycD
+rtsB	no activates	hycE
+rtsB	no activates	hycF
+rtsB	no activates	hycG
+hilD	no activates	iclR
+sprB	no activates	idnR
+rtsB	no activates	infB
+rtsB	no activates	iroB
+sprB	no activates	iroB
+sprB	no activates	iroD
+hilA	no activates	kdpA
+sprB	no activates	kdpA
+invF	no activates	kdpA
+hilD	no activates	kdpA
+sprB	no activates	kdpB
+rtsA	no activates	kdpB
+rtsB	no activates	ldcC
+hilA	no activates	leuO
+hilD	no activates	lldD
+hilD	no activates	lldP
+hilD	no activates	lldR
+rtsB	no activates	lolD
+hilD	no activates	lpfB
+hilC	no activates	lpfE
+hilD	no activates	lysA
+hilD	no activates	lysC
+rtsB	no activates	malE
+sprB	no activates	malF
+rtsA	no activates	malF
+rtsB	no activates	malK
+sprB	no activates	cpsB
+sprB	no activates	marA
+sprB	no activates	marB
+sprB	no activates	marR
+rtsB	no activates	mazG
+hilD	no activates	metA
+hilD	no activates	metB
+hilD	no activates	metF
+hilD	no activates	metR
+sprB	no activates	mglA
+hilD	no activates	mglA
+sprB	no activates	mglC
+rtsA	no activates	mgtB
+invF	no activates	micF
+rtsA	no activates	misL
+rtsB	no activates	motA
+rtsB	no activates	motB
+hilD	no activates	msyB
+hilD	no activates	mutT
+rtsB	no activates	umpH
+hilD	no activates	nanK
+rtsB	no activates	napA
+rtsB	no activates	napD
+rtsB	no activates	napF
+rtsA	no activates	narK
+sprB	no activates	narU
+hilD	no activates	narU
+sprB	no activates	nemA
+rtsB	no activates	nifS
+rtsB	no activates	nrdG
+hilD	no activates	nrdG
+sprB	no activates	nrdH
+hilD	no activates	nrdH
+rtsB	no activates	nrdI
+rtsA	no activates	nrdI
+hilA	no activates	oadA
+sprB	no activates	oadA
+invF	no activates	oadA
+rtsB	no activates	oadG
+hilA	no activates	oadG
+hilD	no activates	oadG
+hilD	no activates	oat
+rtsB	no activates	obgE
+rtsB	no activates	ompA
+sprB	no activates	orf32
+sprB	no activates	orf48
+rtsA	no activates	orfX
+hilD	no activates	orfX
+hilD	no activates	osmB
+hilD	no activates	osmC
+hilD	no activates	otsB
+sprB	no activates	parA
+hilD	no activates	parA
+rtsB	no activates	pbpG
+rtsB	no activates	pduH
+invF	no activates	pduH
+sprB	no activates	pduJ
+invF	no activates	pduJ
+invF	no activates	pduK
+sprB	no activates	pduP
+hilC	no activates	pduT
+invF	no activates	pduU
+rtsA	no activates	pefA
+rtsA	no activates	pefA
+rtsB	no activates	pepB
+hilD	no activates	pflC
+invF	no activates	pflE
+invF	no activates	phnU
+hilD	no activates	phnV
+rtsB	no activates	potE
+sprB	no activates	potE
+hilD	no activates	potF
+hilD	no activates	potG
+sprB	no activates	ppdA
+rtsA	no activates	ppdA
+rtsB	no activates	ppsA
+sprB	no activates	prfH
+hilD	no activates	prpR
+rtsB	no activates	purB
+rtsB	no activates	purD
+rtsB	no activates	purF
+rtsB	no activates	pyrH
+sprB	no activates	rcsA
+rtsA	no activates	repA2
+rtsA	no activates	repA2
+rtsB	no activates	rfaK
+rtsB	no activates	rfbA
+rtsB	no activates	rfbB
+rtsB	no activates	rfbC
+rtsB	no activates	rfbD
+rtsB	no activates	rfbF
+rtsB	no activates	rfbI
+rtsB	no activates	rfbK
+rtsB	no activates	rfbM
+rtsB	no activates	rfbN
+rtsB	no activates	rfbP
+rtsB	no activates	rfbU
+rtsB	no activates	rfbV
+rtsB	no activates	rffG
+rtsB	no activates	rplC
+rtsB	no activates	rplD
+rtsB	no activates	rplF
+rtsB	no activates	rplJ
+rtsB	no activates	rplL
+rtsB	no activates	rplP
+rtsB	no activates	rplS
+rtsB	no activates	rplU
+rtsB	no activates	rplV
+rtsB	no activates	rpmA
+rtsB	no activates	rpmD
+rtsB	no activates	rpoB
+rtsB	no activates	rprA
+sprB	no activates	rprA
+rtsA	no activates	rprA
+rtsB	no activates	rpsC
+rtsB	no activates	rpsD
+rtsB	no activates	rpsS
+rtsA	no activates	rrfA
+rtsB	no activates	rrfB
+hilA	no activates	rrfC
+rtsB	no activates	rrfE
+hilA	no activates	rrfE
+rtsA	no activates	rrfE
+rtsA	no activates	rrfG
+hilA	no activates	rspA
+sprB	no activates	rspA
+sprB	no activates	sbp
+hilD	no activates	sbp
+hilD	no activates	sdhC
+rtsB	no activates	sdiA
+rtsA	no activates	sgbE
+sprB	no activates	sgbU
+hilA	no activates	sinH
+sprB	no activates	sinH
+invF	no activates	sinH
+sprB	no activates	sinI
+sprB	no activates	spaR
+rtsB	no activates	speF
+hilA	no activates	speF
+sprB	no activates	speF
+invF	no activates	speF
+hilC	no activates	speF
+sprB	no activates	spvB
+hilD	no activates	spvB
+hilD	no activates	spvC
+sprB	no activates	spvD
+rtsB	no activates	spvR
+rtsB	no activates	srlA
+rtsB	no activates	srlE
+hilD	no activates	ssaQ
+rtsB	no activates	sseB
+hilD	no activates	stbC
+sprB	no activates	stcB
+invF	no activates	stcB
+rtsB	no activates	stdA
+hilD	no activates	stdC
+hilA	no activates	stfD
+hilD	no activates	stfD
+sprB	no activates	stfE
+sprB	no activates	stfG
+invF	no activates	sthA
+sprB	no activates	sthD
+hilC	no activates	sthD
+hilA	no activates	stiC
+sprB	no activates	stiC
+hilD	no activates	stiC
+hilD	no activates	sufA
+hilD	no activates	sufC
+rtsB	no activates	suhB
+rtsB	no activates	tcp
+hilD	no activates	tctD
+rtsB	no activates	tdcB
+hilC	no activates	tdcB
+rtsB	no activates	tdcC
+rtsB	no activates	tdcD
+rtsB	no activates	tdcE
+sprB	no activates	thrA
+sprB	no activates	thrB
+rtsB	no activates	tktA
+rtsB	no activates	tolA
+rtsB	no activates	tolR
+rtsB	no activates	traD
+rtsB	no activates	traE
+hilA	no activates	traE
+sprB	no activates	traJ
+rtsA	no activates	traR
+rtsA	no activates	traR
+hilC	no activates	traR
+rtsB	no activates	traY
+rtsB	no activates	trg
+rtsB	no activates	mnmE
+rtsA	no activates	trpL
+rtsB	no activates	tsf
+rtsB	no activates	tsr
+hilC	no activates	tsr
+hilD	no activates	tsr
+hilD	no activates	ttrC
+rtsB	no activates	bipA
+sprB	no activates	ugpA
+hilC	no activates	ugpA
+hilD	no activates	ugpA
+hilD	no activates	ugpB
+hilD	no activates	ugpC
+sprB	no activates	ugpE
+hilD	no activates	ugpE
+hilD	no activates	ulaA_1
+sprB	no activates	ulaA_3
+hilD	no activates	umuC
+hilD	no activates	wcaB
+rtsA	no activates	wcaC
+hilD	no activates	wcaC
+invF	no activates	wcaE
+invF	no activates	wcaH
+rtsA	no activates	wcaM
+hilA	no activates	wzb
+hilA	no activates	wzc
+hilC	no activates	wzc
+sprB	no activates	wzxC
+invF	no activates	wzxC
+rtsA	no activates	wzxC
+rtsB	no activates	yafK
+hilD	no activates	yaiA
+hilD	no activates	dgcC
+sprB	no activates	yaiY
+hilD	no activates	ybaM
+hilD	no activates	ybbV
+rtsA	no activates	ybcI
+hilD	no activates	hcxA
+hilD	no activates	ybdK
+hilD	no activates	ybdR
+hilD	no activates	ybeF
+hilD	no activates	ybeL
+hilD	no activates	ybgS
+sprB	no activates	ybhM
+hilD	no activates	ybhN
+hilD	no activates	clsB
+hilD	no activates	ybhP
+rtsB	no activates	ybhQ
+rtsA	no activates	ybiU
+hilD	no activates	ycaP
+sprB	no activates	yccJ
+sprB	no activates	mdtG
+rtsB	no activates	ycgR
+hilD	no activates	ychH
+hilD	no activates	yciG
+hilD	no activates	yciH
+hilD	no activates	ydcI
+rtsB	no activates	ydcX
+rtsB	no activates	bdm
+sprB	no activates	bdm
+hilD	no activates	bdm
+hilD	no activates	lsrK
+hilD	no activates	lsrR
+hilD	no activates	lsrC
+hilD	no activates	ydeZ
+rtsB	no activates	mdtI
+rtsB	no activates	mdtJ
+rtsB	no activates	ydgI
+sprB	no activates	ydiL
+rtsA	no activates	ydiP
+hilD	no activates	ydiP
+rtsB	no activates	yeaD
+rtsB	no activates	msrC
+rtsB	no activates	letA
+sprB	no activates	yedA
+rtsB	no activates	yedE
+rtsB	no activates	yedF
+hilD	no activates	yedP
+hilD	no activates	yeeO
+hilD	no activates	yegT
+sprB	no activates	yehE
+hilD	no activates	yehY
+rtsB	no activates	yehZ
+hilD	no activates	yehZ
+rtsB	no activates	arnA
+rtsB	no activates	yfdH
+hilA	no activates	yfdH
+rtsB	no activates	pdeA
+sprB	no activates	yfeK
+rtsB	no activates	iscR
+sprB	no activates	ygaC
+hilD	no activates	lhgD
+sprB	no activates	norW
+hilD	no activates	yggM
+hilA	no activates	ygiK
+rtsB	no activates	sstT
+hilD	no activates	yhcO
+sprB	no activates	yhcR
+rtsA	no activates	yhcR
+rtsB	no activates	feoC
+rtsB	no activates	yhiN
+sprB	no activates	dtpB
+rtsB	no activates	yhjG
+rtsB	no activates	pdeH
+hilD	no activates	yhjY
+rtsA	no activates	yiaL
+rtsB	no activates	xanP
+sprB	no activates	yicJ
+hilD	no activates	yicJ
+hilC	no activates	maoP
+hilC	no activates	yigG
+hilD	no activates	yigI
+rtsB	no activates	yihR
+invF	no activates	yihT
+rtsA	no activates	yihT
+hilD	no activates	yihT
+hilD	no activates	yiiR
+rtsA	no activates	yjcB
+sprB	no activates	yjcH
+hilD	no activates	yjcH
+rtsA	no activates	yjfI
+hilD	no activates	rraB
+hilD	no activates	ymdF
+hilD	no activates	ymgE
+hilD	no activates	curA
+hilD	no activates	mcbR
+invF	no activates	yncJ
+hilD	no activates	yneA
+hilD	no activates	lsrF
+hilD	no activates	yneC
+rtsA	no activates	ynfA
+hilD	no activates	yohF
+rtsA	no activates	yohG
+rtsB	no activates	ypfG
+hilD	no activates	yqeF
+rtsA	no activates	yqgD
+hilC	no activates	mzrA
+hilD	no activates	yrfB
+rtsA	no activates	yrfD
+sprB	no activates	ytfF
+hilA	no activates	ytgA
+sprB	no activates	zraP
+hilD	activates 	STM14_3501
+hilD	activates 	STM14_4969
+hilD	activates 	STM14_3221
+hilD	activates 	STM14_06610
+hilD	activates 	STM14_2321
+hilD	activates 	STM14_4581
+hilD	activates 	STM14_2329
+hilD	activates 	STM14_2459
+hilD	activates 	STM14_2215
+hilD	activates 	STM14_3799
+hilD	activates 	STM14_2475
+hilD	activates 	STM14_3043
+hilD	activates 	STM14_3070
+hilD	activates 	STM14_1020
+hilD	activates 	STM14_1431
+hilD	activates 	STM14_1566
+hilD	activates 	STM14_4273
+hilD	activates 	STM14_2473
+hilD	activates 	STM14_5274
+hilD	activates 	STM14_4352
+hilD	activates 	STM14_4502
+hilD	activates 	STM14_2441
+hilD	activates 	STM14_1098
+hilD	activates 	STM14_4034
+hilD	activates 	STM14_0850
+hilD	activates 	STM14_4992
+hilD	activates 	STM14_1578
+hilD	activates 	STM14_3834
+hilD	activates 	STM14_2073
+hilD	activates 	STM14_2151
+hilD	activates 	STM14_3074
+hilD	activates 	STM14_3789
+hilD	activates 	STM14_4261
+hilD	activates 	STM14_0399
+hilD	activates 	STM14_2448
+hilD	activates 	STM14_3798
+hilD	activates 	STM14_2443
+hilD	activates 	STM14_2434
+hilD	activates 	STM14_3394
+hilD	activates 	STM14_4239
+hilD	activates 	STM14_2152
+hilD	activates 	STM14_0296
+hilD	activates 	STM14_2270
+hilD	activates 	STM14_1658
+hilD	activates 	STM14_2271
+hilD	activates 	STM14_2619
+hilD	activates 	STM14_3080
+hilD	activates 	STM14_3363
+hilD	activates 	STM14_3847
+hilD	activates 	STM14_3875
+hilD	activates 	STM14_4018
+hilD	activates 	STM14_4263
+hilD	activates 	STM14_5306
+hilD	activates 	STM14_3410
+hilD	activates 	STM14_4533
+hilD	activates 	STM14_2277
+hilD	activates 	STM14_2852
+hilD	activates 	STM14_2442
+hilD	activates 	STM14_2637
+hilD	activates 	STM14_3624
+hilD	activates 	STM14_4578
+hilD	activates 	STM14_3223
+hilD	activates 	STM14_2227
+hilD	activates 	STM14_5192
+hilD	activates 	STM14_3762
+hilD	activates 	STM14_3438
+hilD	activates 	STM14_3447
+hilD	activates 	STM14_2379
+hilD	activates 	STM14_3301
+hilD	activates 	STM14_3479
+hilD	activates 	STM14_2164
+hilD	activates 	STM14_1939
+hilD	activates 	STM14_1706
+hilD	activates 	STM14_0097
+hilD	activates 	STM14_0225
+hilD	activates 	STM14_0327
+hilD	activates 	STM14_0430
+hilD	activates 	STM14_0645
+hilD	activates 	STM14_0726
+hilD	activates 	STM14_0820
+hilD	activates 	STM14_0893
+hilD	activates 	STM14_1572
+hilD	activates 	STM14_1764
+hilD	activates 	STM14_2444
+hilD	activates 	STM14_3227
+hilD	activates 	STM14_3783
+hilD	activates 	STM14_3800
+hilD	activates 	STM14_4192
+hilD	activates 	STM14_4497
+hilD	activates 	STM14_4582
+hilD	activates 	STM14_4630
+hilD	activates 	STM14_5152
+hilD	activates 	STM14_2165
+hilD	activates 	STM14_2476
+hilD	activates 	STM14_2168
+hilD	activates 	STM14_2167
+hilD	activates 	STM14_2161
+hilD	activates 	STM14_2445
+hilD	activates 	STM14_0348
+hilD	activates 	STM14_1692
+hilD	activates 	STM14_2248
+hilD	activates 	STM14_0027
+hilD	activates 	STM14_1081
+hilD	activates 	STM14_1093
+hilD	activates 	STM14_5191
+hilD	activates 	STM14_2870
+hilD	activates 	STM14_1401
+hilD	activates 	STM14_2458
+hilD	activates 	STM14_3690
+hilD	activates 	STM14_4485
+hilD	activates 	STM14_2162
+hilD	activates 	STM14_2166
+hilD	activates 	STM14_5122
+hilD	activates 	STM14_4163
+hilD	activates 	STM14_3893
+hilD	activates 	STM14_1283
+hilD	activates 	STM14_2163
+hilD	activates 	STM14_0165
+hilD	activates 	STM14_0597
+hilD	activates 	STM14_3119
+hilD	activates 	STM14_3433
+hilD	activates 	STM14_5367
+hilD	activates 	STM14_3437
+hilD	activates 	STM14_2323
+hilD	activates 	STM14_2736
+hilD	activates 	STM14_1196
+hilD	activates 	STM14_0390
+hilD	activates 	STM14_4689
+hilD	activates 	STM14_0860
+hilD	activates 	STM14_1286
+hilD	activates 	STM14_1783
+hilD	activates 	STM14_3341
+hilD	activates 	STM14_5083
+hilD	activates 	STM14_1970
+hilD	activates 	STM14_1244
+hilD	activates 	STM14_1937
+hilD	activates 	STM14_0322
+hilD	activates 	STM14_5121
+hilD	activates 	STM14_0683
+hilD	activates 	STM14_1209
+hilD	activates 	STM14_1895
+hilD	activates 	STM14_2387
+hilD	activates 	STM14_4589
+hilD	activates 	STM14_1782
+hilD	activates 	STM14_3411
+hilD	activates 	STM14_1197
+hilD	activates 	STM14_2419
+hilD	activates 	STM14_2428
+hilD	activates 	STM14_0143
+hilD	activates 	STM14_2556
+hilD	activates 	STM14_1614
+hilD	activates 	STM14_1486
+hilD	activates 	STM14_5115
+hilD	activates 	STM14_3198
+hilD	activates 	STM14_5189
+hilD	activates 	STM14_1833
+hilD	activates 	STM14_5190
+hilD	activates 	STM14_3464
+hilD	activates 	STM14_1613
+hilD	activates 	STM14_2342
+hilD	activates 	STM14_1282
+hilD	activates 	STM14_5185
+hilD	activates 	STM14_3466
+hilD	activates 	STM14_5184
+hilD	activates 	STM14_1503
+hilD	activates 	STM14_5186
+hilD	activates 	STM14_5187
+hilD	activates 	STM14_5188
+hilD	activates 	STM14_1612
+hilD	activates 	STM14_5119
+hilD	activates 	STM14_5120
+hilD	activates 	STM14_5118
+hilD	activates 	STM14_5547
+hilD	activates 	STM14_5557
+hilD	activates 	STM14_5584
+hilD	activates 	STM14_5594
+hilC	activates 	STM14_4689
+hilC	activates 	STM14_989
+hilC	activates 	STM14_5184
+hilC	activates 	STM14_3109
+hilC	activates 	STM14_3343
+hilC	activates 	STM14_1833
+hilC	activates 	STM14_2798
+hilC	activates 	STM14_3884
+hilC	activates 	STM14_986
+hilC	activates 	STM14_2870
+hilC	activates 	STM14_1286
+hilC	activates 	STM14_3624
+hilC	activates 	STM14_4589
+hilC	activates 	STM14_5018
+hilC	activates 	STM14_5190
+hilC	activates 	STM14_5208
+hilC	activates 	STM14_2342
+hilC	activates 	STM14_1503
+hilC	activates 	STM14_2277
+hilC	activates 	STM14_0363
+hilC	activates 	STM14_1829
+hilC	activates 	STM14_5115
+hilC	activates 	STM14_5429
+hilC	activates 	STM14_0653
+hilC	activates 	STM14_1828
+hilC	activates 	STM14_1922
+hilC	activates 	STM14_3757
+hilC	activates 	STM14_3801
+hilC	activates 	STM14_5431
+hilC	activates 	STM14_3410
+hilC	activates 	STM14_1782
+hilC	activates 	STM14_3464
+hilC	activates 	STM14_3693
+hilC	activates 	STM14_4485
+hilC	activates 	STM14_5118
+hilC	activates 	STM14_1613
+hilC	activates 	STM14_0141
+hilC	activates 	STM14_0225
+hilC	activates 	STM14_0391
+hilC	activates 	STM14_0406
+hilC	activates 	STM14_0683
+hilC	activates 	STM14_0893
+hilC	activates 	STM14_1937
+hilC	activates 	STM14_1950
+hilC	activates 	STM14_2049
+hilC	activates 	STM14_2133
+hilC	activates 	STM14_2264
+hilC	activates 	STM14_2291
+hilC	activates 	STM14_2763
+hilC	activates 	STM14_2770
+hilC	activates 	STM14_2856
+hilC	activates 	STM14_3583
+hilC	activates 	STM14_3819
+hilC	activates 	STM14_4549
+hilC	activates 	STM14_4578
+hilC	activates 	STM14_4582
+hilC	activates 	STM14_4771
+hilC	activates 	STM14_1971
+hilC	activates 	STM14_3525
+hilC	activates 	STM14_3153
+hilC	activates 	STM14_1783
+hilC	activates 	STM14_3411
+hilC	activates 	STM14_1401
+hilC	activates 	STM14_5120
+hilC	activates 	STM14_1209
+hilC	activates 	STM14_06610
+hilC	activates 	STM14_3301
+hilC	activates 	STM14_5119
+hilC	activates 	STM14_1764
+hilC	activates 	STM14_2255
+hilC	activates 	STM14_2902
+hilC	activates 	STM14_973
+hilC	activates 	STM14_5117
+hilC	activates 	STM14_3875
+hilC	activates 	STM14_0860
+hilC	activates 	STM14_4239
+hilC	activates 	STM14_1612
+hilC	activates 	STM14_0323
+hilC	activates 	STM14_0715
+hilC	activates 	STM14_3372
+hilC	activates 	STM14_3897
+hilC	activates 	STM14_0296
+hilC	activates 	STM14_4992
+hilC	activates 	STM14_2321
+hilC	activates 	STM14_1118
+hilC	activates 	STM14_4951
+hilC	activates 	STM14_4969
+hilC	activates 	STM14_4533
+hilC	activates 	STM14_2699
+hilC	activates 	STM14_0850
+hilC	activates 	STM14_2637
+hilC	activates 	STM14_1566
+hilC	activates 	STM14_3396
+hilC	activates 	STM14_5189
+hilC	activates 	STM14_3040
+hilC	activates 	STM14_3299
+hilC	activates 	STM14_0841
+hilC	activates 	STM14_0322
+hilC	activates 	STM14_0843
+hilC	activates 	STM14_2254
+hilC	activates 	STM14_3300
+hilC	activates 	STM14_0015
+hilC	activates 	STM14_0025
+hilC	activates 	STM14_0038
+hilC	activates 	STM14_0102
+hilC	activates 	STM14_0292
+hilC	activates 	STM14_0328
+hilC	activates 	STM14_0339
+hilC	activates 	STM14_0726
+hilC	activates 	STM14_0844
+hilC	activates 	STM14_1055
+hilC	activates 	STM14_1137
+hilC	activates 	STM14_1151
+hilC	activates 	STM14_1201
+hilC	activates 	STM14_1356
+hilC	activates 	STM14_1437
+hilC	activates 	STM14_1784
+hilC	activates 	STM14_1890
+hilC	activates 	STM14_1895
+hilC	activates 	STM14_2073
+hilC	activates 	STM14_2115
+hilC	activates 	STM14_2187
+hilC	activates 	STM14_2273
+hilC	activates 	STM14_2421
+hilC	activates 	STM14_2490
+hilC	activates 	STM14_2561
+hilC	activates 	STM14_2701
+hilC	activates 	STM14_3260
+hilC	activates 	STM14_3322
+hilC	activates 	STM14_3507
+hilC	activates 	STM14_3528
+hilC	activates 	STM14_3700
+hilC	activates 	STM14_3718
+hilC	activates 	STM14_3723
+hilC	activates 	STM14_3837
+hilC	activates 	STM14_3904
+hilC	activates 	STM14_4069
+hilC	activates 	STM14_4192
+hilC	activates 	STM14_4240
+hilC	activates 	STM14_4500
+hilC	activates 	STM14_4504
+hilC	activates 	STM14_4558
+hilC	activates 	STM14_4658
+hilC	activates 	STM14_4696
+hilC	activates 	STM14_4800
+hilC	activates 	STM14_5050
+hilC	activates 	STM14_5067
+hilC	activates 	STM14_5083
+hilC	activates 	STM14_5182
+hilC	activates 	STM14_952
+hilC	activates 	STM14_3421
+hilC	activates 	STM14_1939
+hilC	activates 	STM14_3080
+hilC	activates 	STM14_5557
+hilC	activates 	STM14_5584
+hilC	activates 	STM14_5594
+rstA	activates 	STM14_0390
+rstA	activates 	STM14_06610
+rstA	activates 	STM14_1486
+rstA	activates 	STM14_1612
+rstA	activates 	STM14_1613
+rstA	activates 	STM14_1614
+rstA	activates 	STM14_1756
+rstA	activates 	STM14_1758
+rstA	activates 	STM14_1829
+rstA	activates 	STM14_1833
+rstA	activates 	STM14_1854
+rstA	activates 	STM14_1855
+rstA	activates 	STM14_1856
+rstA	activates 	STM14_1857
+rstA	activates 	STM14_2321
+rstA	activates 	STM14_2342
+rstA	activates 	STM14_2632
+rstA	activates 	STM14_2633
+rstA	activates 	STM14_3410
+rstA	activates 	STM14_3466
+rstA	activates 	STM14_4056
+rstA	activates 	STM14_5117
+rstA	activates 	STM14_5118
+rstA	activates 	STM14_5119
+rstA	activates 	STM14_5120
+rstA	activates 	STM14_5184
+rstA	activates 	STM14_5185
+rstA	activates 	STM14_5186
+rstA	activates 	STM14_5187
+rstA	activates 	STM14_927
+rstA	activates 	STM14_0019
+rstA	activates 	STM14_0027
+rstA	activates 	STM14_0046
+rstA	activates 	STM14_0137
+rstA	activates 	STM14_0165
+rstA	activates 	STM14_0179
+rstA	activates 	STM14_0326
+rstA	activates 	STM14_0327
+rstA	activates 	STM14_0329
+rstA	activates 	STM14_0406
+rstA	activates 	STM14_0414
+rstA	activates 	STM14_0536
+rstA	activates 	STM14_0672
+rstA	activates 	STM14_0683
+rstA	activates 	STM14_0841
+rstA	activates 	STM14_0843
+rstA	activates 	STM14_1019
+rstA	activates 	STM14_1081
+rstA	activates 	STM14_1093
+rstA	activates 	STM14_1147
+rstA	activates 	STM14_1151
+rstA	activates 	STM14_1209
+rstA	activates 	STM14_1307
+rstA	activates 	STM14_1390
+rstA	activates 	STM14_1401
+rstA	activates 	STM14_1455
+rstA	activates 	STM14_1496
+rstA	activates 	STM14_1499
+rstA	activates 	STM14_1503
+rstA	activates 	STM14_1764
+rstA	activates 	STM14_1767
+rstA	activates 	STM14_1867
+rstA	activates 	STM14_1922
+rstA	activates 	STM14_1961
+rstA	activates 	STM14_2123
+rstA	activates 	STM14_2151
+rstA	activates 	STM14_2161
+rstA	activates 	STM14_2162
+rstA	activates 	STM14_2166
+rstA	activates 	STM14_2187
+rstA	activates 	STM14_2255
+rstA	activates 	STM14_2257
+rstA	activates 	STM14_2271
+rstA	activates 	STM14_2298
+rstA	activates 	STM14_2631
+rstA	activates 	STM14_2736
+rstA	activates 	STM14_2822
+rstA	activates 	STM14_2923
+rstA	activates 	STM14_2925
+rstA	activates 	STM14_2955
+rstA	activates 	STM14_3080
+rstA	activates 	STM14_3197
+rstA	activates 	STM14_3209
+rstA	activates 	STM14_3299
+rstA	activates 	STM14_3363
+rstA	activates 	STM14_3464
+rstA	activates 	STM14_3583
+rstA	activates 	STM14_3645
+rstA	activates 	STM14_3690
+rstA	activates 	STM14_3884
+rstA	activates 	STM14_3897
+rstA	activates 	STM14_4101
+rstA	activates 	STM14_4352
+rstA	activates 	STM14_4437
+rstA	activates 	STM14_4630
+rstA	activates 	STM14_4771
+rstA	activates 	STM14_4893
+rstA	activates 	STM14_5025
+rstA	activates 	STM14_5067
+rstA	activates 	STM14_5083
+rstA	activates 	STM14_5115
+rstA	activates 	STM14_5116
+rstA	activates 	STM14_5122
+rstA	activates 	STM14_5124
+rstA	activates 	STM14_5137
+rstA	activates 	STM14_5149
+rstA	activates 	STM14_5188
+rstA	activates 	STM14_5212
+rstA	activates 	STM14_5347
+rstA	activates 	STM14_5462
+rstA	activates 	STM14_5547
+invF	activates 	STM14_0850
+invF	activates 	STM14_0860
+invF	activates 	STM14_1486
+invF	activates 	STM14_1833
+invF	activates 	STM14_1854
+invF	activates 	STM14_1855
+invF	activates 	STM14_1970
+invF	activates 	STM14_2321
+invF	activates 	STM14_3301
+invF	activates 	STM14_3479
+invF	activates 	STM14_4296
+invF	activates 	STM14_4689
+invF	activates 	STM14_0025
+invF	activates 	STM14_0143
+invF	activates 	STM14_0210
+invF	activates 	STM14_0225
+invF	activates 	STM14_0403
+invF	activates 	STM14_0446
+invF	activates 	STM14_0464
+invF	activates 	STM14_05870
+invF	activates 	STM14_0655
+invF	activates 	STM14_0820
+invF	activates 	STM14_1108
+invF	activates 	STM14_1164
+invF	activates 	STM14_1201
+invF	activates 	STM14_1450
+invF	activates 	STM14_1476
+invF	activates 	STM14_1638
+invF	activates 	STM14_1895
+invF	activates 	STM14_1902
+invF	activates 	STM14_2222
+invF	activates 	STM14_2243
+invF	activates 	STM14_2556
+invF	activates 	STM14_2736
+invF	activates 	STM14_2815
+invF	activates 	STM14_2870
+invF	activates 	STM14_2902
+invF	activates 	STM14_2921
+invF	activates 	STM14_2940
+invF	activates 	STM14_3090
+invF	activates 	STM14_3119
+invF	activates 	STM14_3227
+invF	activates 	STM14_3260
+invF	activates 	STM14_3314
+invF	activates 	STM14_3341
+invF	activates 	STM14_3372
+invF	activates 	STM14_3386
+invF	activates 	STM14_3464
+invF	activates 	STM14_3502
+invF	activates 	STM14_3525
+invF	activates 	STM14_3528
+invF	activates 	STM14_3622
+invF	activates 	STM14_3783
+invF	activates 	STM14_3890
+invF	activates 	STM14_3933
+invF	activates 	STM14_4074
+invF	activates 	STM14_4240
+invF	activates 	STM14_4403
+invF	activates 	STM14_4533
+invF	activates 	STM14_4578
+invF	activates 	STM14_4630
+invF	activates 	STM14_4696
+invF	activates 	STM14_4808
+invF	activates 	STM14_4811
+invF	activates 	STM14_4854
+invF	activates 	STM14_4894
+invF	activates 	STM14_4934
+invF	activates 	STM14_5068
+invF	activates 	STM14_5084
+invF	activates 	STM14_5101
+invF	activates 	STM14_5110
+invF	activates 	STM14_5149
+invF	activates 	STM14_5208
+invF	activates 	STM14_5429
+invF	activates 	STM14_970
+sprB	activates 	STM14_0407
+sprB	activates 	STM14_0025
+sprB	activates 	STM14_0141
+sprB	activates 	STM14_0403
+sprB	activates 	STM14_0657
+sprB	activates 	STM14_1161
+sprB	activates 	STM14_1164
+sprB	activates 	STM14_1201
+sprB	activates 	STM14_1286
+sprB	activates 	STM14_1981
+sprB	activates 	STM14_1994
+sprB	activates 	STM14_2305
+sprB	activates 	STM14_2458
+sprB	activates 	STM14_2637
+sprB	activates 	STM14_2923
+sprB	activates 	STM14_2975
+sprB	activates 	STM14_3079
+sprB	activates 	STM14_3154
+sprB	activates 	STM14_3197
+sprB	activates 	STM14_3204
+sprB	activates 	STM14_3260
+sprB	activates 	STM14_3299
+sprB	activates 	STM14_3583
+sprB	activates 	STM14_3624
+sprB	activates 	STM14_3711
+sprB	activates 	STM14_3718
+sprB	activates 	STM14_3728
+sprB	activates 	STM14_3757
+sprB	activates 	STM14_3774
+sprB	activates 	STM14_4192
+sprB	activates 	STM14_4448
+sprB	activates 	STM14_4520
+sprB	activates 	STM14_4874
+sprB	activates 	STM14_5051
+sprB	activates 	STM14_5083
+sprB	activates 	STM14_5124
+sprB	activates 	STM14_5254
+sprB	activates 	STM14_5344
+sprB	activates 	STM14_5431
+sprB	activates 	STM14_5462
+sprB	activates 	STM14_5468
+sprB	activates 	STM14_5494
+sprB	activates 	STM14_0015
+sprB	activates 	STM14_0296
+sprB	activates 	STM14_0398
+sprB	activates 	STM14_0399
+sprB	activates 	STM14_0629
+sprB	activates 	STM14_0780
+sprB	activates 	STM14_0791
+sprB	activates 	STM14_1098
+sprB	activates 	STM14_1197
+sprB	activates 	STM14_1399
+sprB	activates 	STM14_1494
+sprB	activates 	STM14_1499
+sprB	activates 	STM14_1502
+sprB	activates 	STM14_1561
+sprB	activates 	STM14_1612
+sprB	activates 	STM14_1613
+sprB	activates 	STM14_1614
+sprB	activates 	STM14_1693
+sprB	activates 	STM14_1694
+sprB	activates 	STM14_1706
+sprB	activates 	STM14_1794
+sprB	activates 	STM14_1911
+sprB	activates 	STM14_1939
+sprB	activates 	STM14_2227
+sprB	activates 	STM14_2242
+sprB	activates 	STM14_2357
+sprB	activates 	STM14_2428
+sprB	activates 	STM14_2624
+sprB	activates 	STM14_2638
+sprB	activates 	STM14_2692
+sprB	activates 	STM14_2911
+sprB	activates 	STM14_3011
+sprB	activates 	STM14_3035
+sprB	activates 	STM14_3036
+sprB	activates 	STM14_3069
+sprB	activates 	STM14_3625
+sprB	activates 	STM14_3628
+sprB	activates 	STM14_3799
+sprB	activates 	STM14_4214
+sprB	activates 	STM14_4239
+sprB	activates 	STM14_4595
+sprB	activates 	STM14_4689
+sprB	activates 	STM14_4813
+sprB	activates 	STM14_4821
+sprB	activates 	STM14_5096
+sprB	activates 	STM14_5188
+sprB	activates 	STM14_5495
+sprB	activates 	STM14_927
+sprB	activates 	STM14_0016
+sprB	activates 	STM14_0137
+sprB	activates 	STM14_0310
+sprB	activates 	STM14_0430
+sprB	activates 	STM14_0628
+sprB	activates 	STM14_0783
+sprB	activates 	STM14_1151
+sprB	activates 	STM14_1196
+sprB	activates 	STM14_1291
+sprB	activates 	STM14_1450
+sprB	activates 	STM14_1496
+sprB	activates 	STM14_1692
+sprB	activates 	STM14_1922
+sprB	activates 	STM14_1937
+sprB	activates 	STM14_2117
+sprB	activates 	STM14_2255
+sprB	activates 	STM14_2448
+sprB	activates 	STM14_2623
+sprB	activates 	STM14_2773
+sprB	activates 	STM14_2823
+sprB	activates 	STM14_2952
+sprB	activates 	STM14_3622
+sprB	activates 	STM14_3798
+sprB	activates 	STM14_3801
+sprB	activates 	STM14_4095
+sprB	activates 	STM14_4180
+sprB	activates 	STM14_4240
+sprB	activates 	STM14_4388
+sprB	activates 	STM14_4658
+sprB	activates 	STM14_4771
+sprB	activates 	STM14_4772
+sprB	activates 	STM14_5044
+sprB	activates 	STM14_5117
+sprB	activates 	STM14_5118
+sprB	activates 	STM14_5119
+sprB	activates 	STM14_5120
+sprB	activates 	STM14_5125
+sprB	activates 	STM14_5189
+sprB	activates 	STM14_5208
+sprB	activates 	STM14_5299
+rtsB	activates 	STM14_5187
+rtsB	activates 	STM14_5188
+rtsB	activates 	STM14_3080
+rtsB	activates 	STM14_5407
+rtsB	activates 	STM14_2123
+rtsB	activates 	STM14_4856
+rtsB	activates 	STM14_1833
+rtsB	activates 	STM14_2501
+rtsB	activates 	STM14_4336
+rtsB	activates 	STM14_4951
+rtsB	activates 	STM14_0715
+rtsB	activates 	STM14_0850
+rtsB	activates 	STM14_0015
+rtsB	activates 	STM14_0645
+rtsB	activates 	STM14_1904
+rtsB	activates 	STM14_1971
+rtsB	activates 	STM14_1979
+rtsB	activates 	STM14_2421
+rtsB	activates 	STM14_3227
+rtsB	activates 	STM14_3783
+rtsB	activates 	STM14_4180
+rtsB	activates 	STM14_4578
+rtsB	activates 	STM14_4867
+rtsB	activates 	STM14_4893
+rtsB	activates 	STM14_5044
+rtsB	activates 	STM14_0359
+rtsB	activates 	STM14_0726
+rtsB	activates 	STM14_1528
+rtsB	activates 	STM14_1572
+rtsB	activates 	STM14_1828
+rtsB	activates 	STM14_2148
+rtsB	activates 	STM14_2711
+rtsB	activates 	STM14_2771
+rtsB	activates 	STM14_3645
+rtsB	activates 	STM14_4101
+rtsB	activates 	STM14_0846
+rtsB	activates 	STM14_2004
+rtsB	activates 	STM14_2870
+rtsB	activates 	STM14_0683
+rtsB	activates 	STM14_3775
+rtsB	activates 	STM14_1494
+rtsB	activates 	STM14_0012
+rtsB	activates 	STM14_0225
+rtsB	activates 	STM14_0326
+rtsB	activates 	STM14_0327
+rtsB	activates 	STM14_0331
+rtsB	activates 	STM14_0361
+rtsB	activates 	STM14_0668
+rtsB	activates 	STM14_1053
+rtsB	activates 	STM14_1262
+rtsB	activates 	STM14_1279
+rtsB	activates 	STM14_1950
+rtsB	activates 	STM14_2223
+rtsB	activates 	STM14_2243
+rtsB	activates 	STM14_2255
+rtsB	activates 	STM14_2272
+rtsB	activates 	STM14_2298
+rtsB	activates 	STM14_2822
+rtsB	activates 	STM14_3090
+rtsB	activates 	STM14_3168
+rtsB	activates 	STM14_3364
+rtsB	activates 	STM14_3901
+rtsB	activates 	STM14_4182
+rtsB	activates 	STM14_4316
+rtsB	activates 	STM14_4340
+rtsB	activates 	STM14_4540
+rtsB	activates 	STM14_4894
+rtsB	activates 	STM14_4993
+rtsB	activates 	STM14_5125
+rtsB	activates 	STM14_5367
+rtsB	activates 	STM14_952
+rtsB	activates 	STM14_0343
+rtsB	activates 	STM14_1007
+rtsB	activates 	STM14_4961
+rtsB	activates 	STM14_4361
+rtsB	activates 	STM14_1316
+rtsB	activates 	STM14_0860
+rtsB	activates 	STM14_1038
+rtsB	activates 	STM14_0337
+rtsB	activates 	STM14_1510
+rtsB	activates 	STM14_2710
+rtsB	activates 	STM14_2665
+rtsB	activates 	STM14_1829
+rtsB	activates 	STM14_3690
+rtsB	activates 	STM14_3410
+rtsB	activates 	STM14_982
+rtsB	activates 	STM14_0406
+rtsB	activates 	STM14_1081
+rtsB	activates 	STM14_1658
+rtsB	activates 	STM14_2257
+rtsB	activates 	STM14_2902
+rtsB	activates 	STM14_2952
+rtsB	activates 	STM14_3525
+rtsB	activates 	STM14_3723
+rtsB	activates 	STM14_3757
+rtsB	activates 	STM14_4095
+rtsB	activates 	STM14_5046
+rtsB	activates 	STM14_5132
+rtsB	activates 	STM14_5175
+rtsB	activates 	STM14_1831
+rtsB	activates 	STM14_0599
+rtsB	activates 	STM14_2158
+rtsB	activates 	STM14_4439
+rtsB	activates 	STM14_2270
+rtsB	activates 	STM14_0042
+rtsB	activates 	STM14_0342
+rtsB	activates 	STM14_1249
+rtsB	activates 	STM14_3872
+rtsB	activates 	STM14_4886
+rtsB	activates 	STM14_5020
+rtsB	activates 	STM14_1239
+rtsB	activates 	STM14_0345
+rtsB	activates 	STM14_3207
+rtsB	activates 	STM14_3503
+rtsB	activates 	STM14_4284
+rtsB	activates 	STM14_939
+rtsB	activates 	STM14_940
+rtsB	activates 	STM14_0774
+rtsB	activates 	STM14_2268
+rtsB	activates 	STM14_3070
+rtsB	activates 	STM14_4261
+rtsB	activates 	STM14_1545
+rtsB	activates 	STM14_4932
+rtsB	activates 	STM14_1165
+rtsB	activates 	STM14_4565
+rtsB	activates 	STM14_5211
+rtsB	activates 	STM14_3306
+rtsB	activates 	STM14_3153
+rtsB	activates 	STM14_2094
+rtsB	activates 	STM14_4689
+rtsB	activates 	STM14_1005
+rtsB	activates 	STM14_973
+rtsB	activates 	STM14_1569
+rtsB	activates 	STM14_4892
+rtsB	activates 	STM14_0038
+rtsB	activates 	STM14_0043
+rtsB	activates 	STM14_0097
+rtsB	activates 	STM14_0179
+rtsB	activates 	STM14_0328
+rtsB	activates 	STM14_0332
+rtsB	activates 	STM14_0348
+rtsB	activates 	STM14_0610
+rtsB	activates 	STM14_0655
+rtsB	activates 	STM14_0672
+rtsB	activates 	STM14_0834
+rtsB	activates 	STM14_1198
+rtsB	activates 	STM14_1209
+rtsB	activates 	STM14_1235
+rtsB	activates 	STM14_1280
+rtsB	activates 	STM14_1444
+rtsB	activates 	STM14_1481
+rtsB	activates 	STM14_1557
+rtsB	activates 	STM14_1623
+rtsB	activates 	STM14_1638
+rtsB	activates 	STM14_1784
+rtsB	activates 	STM14_1895
+rtsB	activates 	STM14_1902
+rtsB	activates 	STM14_1923
+rtsB	activates 	STM14_2017
+rtsB	activates 	STM14_2026
+rtsB	activates 	STM14_2049
+rtsB	activates 	STM14_2222
+rtsB	activates 	STM14_2293
+rtsB	activates 	STM14_2313
+rtsB	activates 	STM14_2387
+rtsB	activates 	STM14_2411
+rtsB	activates 	STM14_2624
+rtsB	activates 	STM14_2640
+rtsB	activates 	STM14_2686
+rtsB	activates 	STM14_2759
+rtsB	activates 	STM14_2770
+rtsB	activates 	STM14_2807
+rtsB	activates 	STM14_2808
+rtsB	activates 	STM14_2815
+rtsB	activates 	STM14_2890
+rtsB	activates 	STM14_2923
+rtsB	activates 	STM14_3043
+rtsB	activates 	STM14_3169
+rtsB	activates 	STM14_3178
+rtsB	activates 	STM14_3197
+rtsB	activates 	STM14_3209
+rtsB	activates 	STM14_3298
+rtsB	activates 	STM14_3299
+rtsB	activates 	STM14_3361
+rtsB	activates 	STM14_3421
+rtsB	activates 	STM14_3427
+rtsB	activates 	STM14_3504
+rtsB	activates 	STM14_3507
+rtsB	activates 	STM14_3510
+rtsB	activates 	STM14_3513
+rtsB	activates 	STM14_3642
+rtsB	activates 	STM14_3665
+rtsB	activates 	STM14_3670
+rtsB	activates 	STM14_3691
+rtsB	activates 	STM14_3726
+rtsB	activates 	STM14_3774
+rtsB	activates 	STM14_3895
+rtsB	activates 	STM14_4185
+rtsB	activates 	STM14_4213
+rtsB	activates 	STM14_4374
+rtsB	activates 	STM14_4424
+rtsB	activates 	STM14_4485
+rtsB	activates 	STM14_4580
+rtsB	activates 	STM14_4738
+rtsB	activates 	STM14_4854
+rtsB	activates 	STM14_4930
+rtsB	activates 	STM14_4950
+rtsB	activates 	STM14_5149
+rtsB	activates 	STM14_5182
+rtsB	activates 	STM14_5300
+rtsB	activates 	STM14_5410
+rtsB	activates 	STM14_5429
+rtsB	activates 	STM14_5496
+rtsB	activates 	STM14_970
+rtsB	activates 	STM14_989
+rtsB	activates 	STM14_5557
+hilA	activates 	STM14_0580
+hilA	activates 	STM14_06610
+hilA	activates 	STM14_1174
+hilA	activates 	STM14_1175
+hilA	activates 	STM14_1176
+hilA	activates 	STM14_1177
+hilA	activates 	STM14_1178
+hilA	activates 	STM14_1180
+hilA	activates 	STM14_1486
+hilA	activates 	STM14_1507
+hilA	activates 	STM14_1508
+hilA	activates 	STM14_1829
+hilA	activates 	STM14_3466
+hilA	activates 	STM14_3479
+hilA	activates 	STM14_3847
+hilA	activates 	STM14_4330
+hilA	activates 	STM14_4331
+hilA	activates 	STM14_4969
+hilA	activates 	STM14_5101
+hilA	activates 	STM14_5117
+hilA	activates 	STM14_5118
+hilA	activates 	STM14_5119
+hilA	activates 	STM14_5120
+hilA	activates 	STM14_5121
+hilA	activates 	STM14_5185
+hilA	activates 	STM14_5186
+hilA	activates 	STM14_5187
+hilA	activates 	STM14_5188
+hilA	activates 	STM14_0076
+hilA	activates 	STM14_0097
+hilA	activates 	STM14_0179
+hilA	activates 	STM14_0328
+hilA	activates 	STM14_0363
+hilA	activates 	STM14_0414
+hilA	activates 	STM14_0597
+hilA	activates 	STM14_0653
+hilA	activates 	STM14_0683
+hilA	activates 	STM14_0841
+hilA	activates 	STM14_1108
+hilA	activates 	STM14_1161
+hilA	activates 	STM14_1164
+hilA	activates 	STM14_1179
+hilA	activates 	STM14_1557
+hilA	activates 	STM14_1895
+hilA	activates 	STM14_1914
+hilA	activates 	STM14_2305
+hilA	activates 	STM14_2387
+hilA	activates 	STM14_2454
+hilA	activates 	STM14_2921
+hilA	activates 	STM14_2955
+hilA	activates 	STM14_3109
+hilA	activates 	STM14_3119
+hilA	activates 	STM14_3205
+hilA	activates 	STM14_3295
+hilA	activates 	STM14_3431
+hilA	activates 	STM14_3464
+hilA	activates 	STM14_3502
+hilA	activates 	STM14_3700
+hilA	activates 	STM14_3726
+hilA	activates 	STM14_3800
+hilA	activates 	STM14_3897
+hilA	activates 	STM14_4185
+hilA	activates 	STM14_4379
+hilA	activates 	STM14_4549
+hilA	activates 	STM14_4658
+hilA	activates 	STM14_4759
+hilA	activates 	STM14_4771
+hilA	activates 	STM14_4808
+hilA	activates 	STM14_4874
+hilA	activates 	STM14_5051
+hilA	activates 	STM14_5110
+hilA	activates 	STM14_5122
+hilA	activates 	STM14_5125
+hilA	activates 	STM14_5189
+hilA	activates 	STM14_5208
+hilA	activates 	STM14_5347
+hilA	activates 	STM14_5399
+hilA	activates 	STM14_5416
+hilA	activates 	STM14_5455
+hilA	activates 	STM14_5496
+hilA	activates 	STM14_5589
+hilD	activates 	aas
+hilD	activates 	aceF
+hilD	activates 	adi
+hilD	activates 	alaT
+hilC	activates 	alaT
+hilA	activates 	alaT
+hilD	activates 	alaV
+hilC	activates 	alaV
+hilA	activates 	alaV
+rtsB	activates 	allP
+hilD	activates 	panE
+hilD	activates 	araD
+rtsB	activates 	argB
+rtsB	activates 	argC
+rtsB	activates 	argD_2
+rtsB	activates 	argH
+rtsB	activates 	argI
+invF	activates 	argU
+invF	activates 	argW
+sprB	activates 	argW
+hilA	activates 	argW
+rtsB	activates 	aroE_1
+rtsB	activates 	aroM
+rtsB	activates 	artJ
+rtsB	activates 	asnA
+hilD	activates 	asnB
+sprB	activates 	asnB
+hilD	activates 	asnT_1
+hilC	activates 	asnT_1
+rstA	activates 	asnT_1
+sprB	activates 	asnT_1
+hilA	activates 	asnT_1
+hilD	activates 	asnT_2
+hilC	activates 	asnT_2
+rstA	activates 	asnT_2
+sprB	activates 	asnT_2
+hilA	activates 	asnT_2
+hilD	activates 	asnU
+hilC	activates 	asnU
+rstA	activates 	asnU
+sprB	activates 	asnU
+hilA	activates 	asnU
+hilD	activates 	asnW
+hilC	activates 	asnW
+rstA	activates 	asnW
+sprB	activates 	asnW
+hilA	activates 	asnW
+hilA	activates 	aspT
+hilC	activates 	aspU
+rstA	activates 	aspU
+hilA	activates 	aspU
+hilD	activates 	aspV
+hilC	activates 	aspV
+rstA	activates 	aspV
+hilA	activates 	aspV
+rtsB	activates 	astE
+rstA	activates 	baeR
+hilD	activates 	baeS
+rstA	activates 	baeS
+rstA	activates 	bcfB
+rstA	activates 	bcfF
+rtsB	activates 	bfd
+sprB	activates 	bglX
+rstA	activates 	bioA
+rtsB	activates 	bioB
+hilC	activates 	bioC
+hilA	activates 	cadA
+rstA	activates 	cadB
+hilD	activates 	caiF
+hilD	activates 	caiT
+hilD	activates 	cheM
+hilD	activates 	cheR
+hilD	activates 	cheW
+hilD	activates 	cheY
+hilD	activates 	cheZ
+sprB	activates 	cigR
+rtsB	activates 	citD2
+hilA	activates 	citE2
+hilC	activates 	citT
+invF	activates 	citT
+sprB	activates 	citT
+hilA	activates 	citT
+sprB	activates 	clpB
+hilA	activates 	cobU
+rstA	activates 	cpsG
+hilA	activates 	cpsG
+rstA	activates 	csgA
+rtsB	activates 	csgA
+rtsB	activates 	csgB
+rstA	activates 	csgF
+sprB	activates 	csgF
+rtsB	activates 	csgG
+hilD	activates 	cspA
+hilD	activates 	cspB
+rtsB	activates 	cspD
+hilD	activates 	cybC
+hilD	activates 	cysB
+hilD	activates 	cysZ
+rstA	activates 	dacB
+rtsB	activates 	dadA
+sprB	activates 	dcoB
+sprB	activates 	lpxP
+rstA	activates 	ddl_2
+sprB	activates 	dedD
+hilD	activates 	dkgA
+hilD	activates 	dksA
+hilC	activates 	dksA
+rstA	activates 	dksA
+rtsB	activates 	dlhH
+invF	activates 	dnaJ
+sprB	activates 	dnaJ
+invF	activates 	dnaK
+sprB	activates 	dnaK
+rtsB	activates 	mltD
+rtsB	activates 	dppA
+hilD	activates 	dsbA
+hilC	activates 	dsbA
+rstA	activates 	dsbA
+invF	activates 	dsrA
+hilC	activates 	ecnA
+rstA	activates 	ecnA
+hilA	activates 	ego
+rstA	activates 	entC
+rtsB	activates 	entD
+hilA	activates 	entD
+hilD	activates 	entE
+sprB	activates 	envE
+rtsB	activates 	envF
+invF	activates 	envR
+hilD	activates 	fdnG
+rstA	activates 	fdnG
+hilD	activates 	fdnH
+hilD	activates 	fdnI
+rstA	activates 	fdrA
+invF	activates 	fdrA
+sprB	activates 	fdrA
+hilC	activates 	fepD
+rtsB	activates 	fepD
+rstA	activates 	fepG
+hilD	activates 	ffs
+hilC	activates 	ffs
+rstA	activates 	ffs
+sprB	activates 	ffs
+hilA	activates 	ffs
+hilD	activates 	fixC
+sprB	activates 	fixX
+hilD	activates 	flgA
+hilD	activates 	flgB
+hilD	activates 	flgC
+hilD	activates 	flgD
+hilD	activates 	flgE
+hilD	activates 	flgG
+hilD	activates 	flgH
+hilD	activates 	flgM
+hilD	activates 	flgN
+hilD	activates 	flhB
+hilD	activates 	flhC
+hilD	activates 	flhD
+hilD	activates 	flhE
+hilD	activates 	fliA
+hilD	activates 	fliC
+hilD	activates 	fliE
+hilD	activates 	fliF
+hilD	activates 	fliG
+hilD	activates 	fliH
+hilD	activates 	fliK
+hilD	activates 	fliL
+hilD	activates 	fliM
+hilD	activates 	fliN
+hilD	activates 	fliO
+hilD	activates 	fliP
+hilD	activates 	fliQ
+rstA	activates 	fliR
+hilD	activates 	fliS
+hilD	activates 	fliT
+hilD	activates 	fliZ
+hilD	activates 	fljB
+sprB	activates 	folC
+hilD	activates 	folK
+sprB	activates 	ftsN
+rstA	activates 	ftsQ
+hilD	activates 	ftsW
+rstA	activates 	ftsZ
+sprB	activates 	fxsA
+sprB	activates 	galU
+hilD	activates 	glnS
+hilD	activates 	glnV
+hilC	activates 	glnV
+rstA	activates 	glnV
+hilA	activates 	glnV
+hilC	activates 	glnW
+hilA	activates 	glnW
+hilD	activates 	glnX
+hilC	activates 	glnX
+rstA	activates 	glnX
+hilA	activates 	glnX
+rtsB	activates 	glpE
+hilC	activates 	gltU
+rstA	activates 	gltU
+hilA	activates 	gltU
+hilC	activates 	gltV
+rstA	activates 	gltV
+hilA	activates 	gltV
+hilC	activates 	gltW
+rstA	activates 	gltW
+hilA	activates 	gltW
+rstA	activates 	gmd
+rtsB	activates 	gmd
+rtsB	activates 	gpmA
+sprB	activates 	ytjC
+invF	activates 	groL
+sprB	activates 	groL
+sprB	activates 	groS
+sprB	activates 	grpE
+hilD	activates 	gtgA
+hilC	activates 	hemA
+rstA	activates 	hdeB
+hilD	activates 	hilA
+hilC	activates 	hilA
+rstA	activates 	hilA
+hilD	activates 	hilC
+hilC	activates 	hilC
+rstA	activates 	hilC
+hilA	activates 	hilC
+hilD	activates 	hilD
+hilC	activates 	hilD
+rstA	activates 	hilD
+hilA	activates 	hilD
+hilC	activates 	hisR
+hilC	activates 	hopD
+rstA	activates 	hopD
+invF	activates 	hopD
+rtsB	activates 	hopD
+rtsB	activates 	hpaH
+sprB	activates 	hslO
+invF	activates 	hslU
+sprB	activates 	hslU
+invF	activates 	hslV
+sprB	activates 	hslV
+invF	activates 	htpG
+sprB	activates 	htpG
+hilD	activates 	hycA
+hilD	activates 	hycB
+hilD	activates 	hycC
+hilD	activates 	hycD
+hilD	activates 	hycE
+hilD	activates 	hycF
+hilD	activates 	hycG
+hilD	activates 	hycH
+hilD	activates 	hydN
+hilD	activates 	iacP
+rstA	activates 	iacP
+invF	activates 	iacP
+hilA	activates 	iacP
+hilD	activates 	iagB
+hilC	activates 	iagB
+rstA	activates 	iagB
+sprB	activates 	iap
+invF	activates 	ibpA
+sprB	activates 	ibpA
+invF	activates 	ibpB
+sprB	activates 	ibpB
+hilD	activates 	ilvL
+hilC	activates 	ilvL
+hilD	activates 	invA
+hilC	activates 	invA
+rstA	activates 	invA
+hilA	activates 	invA
+hilD	activates 	invB
+rstA	activates 	invB
+hilA	activates 	invB
+hilD	activates 	invC
+rstA	activates 	invC
+hilA	activates 	invC
+hilD	activates 	invE
+hilC	activates 	invE
+rstA	activates 	invE
+hilA	activates 	invE
+hilD	activates 	invF
+hilC	activates 	invF
+rstA	activates 	invF
+invF	activates 	invF
+hilA	activates 	invF
+hilD	activates 	invG
+hilC	activates 	invG
+rstA	activates 	invG
+hilA	activates 	invG
+hilD	activates 	invH
+hilC	activates 	invH
+rstA	activates 	invH
+hilA	activates 	invH
+hilD	activates 	invI
+rstA	activates 	invI
+hilA	activates 	invI
+hilD	activates 	invJ
+rstA	activates 	invJ
+hilA	activates 	invJ
+hilA	activates 	iroD
+hilC	activates 	kdpB
+rtsB	activates 	kdpB
+rtsB	activates 	kgtP
+hilC	activates 	leuO
+sprB	activates 	leuO
+hilD	activates 	leuP
+hilC	activates 	leuP
+rstA	activates 	leuP
+rtsB	activates 	leuP
+hilA	activates 	leuP
+hilD	activates 	leuQ
+hilC	activates 	leuQ
+rstA	activates 	leuQ
+invF	activates 	leuQ
+rtsB	activates 	leuQ
+hilD	activates 	leuT
+hilC	activates 	leuT
+invF	activates 	leuT
+rtsB	activates 	leuT
+hilD	activates 	leuU
+hilC	activates 	leuU
+rstA	activates 	leuU
+invF	activates 	leuU
+rtsB	activates 	leuU
+hilA	activates 	leuU
+hilD	activates 	leuV
+hilC	activates 	leuV
+rstA	activates 	leuV
+invF	activates 	leuV
+rtsB	activates 	leuV
+hilD	activates 	leuX
+hilC	activates 	leuX
+rstA	activates 	leuX
+invF	activates 	leuX
+rtsB	activates 	leuX
+hilA	activates 	leuX
+hilC	activates 	leuZ
+invF	activates 	leuZ
+sprB	activates 	lolB
+sprB	activates 	lon
+invF	activates 	lpfA
+rtsB	activates 	lpfB
+hilD	activates 	lysV
+hilC	activates 	lysV
+rstA	activates 	lysV
+hilD	activates 	lysZ
+hilC	activates 	lysZ
+rstA	activates 	lysZ
+hilD	activates 	malE
+hilD	activates 	malF
+hilC	activates 	malF
+hilD	activates 	malG
+hilC	activates 	cpsB
+rtsB	activates 	cpsB
+hilD	activates 	manX
+hilD	activates 	manY
+hilD	activates 	manZ
+hilD	activates 	nfsA
+sprB	activates 	menA
+rtsB	activates 	metA
+rtsB	activates 	metF
+hilD	activates 	metW
+hilC	activates 	metW
+rstA	activates 	metW
+hilA	activates 	metW
+hilC	activates 	metY
+hilA	activates 	metY
+hilD	activates 	metZ
+hilC	activates 	metZ
+sprB	activates 	metZ
+hilA	activates 	metZ
+hilD	activates 	micF
+sprB	activates 	mig-14
+sprB	activates 	minC
+sprB	activates 	minD
+sprB	activates 	minE
+sprB	activates 	mipA
+sprB	activates 	mltC
+sprB	activates 	mpl
+hilD	activates 	mraY
+rtsB	activates 	msgA
+hilD	activates 	murC
+rstA	activates 	murC
+hilD	activates 	murD
+hilD	activates 	murF
+sprB	activates 	mutM
+sprB	activates 	mutY
+hilD	activates 	napD
+hilA	activates 	narK
+sprB	activates 	nepI
+hilD	activates 	nhaA
+hilC	activates 	nhaA
+rstA	activates 	nhaA
+hilD	activates 	nhaR
+hilC	activates 	nhaR
+rstA	activates 	nhaR
+sprB	activates 	nhoA
+hilD	activates 	nirD
+sprB	activates 	nrdI
+rstA	activates 	oadA
+rstA	activates 	oadG
+hilD	activates 	ogt
+rtsB	activates 	ompF
+rtsB	activates 	ompS
+hilD	activates 	orgA
+rstA	activates 	orgA
+hilA	activates 	orgA
+hilD	activates 	orgB
+rstA	activates 	orgB
+hilA	activates 	orgB
+hilD	activates 	orgC
+rstA	activates 	orgC
+hilA	activates 	orgC
+hilD	activates 	pagC
+rstA	activates 	pagC
+sprB	activates 	pagC
+rstA	activates 	pagD
+sprB	activates 	pagD
+sprB	activates 	pck
+hilA	activates 	pduA
+hilA	activates 	pduH
+hilC	activates 	pduK
+rstA	activates 	pduK
+sprB	activates 	pduK
+hilA	activates 	pduK
+rstA	activates 	pduO
+hilA	activates 	pduO
+hilC	activates 	pduU
+rstA	activates 	pduU
+hilA	activates 	pduU
+hilD	activates 	pefA
+hilC	activates 	pefA
+rstA	activates 	pefA
+hilC	activates 	pflE
+hilA	activates 	pflE
+rtsB	activates 	pgpB
+hilC	activates 	pheR
+invF	activates 	pheR
+invF	activates 	pheV
+rstA	activates 	phnS
+hilC	activates 	phnU
+hilA	activates 	phnU
+rstA	activates 	phoE
+sprB	activates 	ybeZ
+sprB	activates 	phoP
+hilD	activates 	pipB
+invF	activates 	pipB
+hilA	activates 	pipB
+hilD	activates 	pipC
+invF	activates 	pipC
+hilA	activates 	pipC
+hilD	activates 	pmbA
+hilD	activates 	pmgI
+hilC	activates 	ppdA
+rtsB	activates 	pphA
+sprB	activates 	ppsA
+hilD	activates 	prgH
+hilC	activates 	prgH
+rstA	activates 	prgH
+hilA	activates 	prgH
+hilD	activates 	prgI
+rstA	activates 	prgI
+hilA	activates 	prgI
+hilD	activates 	prgJ
+hilC	activates 	prgJ
+rstA	activates 	prgJ
+hilA	activates 	prgJ
+hilD	activates 	prgK
+hilC	activates 	prgK
+rstA	activates 	prgK
+hilA	activates 	prgK
+hilD	activates 	proK
+hilC	activates 	proK
+rstA	activates 	proK
+hilA	activates 	proK
+hilD	activates 	proL
+hilC	activates 	proL
+rstA	activates 	proL
+invF	activates 	proL
+hilA	activates 	proL
+hilD	activates 	proM
+hilC	activates 	proM
+rstA	activates 	proM
+invF	activates 	proM
+hilA	activates 	proM
+invF	activates 	prpB
+hilA	activates 	pspA
+hilA	activates 	pspB
+hilA	activates 	pspC
+hilA	activates 	pspD
+invF	activates 	pspG
+hilA	activates 	pspG
+rstA	activates 	repA2
+sprB	activates 	rhaA
+hilC	activates 	rhaT
+rtsB	activates 	rihA
+hilD	activates 	rmf
+hilC	activates 	rmf
+rtsB	activates 	rmf
+rstA	activates 	rnfD
+hilD	activates 	rnpB
+hilC	activates 	rnpB
+rstA	activates 	rnpB
+invF	activates 	rnpB
+rtsB	activates 	rnpB
+hilD	activates 	rplT
+hilD	activates 	rpmG
+hilD	activates 	rprA
+hilC	activates 	rprA
+hilD	activates 	rpsO
+hilD	activates 	rpsR
+hilD	activates 	rrfA
+invF	activates 	rrfA
+sprB	activates 	rrfA
+hilD	activates 	rrfB
+hilC	activates 	rrfB
+rstA	activates 	rrfB
+invF	activates 	rrfB
+sprB	activates 	rrfB
+hilD	activates 	rrfC
+hilC	activates 	rrfC
+invF	activates 	rrfC
+sprB	activates 	rrfC
+hilD	activates 	rrfD
+hilC	activates 	rrfD
+invF	activates 	rrfD
+sprB	activates 	rrfD
+hilD	activates 	rrfE
+hilD	activates 	rrfF
+hilC	activates 	rrfF
+hilD	activates 	rrfG
+hilC	activates 	rrfG
+invF	activates 	rrfG
+hilD	activates 	rrfH
+invF	activates 	rrfH
+sprB	activates 	rrfH
+hilA	activates 	rrfH
+sprB	activates 	rrlA
+sprB	activates 	rrlB
+sprB	activates 	rrlC
+sprB	activates 	rrlD
+sprB	activates 	rrlG
+sprB	activates 	rrlH
+rstA	activates 	safB
+sprB	activates 	sanA
+hilD	activates 	selC
+hilC	activates 	selC
+rstA	activates 	selC
+sprB	activates 	selC
+rtsB	activates 	selC
+hilA	activates 	selC
+sprB	activates 	selD
+hilD	activates 	serW
+hilC	activates 	serW
+rstA	activates 	serW
+hilA	activates 	serW
+hilD	activates 	serX
+hilC	activates 	serX
+rstA	activates 	serX
+hilA	activates 	serX
+rtsB	activates 	sfbA
+rstA	activates 	sfbB
+rstA	activates 	sfbC
+hilC	activates 	sgbU
+hilD	activates 	sicA
+rstA	activates 	sicA
+invF	activates 	sicA
+hilA	activates 	sicA
+hilD	activates 	sicP
+invF	activates 	sicP
+hilA	activates 	sicP
+hilD	activates 	sifB
+hilC	activates 	sifB
+sprB	activates 	sifB
+hilC	activates 	sinI
+hilD	activates 	sinR
+rtsB	activates 	sinR
+hilD	activates 	sipA
+rstA	activates 	sipA
+invF	activates 	sipA
+hilA	activates 	sipA
+hilD	activates 	sipB
+rstA	activates 	sipB
+invF	activates 	sipB
+hilA	activates 	sipB
+hilD	activates 	sipC
+rstA	activates 	sipC
+invF	activates 	sipC
+hilA	activates 	sipC
+hilD	activates 	sipD
+rstA	activates 	sipD
+invF	activates 	sipD
+hilA	activates 	sipD
+hilC	activates 	slrB
+rstA	activates 	slrB
+rstA	activates 	slrP
+sprB	activates 	slrP
+sprB	activates 	slyA
+hilD	activates 	sopA
+rstA	activates 	sopA
+invF	activates 	sopA
+hilA	activates 	sopA
+hilD	activates 	sopB
+rstA	activates 	sopB
+invF	activates 	sopB
+hilA	activates 	sopB
+hilD	activates 	sopD
+sprB	activates 	sopD
+hilA	activates 	sopD
+hilD	activates 	sopE2
+rstA	activates 	sopE2
+invF	activates 	sopE2
+hilA	activates 	sopE2
+hilD	activates 	spaO
+rstA	activates 	spaO
+hilA	activates 	spaO
+hilD	activates 	spaP
+rstA	activates 	spaP
+hilA	activates 	spaP
+hilD	activates 	spaQ
+rstA	activates 	spaQ
+hilA	activates 	spaQ
+hilD	activates 	spaR
+hilC	activates 	spaR
+rstA	activates 	spaR
+hilA	activates 	spaR
+hilD	activates 	spaS
+rstA	activates 	spaS
+hilA	activates 	spaS
+hilD	activates 	spf
+hilC	activates 	spf
+rstA	activates 	spf
+invF	activates 	spf
+rtsB	activates 	spf
+hilD	activates 	sprB
+hilC	activates 	sprB
+rstA	activates 	sprB
+sprB	activates 	sprB
+hilA	activates 	sprB
+hilD	activates 	sptP
+rstA	activates 	sptP
+invF	activates 	sptP
+hilA	activates 	sptP
+hilC	activates 	spvA
+rtsB	activates 	spvD
+hilD	activates 	srfA
+hilD	activates 	srfB
+hilC	activates 	srlA
+hilC	activates 	srlD
+hilC	activates 	srlE
+hilD	activates 	ssaB
+sprB	activates 	ssaB
+sprB	activates 	ssaC
+hilD	activates 	ssaG
+hilC	activates 	ssaG
+rstA	activates 	ssaG
+sprB	activates 	ssaG
+hilD	activates 	ssaH
+sprB	activates 	ssaH
+hilD	activates 	ssaI
+sprB	activates 	ssaI
+hilD	activates 	ssaJ
+hilC	activates 	ssaJ
+sprB	activates 	ssaJ
+sprB	activates 	ssaK
+hilD	activates 	ssb
+sprB	activates 	sscA
+hilD	activates 	sseJ
+hilC	activates 	sseJ
+sprB	activates 	sseJ
+hilD	activates 	sseL
+sprB	activates 	sseL
+sprB	activates 	ssrA
+sprB	activates 	stdC
+hilC	activates 	stfD
+hilC	activates 	stfE
+hilA	activates 	stfE
+rtsB	activates 	stfF
+rstA	activates 	stjC
+rtsB	activates 	sugR
+hilD	activates 	tdcA
+hilD	activates 	tdcB
+hilD	activates 	tdcC
+hilD	activates 	tdcD
+hilD	activates 	tdcE
+hilD	activates 	tdcG
+hilD	activates 	thrT
+hilD	activates 	thrU
+hilC	activates 	thrU
+rstA	activates 	thrU
+hilA	activates 	thrU
+hilD	activates 	thrV
+hilC	activates 	thrV
+rstA	activates 	thrV
+invF	activates 	thrV
+hilA	activates 	thrV
+hilD	activates 	thrW
+hilC	activates 	thrW
+invF	activates 	thrW
+hilA	activates 	thrW
+sprB	activates 	topB
+hilD	activates 	tpx
+rtsB	activates 	tpx
+hilD	activates 	traL
+rstA	activates 	traR
+sprB	activates 	trpE
+hilC	activates 	trpT
+rstA	activates 	trpT
+invF	activates 	trpT
+hilA	activates 	trpT
+rtsB	activates 	trxC
+invF	activates 	tyrU
+hilD	activates 	tyrV
+hilC	activates 	tyrV
+invF	activates 	tyrV
+hilD	activates 	ugtL
+sprB	activates 	ugtL
+rtsB	activates 	ulaA_3
+sprB	activates 	bacA
+hilC	activates 	valW
+rstA	activates 	valW
+invF	activates 	valW
+hilA	activates 	valW
+hilC	activates 	wcaC
+rtsB	activates 	wcaC
+rstA	activates 	wcaD
+rtsB	activates 	wcaD
+rstA	activates 	wcaE
+rtsB	activates 	wcaE
+rstA	activates 	wcaF
+sprB	activates 	wcaF
+rtsB	activates 	wcaF
+rstA	activates 	fcl
+hilA	activates 	fcl
+hilD	activates 	wcaH
+hilC	activates 	wcaH
+rstA	activates 	wcaH
+rtsB	activates 	wcaH
+hilA	activates 	wcaH
+hilD	activates 	wcaI
+hilC	activates 	wcaI
+rtsB	activates 	wcaK
+sprB	activates 	wza
+rtsB	activates 	wza
+hilA	activates 	wza
+hilC	activates 	wzb
+invF	activates 	wzb
+sprB	activates 	wzb
+sprB	activates 	wzc
+rtsB	activates 	wzc
+sprB	activates 	wzzB
+invF	activates 	yabI
+sprB	activates 	yabI
+hilD	activates 	gluQ
+hilC	activates 	gluQ
+rstA	activates 	gluQ
+rtsB	activates 	yafS
+rtsB	activates 	ppnP
+sprB	activates 	iprA
+rstA	activates 	yaiY
+rtsB	activates 	acpH
+hilD	activates 	yajG
+sprB	activates 	yajI
+hilD	activates 	ybaL
+rstA	activates 	ybaL
+rtsB	activates 	fadM
+sprB	activates 	cnoX
+rtsB	activates 	ybbV
+sprB	activates 	ybcI
+rtsB	activates 	ybdJ
+sprB	activates 	ybdZ
+sprB	activates 	ybeD
+sprB	activates 	ybeY
+rstA	activates 	zitB
+sprB	activates 	ybiI
+rtsB	activates 	ybiI
+rtsB	activates 	ybiJ
+hilD	activates 	ybjC
+sprB	activates 	ybjD
+rtsB	activates 	lysO
+sprB	activates 	zapC
+sprB	activates 	hspQ
+hilC	activates 	yceO
+rtsB	activates 	yceO
+rtsB	activates 	ychO
+rtsB	activates 	yciE
+hilC	activates 	yciF
+rtsB	activates 	yciF
+hilC	activates 	yciG
+sprB	activates 	yciU
+rtsB	activates 	ydcI
+hilD	activates 	ydcX
+rstA	activates 	ydeJ
+rtsB	activates 	ydeJ
+hilD	activates 	ydfZ
+rtsB	activates 	ydgC
+rstA	activates 	ydgK
+rstA	activates 	ydgP
+hilD	activates 	cnu
+rstA	activates 	cnu
+rtsB	activates 	ydhL
+hilD	activates 	ydiF
+rtsB	activates 	ydiL
+hilC	activates 	ydiM
+rtsB	activates 	ydiM
+rtsB	activates 	ydiN
+hilD	activates 	ydiO
+rtsB	activates 	ydiP
+invF	activates 	ydjM
+rtsB	activates 	yeaO
+rstA	activates 	mepM
+rtsB	activates 	yebB
+rtsB	activates 	yebW
+hilD	activates 	mdtD
+rstA	activates 	mdtD
+rtsB	activates 	yehE
+rtsB	activates 	mlrA
+invF	activates 	yeiH
+rtsB	activates 	yeiH
+hilA	activates 	yfcF
+sprB	activates 	yfdC
+hilC	activates 	yfdH
+hilD	activates 	pdeA
+hilC	activates 	pdeA
+rstA	activates 	pdeA
+hilD	activates 	grcA
+rtsB	activates 	yfiE
+rtsB	activates 	ygbA
+hilA	activates 	norW
+sprB	activates 	ygdP
+sprB	activates 	ygdQ
+hilD	activates 	ygeD
+sprB	activates 	yggX
+sprB	activates 	yghA
+rstA	activates 	ygiD
+hilD	activates 	plsY
+hilC	activates 	plsY
+hilD	activates 	ygiK
+rtsB	activates 	yhcC
+hilC	activates 	yhcR
+rtsB	activates 	yhcR
+hilC	activates 	aaeR
+invF	activates 	tusB
+sprB	activates 	tusB
+sprB	activates 	tsgA
+sprB	activates 	yhgE
+rtsB	activates 	yhgF
+sprB	activates 	yhgH
+sprB	activates 	nfuA
+sprB	activates 	yhhT
+rtsB	activates 	yhhV
+sprB	activates 	rsmJ
+rtsB	activates 	yhjB
+sprB	activates 	yiaB
+hilA	activates 	yiaD
+rtsB	activates 	yiaK
+sprB	activates 	envC
+rstA	activates 	yicJ
+hilA	activates 	yicJ
+sprB	activates 	yidE
+sprB	activates 	yidF
+rstA	activates 	yifZ
+sprB	activates 	yigF
+hilA	activates 	yigF
+hilD	activates 	yigG
+sprB	activates 	yigG
+rtsB	activates 	yigI
+hilD	activates 	srkA
+hilC	activates 	srkA
+rstA	activates 	srkA
+hilA	activates 	yihT
+hilC	activates 	yjbE
+invF	activates 	yjbE
+sprB	activates 	yjbE
+rtsB	activates 	yjbE
+rtsB	activates 	yjbF
+rtsB	activates 	yjbG
+sprB	activates 	yjbJ
+rtsB	activates 	yjcB
+sprB	activates 	yjcE
+hilD	activates 	adiC
+rtsB	activates 	yjeJ
+sprB	activates 	yjeT
+sprB	activates 	yjfJ
+rtsB	activates 	yjfJ
+hilD	activates 	yjiG
+rtsB	activates 	symE
+hilD	activates 	btsT
+hilC	activates 	yjjY
+rstA	activates 	ylbE
+sprB	activates 	ylbE
+hilA	activates 	ylbE
+sprB	activates 	ymdC
+sprB	activates 	yncJ
+hilA	activates 	yneA
+hilA	activates 	lsrF
+rstA	activates 	sad
+rtsB	activates 	ynfA
+rtsB	activates 	yoaH
+rtsB	activates 	yodD
+sprB	activates 	ypeC
+rtsB	activates 	yqeF
+hilD	activates 	yqhD
+sprB	activates 	mlaE
+sprB	activates 	mlaF
+sprB	activates 	hslR
+rtsB	activates 	ytfF
+hilD	activates 	ytfK
+rtsB	activates 	zipA
+rstA	activates 	znuA
+hilD	no represses	STM14_3501
+hilD	no represses	STM14_4969
+hilD	no represses	STM14_3221
+hilD	no represses	STM14_06610
+hilD	no represses	STM14_2321
+hilD	no represses	STM14_4581
+hilD	no represses	STM14_2329
+hilD	no represses	STM14_2459
+hilD	no represses	STM14_2215
+hilD	no represses	STM14_3799
+hilD	no represses	STM14_2475
+hilD	no represses	STM14_3043
+hilD	no represses	STM14_3070
+hilD	no represses	STM14_1020
+hilD	no represses	STM14_1431
+hilD	no represses	STM14_1566
+hilD	no represses	STM14_4273
+hilD	no represses	STM14_2473
+hilD	no represses	STM14_5274
+hilD	no represses	STM14_4352
+hilD	no represses	STM14_4502
+hilD	no represses	STM14_2441
+hilD	no represses	STM14_1098
+hilD	no represses	STM14_4034
+hilD	no represses	STM14_0850
+hilD	no represses	STM14_4992
+hilD	no represses	STM14_1578
+hilD	no represses	STM14_3834
+hilD	no represses	STM14_2073
+hilD	no represses	STM14_2151
+hilD	no represses	STM14_3074
+hilD	no represses	STM14_3789
+hilD	no represses	STM14_4261
+hilD	no represses	STM14_0399
+hilD	no represses	STM14_2448
+hilD	no represses	STM14_3798
+hilD	no represses	STM14_2443
+hilD	no represses	STM14_2434
+hilD	no represses	STM14_3394
+hilD	no represses	STM14_4239
+hilD	no represses	STM14_2152
+hilD	no represses	STM14_0296
+hilD	no represses	STM14_2270
+hilD	no represses	STM14_1658
+hilD	no represses	STM14_2271
+hilD	no represses	STM14_2619
+hilD	no represses	STM14_3080
+hilD	no represses	STM14_3363
+hilD	no represses	STM14_3847
+hilD	no represses	STM14_3875
+hilD	no represses	STM14_4018
+hilD	no represses	STM14_4263
+hilD	no represses	STM14_5306
+hilD	no represses	STM14_3410
+hilD	no represses	STM14_4533
+hilD	no represses	STM14_2277
+hilD	no represses	STM14_2852
+hilD	no represses	STM14_2442
+hilD	no represses	STM14_2637
+hilD	no represses	STM14_3624
+hilD	no represses	STM14_4578
+hilD	no represses	STM14_3223
+hilD	no represses	STM14_2227
+hilD	no represses	STM14_5192
+hilD	no represses	STM14_3762
+hilD	no represses	STM14_3438
+hilD	no represses	STM14_3447
+hilD	no represses	STM14_2379
+hilD	no represses	STM14_3301
+hilD	no represses	STM14_3479
+hilD	no represses	STM14_2164
+hilD	no represses	STM14_1939
+hilD	no represses	STM14_1706
+hilD	no represses	STM14_0097
+hilD	no represses	STM14_0225
+hilD	no represses	STM14_0327
+hilD	no represses	STM14_0430
+hilD	no represses	STM14_0645
+hilD	no represses	STM14_0726
+hilD	no represses	STM14_0820
+hilD	no represses	STM14_0893
+hilD	no represses	STM14_1572
+hilD	no represses	STM14_1764
+hilD	no represses	STM14_2444
+hilD	no represses	STM14_3227
+hilD	no represses	STM14_3783
+hilD	no represses	STM14_3800
+hilD	no represses	STM14_4192
+hilD	no represses	STM14_4497
+hilD	no represses	STM14_4582
+hilD	no represses	STM14_4630
+hilD	no represses	STM14_5152
+hilD	no represses	STM14_2165
+hilD	no represses	STM14_2476
+hilD	no represses	STM14_2168
+hilD	no represses	STM14_2167
+hilD	no represses	STM14_2161
+hilD	no represses	STM14_2445
+hilD	no represses	STM14_0348
+hilD	no represses	STM14_1692
+hilD	no represses	STM14_2248
+hilD	no represses	STM14_0027
+hilD	no represses	STM14_1081
+hilD	no represses	STM14_1093
+hilD	no represses	STM14_5191
+hilD	no represses	STM14_2870
+hilD	no represses	STM14_1401
+hilD	no represses	STM14_2458
+hilD	no represses	STM14_3690
+hilD	no represses	STM14_4485
+hilD	no represses	STM14_2162
+hilD	no represses	STM14_2166
+hilD	no represses	STM14_5122
+hilD	no represses	STM14_4163
+hilD	no represses	STM14_3893
+hilD	no represses	STM14_1283
+hilD	no represses	STM14_2163
+hilD	no represses	STM14_0165
+hilD	no represses	STM14_0597
+hilD	no represses	STM14_3119
+hilD	no represses	STM14_3433
+hilD	no represses	STM14_5367
+hilD	no represses	STM14_3437
+hilD	no represses	STM14_2323
+hilD	no represses	STM14_2736
+hilD	no represses	STM14_1196
+hilD	no represses	STM14_0390
+hilD	no represses	STM14_4689
+hilD	no represses	STM14_0860
+hilD	no represses	STM14_1286
+hilD	no represses	STM14_1783
+hilD	no represses	STM14_3341
+hilD	no represses	STM14_5083
+hilD	no represses	STM14_1970
+hilD	no represses	STM14_1244
+hilD	no represses	STM14_1937
+hilD	no represses	STM14_0322
+hilD	no represses	STM14_5121
+hilD	no represses	STM14_0683
+hilD	no represses	STM14_1209
+hilD	no represses	STM14_1895
+hilD	no represses	STM14_2387
+hilD	no represses	STM14_4589
+hilD	no represses	STM14_1782
+hilD	no represses	STM14_3411
+hilD	no represses	STM14_1197
+hilD	no represses	STM14_2419
+hilD	no represses	STM14_2428
+hilD	no represses	STM14_0143
+hilD	no represses	STM14_2556
+hilD	no represses	STM14_1614
+hilD	no represses	STM14_1486
+hilD	no represses	STM14_5115
+hilD	no represses	STM14_3198
+hilD	no represses	STM14_5189
+hilD	no represses	STM14_1833
+hilD	no represses	STM14_5190
+hilD	no represses	STM14_3464
+hilD	no represses	STM14_1613
+hilD	no represses	STM14_2342
+hilD	no represses	STM14_1282
+hilD	no represses	STM14_5185
+hilD	no represses	STM14_3466
+hilD	no represses	STM14_5184
+hilD	no represses	STM14_1503
+hilD	no represses	STM14_5186
+hilD	no represses	STM14_5187
+hilD	no represses	STM14_5188
+hilD	no represses	STM14_1612
+hilD	no represses	STM14_5119
+hilD	no represses	STM14_5120
+hilD	no represses	STM14_5118
+hilD	no represses	STM14_5547
+hilD	no represses	STM14_5557
+hilD	no represses	STM14_5584
+hilD	no represses	STM14_5594
+hilC	no represses	STM14_4689
+hilC	no represses	STM14_989
+hilC	no represses	STM14_5184
+hilC	no represses	STM14_3109
+hilC	no represses	STM14_3343
+hilC	no represses	STM14_1833
+hilC	no represses	STM14_2798
+hilC	no represses	STM14_3884
+hilC	no represses	STM14_986
+hilC	no represses	STM14_2870
+hilC	no represses	STM14_1286
+hilC	no represses	STM14_3624
+hilC	no represses	STM14_4589
+hilC	no represses	STM14_5018
+hilC	no represses	STM14_5190
+hilC	no represses	STM14_5208
+hilC	no represses	STM14_2342
+hilC	no represses	STM14_1503
+hilC	no represses	STM14_2277
+hilC	no represses	STM14_0363
+hilC	no represses	STM14_1829
+hilC	no represses	STM14_5115
+hilC	no represses	STM14_5429
+hilC	no represses	STM14_0653
+hilC	no represses	STM14_1828
+hilC	no represses	STM14_1922
+hilC	no represses	STM14_3757
+hilC	no represses	STM14_3801
+hilC	no represses	STM14_5431
+hilC	no represses	STM14_3410
+hilC	no represses	STM14_1782
+hilC	no represses	STM14_3464
+hilC	no represses	STM14_3693
+hilC	no represses	STM14_4485
+hilC	no represses	STM14_5118
+hilC	no represses	STM14_1613
+hilC	no represses	STM14_0141
+hilC	no represses	STM14_0225
+hilC	no represses	STM14_0391
+hilC	no represses	STM14_0406
+hilC	no represses	STM14_0683
+hilC	no represses	STM14_0893
+hilC	no represses	STM14_1937
+hilC	no represses	STM14_1950
+hilC	no represses	STM14_2049
+hilC	no represses	STM14_2133
+hilC	no represses	STM14_2264
+hilC	no represses	STM14_2291
+hilC	no represses	STM14_2763
+hilC	no represses	STM14_2770
+hilC	no represses	STM14_2856
+hilC	no represses	STM14_3583
+hilC	no represses	STM14_3819
+hilC	no represses	STM14_4549
+hilC	no represses	STM14_4578
+hilC	no represses	STM14_4582
+hilC	no represses	STM14_4771
+hilC	no represses	STM14_1971
+hilC	no represses	STM14_3525
+hilC	no represses	STM14_3153
+hilC	no represses	STM14_1783
+hilC	no represses	STM14_3411
+hilC	no represses	STM14_1401
+hilC	no represses	STM14_5120
+hilC	no represses	STM14_1209
+hilC	no represses	STM14_06610
+hilC	no represses	STM14_3301
+hilC	no represses	STM14_5119
+hilC	no represses	STM14_1764
+hilC	no represses	STM14_2255
+hilC	no represses	STM14_2902
+hilC	no represses	STM14_973
+hilC	no represses	STM14_5117
+hilC	no represses	STM14_3875
+hilC	no represses	STM14_0860
+hilC	no represses	STM14_4239
+hilC	no represses	STM14_1612
+hilC	no represses	STM14_0323
+hilC	no represses	STM14_0715
+hilC	no represses	STM14_3372
+hilC	no represses	STM14_3897
+hilC	no represses	STM14_0296
+hilC	no represses	STM14_4992
+hilC	no represses	STM14_2321
+hilC	no represses	STM14_1118
+hilC	no represses	STM14_4951
+hilC	no represses	STM14_4969
+hilC	no represses	STM14_4533
+hilC	no represses	STM14_2699
+hilC	no represses	STM14_0850
+hilC	no represses	STM14_2637
+hilC	no represses	STM14_1566
+hilC	no represses	STM14_3396
+hilC	no represses	STM14_5189
+hilC	no represses	STM14_3040
+hilC	no represses	STM14_3299
+hilC	no represses	STM14_0841
+hilC	no represses	STM14_0322
+hilC	no represses	STM14_0843
+hilC	no represses	STM14_2254
+hilC	no represses	STM14_3300
+hilC	no represses	STM14_0015
+hilC	no represses	STM14_0025
+hilC	no represses	STM14_0038
+hilC	no represses	STM14_0102
+hilC	no represses	STM14_0292
+hilC	no represses	STM14_0328
+hilC	no represses	STM14_0339
+hilC	no represses	STM14_0726
+hilC	no represses	STM14_0844
+hilC	no represses	STM14_1055
+hilC	no represses	STM14_1137
+hilC	no represses	STM14_1151
+hilC	no represses	STM14_1201
+hilC	no represses	STM14_1356
+hilC	no represses	STM14_1437
+hilC	no represses	STM14_1784
+hilC	no represses	STM14_1890
+hilC	no represses	STM14_1895
+hilC	no represses	STM14_2073
+hilC	no represses	STM14_2115
+hilC	no represses	STM14_2187
+hilC	no represses	STM14_2273
+hilC	no represses	STM14_2421
+hilC	no represses	STM14_2490
+hilC	no represses	STM14_2561
+hilC	no represses	STM14_2701
+hilC	no represses	STM14_3260
+hilC	no represses	STM14_3322
+hilC	no represses	STM14_3507
+hilC	no represses	STM14_3528
+hilC	no represses	STM14_3700
+hilC	no represses	STM14_3718
+hilC	no represses	STM14_3723
+hilC	no represses	STM14_3837
+hilC	no represses	STM14_3904
+hilC	no represses	STM14_4069
+hilC	no represses	STM14_4192
+hilC	no represses	STM14_4240
+hilC	no represses	STM14_4500
+hilC	no represses	STM14_4504
+hilC	no represses	STM14_4558
+hilC	no represses	STM14_4658
+hilC	no represses	STM14_4696
+hilC	no represses	STM14_4800
+hilC	no represses	STM14_5050
+hilC	no represses	STM14_5067
+hilC	no represses	STM14_5083
+hilC	no represses	STM14_5182
+hilC	no represses	STM14_952
+hilC	no represses	STM14_3421
+hilC	no represses	STM14_1939
+hilC	no represses	STM14_3080
+hilC	no represses	STM14_5557
+hilC	no represses	STM14_5584
+hilC	no represses	STM14_5594
+rstA	no represses	STM14_0390
+rstA	no represses	STM14_06610
+rstA	no represses	STM14_1486
+rstA	no represses	STM14_1612
+rstA	no represses	STM14_1613
+rstA	no represses	STM14_1614
+rstA	no represses	STM14_1756
+rstA	no represses	STM14_1758
+rstA	no represses	STM14_1829
+rstA	no represses	STM14_1833
+rstA	no represses	STM14_1854
+rstA	no represses	STM14_1855
+rstA	no represses	STM14_1856
+rstA	no represses	STM14_1857
+rstA	no represses	STM14_2321
+rstA	no represses	STM14_2342
+rstA	no represses	STM14_2632
+rstA	no represses	STM14_2633
+rstA	no represses	STM14_3410
+rstA	no represses	STM14_3466
+rstA	no represses	STM14_4056
+rstA	no represses	STM14_5117
+rstA	no represses	STM14_5118
+rstA	no represses	STM14_5119
+rstA	no represses	STM14_5120
+rstA	no represses	STM14_5184
+rstA	no represses	STM14_5185
+rstA	no represses	STM14_5186
+rstA	no represses	STM14_5187
+rstA	no represses	STM14_927
+rstA	no represses	STM14_0019
+rstA	no represses	STM14_0027
+rstA	no represses	STM14_0046
+rstA	no represses	STM14_0137
+rstA	no represses	STM14_0165
+rstA	no represses	STM14_0179
+rstA	no represses	STM14_0326
+rstA	no represses	STM14_0327
+rstA	no represses	STM14_0329
+rstA	no represses	STM14_0406
+rstA	no represses	STM14_0414
+rstA	no represses	STM14_0536
+rstA	no represses	STM14_0672
+rstA	no represses	STM14_0683
+rstA	no represses	STM14_0841
+rstA	no represses	STM14_0843
+rstA	no represses	STM14_1019
+rstA	no represses	STM14_1081
+rstA	no represses	STM14_1093
+rstA	no represses	STM14_1147
+rstA	no represses	STM14_1151
+rstA	no represses	STM14_1209
+rstA	no represses	STM14_1307
+rstA	no represses	STM14_1390
+rstA	no represses	STM14_1401
+rstA	no represses	STM14_1455
+rstA	no represses	STM14_1496
+rstA	no represses	STM14_1499
+rstA	no represses	STM14_1503
+rstA	no represses	STM14_1764
+rstA	no represses	STM14_1767
+rstA	no represses	STM14_1867
+rstA	no represses	STM14_1922
+rstA	no represses	STM14_1961
+rstA	no represses	STM14_2123
+rstA	no represses	STM14_2151
+rstA	no represses	STM14_2161
+rstA	no represses	STM14_2162
+rstA	no represses	STM14_2166
+rstA	no represses	STM14_2187
+rstA	no represses	STM14_2255
+rstA	no represses	STM14_2257
+rstA	no represses	STM14_2271
+rstA	no represses	STM14_2298
+rstA	no represses	STM14_2631
+rstA	no represses	STM14_2736
+rstA	no represses	STM14_2822
+rstA	no represses	STM14_2923
+rstA	no represses	STM14_2925
+rstA	no represses	STM14_2955
+rstA	no represses	STM14_3080
+rstA	no represses	STM14_3197
+rstA	no represses	STM14_3209
+rstA	no represses	STM14_3299
+rstA	no represses	STM14_3363
+rstA	no represses	STM14_3464
+rstA	no represses	STM14_3583
+rstA	no represses	STM14_3645
+rstA	no represses	STM14_3690
+rstA	no represses	STM14_3884
+rstA	no represses	STM14_3897
+rstA	no represses	STM14_4101
+rstA	no represses	STM14_4352
+rstA	no represses	STM14_4437
+rstA	no represses	STM14_4630
+rstA	no represses	STM14_4771
+rstA	no represses	STM14_4893
+rstA	no represses	STM14_5025
+rstA	no represses	STM14_5067
+rstA	no represses	STM14_5083
+rstA	no represses	STM14_5115
+rstA	no represses	STM14_5116
+rstA	no represses	STM14_5122
+rstA	no represses	STM14_5124
+rstA	no represses	STM14_5137
+rstA	no represses	STM14_5149
+rstA	no represses	STM14_5188
+rstA	no represses	STM14_5212
+rstA	no represses	STM14_5347
+rstA	no represses	STM14_5462
+rstA	no represses	STM14_5547
+invF	no represses	STM14_0850
+invF	no represses	STM14_0860
+invF	no represses	STM14_1486
+invF	no represses	STM14_1833
+invF	no represses	STM14_1854
+invF	no represses	STM14_1855
+invF	no represses	STM14_1970
+invF	no represses	STM14_2321
+invF	no represses	STM14_3301
+invF	no represses	STM14_3479
+invF	no represses	STM14_4296
+invF	no represses	STM14_4689
+invF	no represses	STM14_0025
+invF	no represses	STM14_0143
+invF	no represses	STM14_0210
+invF	no represses	STM14_0225
+invF	no represses	STM14_0403
+invF	no represses	STM14_0446
+invF	no represses	STM14_0464
+invF	no represses	STM14_05870
+invF	no represses	STM14_0655
+invF	no represses	STM14_0820
+invF	no represses	STM14_1108
+invF	no represses	STM14_1164
+invF	no represses	STM14_1201
+invF	no represses	STM14_1450
+invF	no represses	STM14_1476
+invF	no represses	STM14_1638
+invF	no represses	STM14_1895
+invF	no represses	STM14_1902
+invF	no represses	STM14_2222
+invF	no represses	STM14_2243
+invF	no represses	STM14_2556
+invF	no represses	STM14_2736
+invF	no represses	STM14_2815
+invF	no represses	STM14_2870
+invF	no represses	STM14_2902
+invF	no represses	STM14_2921
+invF	no represses	STM14_2940
+invF	no represses	STM14_3090
+invF	no represses	STM14_3119
+invF	no represses	STM14_3227
+invF	no represses	STM14_3260
+invF	no represses	STM14_3314
+invF	no represses	STM14_3341
+invF	no represses	STM14_3372
+invF	no represses	STM14_3386
+invF	no represses	STM14_3464
+invF	no represses	STM14_3502
+invF	no represses	STM14_3525
+invF	no represses	STM14_3528
+invF	no represses	STM14_3622
+invF	no represses	STM14_3783
+invF	no represses	STM14_3890
+invF	no represses	STM14_3933
+invF	no represses	STM14_4074
+invF	no represses	STM14_4240
+invF	no represses	STM14_4403
+invF	no represses	STM14_4533
+invF	no represses	STM14_4578
+invF	no represses	STM14_4630
+invF	no represses	STM14_4696
+invF	no represses	STM14_4808
+invF	no represses	STM14_4811
+invF	no represses	STM14_4854
+invF	no represses	STM14_4894
+invF	no represses	STM14_4934
+invF	no represses	STM14_5068
+invF	no represses	STM14_5084
+invF	no represses	STM14_5101
+invF	no represses	STM14_5110
+invF	no represses	STM14_5149
+invF	no represses	STM14_5208
+invF	no represses	STM14_5429
+invF	no represses	STM14_970
+sprB	no represses	STM14_0407
+sprB	no represses	STM14_0025
+sprB	no represses	STM14_0141
+sprB	no represses	STM14_0403
+sprB	no represses	STM14_0657
+sprB	no represses	STM14_1161
+sprB	no represses	STM14_1164
+sprB	no represses	STM14_1201
+sprB	no represses	STM14_1286
+sprB	no represses	STM14_1981
+sprB	no represses	STM14_1994
+sprB	no represses	STM14_2305
+sprB	no represses	STM14_2458
+sprB	no represses	STM14_2637
+sprB	no represses	STM14_2923
+sprB	no represses	STM14_2975
+sprB	no represses	STM14_3079
+sprB	no represses	STM14_3154
+sprB	no represses	STM14_3197
+sprB	no represses	STM14_3204
+sprB	no represses	STM14_3260
+sprB	no represses	STM14_3299
+sprB	no represses	STM14_3583
+sprB	no represses	STM14_3624
+sprB	no represses	STM14_3711
+sprB	no represses	STM14_3718
+sprB	no represses	STM14_3728
+sprB	no represses	STM14_3757
+sprB	no represses	STM14_3774
+sprB	no represses	STM14_4192
+sprB	no represses	STM14_4448
+sprB	no represses	STM14_4520
+sprB	no represses	STM14_4874
+sprB	no represses	STM14_5051
+sprB	no represses	STM14_5083
+sprB	no represses	STM14_5124
+sprB	no represses	STM14_5254
+sprB	no represses	STM14_5344
+sprB	no represses	STM14_5431
+sprB	no represses	STM14_5462
+sprB	no represses	STM14_5468
+sprB	no represses	STM14_5494
+sprB	no represses	STM14_0015
+sprB	no represses	STM14_0296
+sprB	no represses	STM14_0398
+sprB	no represses	STM14_0399
+sprB	no represses	STM14_0629
+sprB	no represses	STM14_0780
+sprB	no represses	STM14_0791
+sprB	no represses	STM14_1098
+sprB	no represses	STM14_1197
+sprB	no represses	STM14_1399
+sprB	no represses	STM14_1494
+sprB	no represses	STM14_1499
+sprB	no represses	STM14_1502
+sprB	no represses	STM14_1561
+sprB	no represses	STM14_1612
+sprB	no represses	STM14_1613
+sprB	no represses	STM14_1614
+sprB	no represses	STM14_1693
+sprB	no represses	STM14_1694
+sprB	no represses	STM14_1706
+sprB	no represses	STM14_1794
+sprB	no represses	STM14_1911
+sprB	no represses	STM14_1939
+sprB	no represses	STM14_2227
+sprB	no represses	STM14_2242
+sprB	no represses	STM14_2357
+sprB	no represses	STM14_2428
+sprB	no represses	STM14_2624
+sprB	no represses	STM14_2638
+sprB	no represses	STM14_2692
+sprB	no represses	STM14_2911
+sprB	no represses	STM14_3011
+sprB	no represses	STM14_3035
+sprB	no represses	STM14_3036
+sprB	no represses	STM14_3069
+sprB	no represses	STM14_3625
+sprB	no represses	STM14_3628
+sprB	no represses	STM14_3799
+sprB	no represses	STM14_4214
+sprB	no represses	STM14_4239
+sprB	no represses	STM14_4595
+sprB	no represses	STM14_4689
+sprB	no represses	STM14_4813
+sprB	no represses	STM14_4821
+sprB	no represses	STM14_5096
+sprB	no represses	STM14_5188
+sprB	no represses	STM14_5495
+sprB	no represses	STM14_927
+sprB	no represses	STM14_0016
+sprB	no represses	STM14_0137
+sprB	no represses	STM14_0310
+sprB	no represses	STM14_0430
+sprB	no represses	STM14_0628
+sprB	no represses	STM14_0783
+sprB	no represses	STM14_1151
+sprB	no represses	STM14_1196
+sprB	no represses	STM14_1291
+sprB	no represses	STM14_1450
+sprB	no represses	STM14_1496
+sprB	no represses	STM14_1692
+sprB	no represses	STM14_1922
+sprB	no represses	STM14_1937
+sprB	no represses	STM14_2117
+sprB	no represses	STM14_2255
+sprB	no represses	STM14_2448
+sprB	no represses	STM14_2623
+sprB	no represses	STM14_2773
+sprB	no represses	STM14_2823
+sprB	no represses	STM14_2952
+sprB	no represses	STM14_3622
+sprB	no represses	STM14_3798
+sprB	no represses	STM14_3801
+sprB	no represses	STM14_4095
+sprB	no represses	STM14_4180
+sprB	no represses	STM14_4240
+sprB	no represses	STM14_4388
+sprB	no represses	STM14_4658
+sprB	no represses	STM14_4771
+sprB	no represses	STM14_4772
+sprB	no represses	STM14_5044
+sprB	no represses	STM14_5117
+sprB	no represses	STM14_5118
+sprB	no represses	STM14_5119
+sprB	no represses	STM14_5120
+sprB	no represses	STM14_5125
+sprB	no represses	STM14_5189
+sprB	no represses	STM14_5208
+sprB	no represses	STM14_5299
+rtsB	no represses	STM14_5187
+rtsB	no represses	STM14_5188
+rtsB	no represses	STM14_3080
+rtsB	no represses	STM14_5407
+rtsB	no represses	STM14_2123
+rtsB	no represses	STM14_4856
+rtsB	no represses	STM14_1833
+rtsB	no represses	STM14_2501
+rtsB	no represses	STM14_4336
+rtsB	no represses	STM14_4951
+rtsB	no represses	STM14_0715
+rtsB	no represses	STM14_0850
+rtsB	no represses	STM14_0015
+rtsB	no represses	STM14_0645
+rtsB	no represses	STM14_1904
+rtsB	no represses	STM14_1971
+rtsB	no represses	STM14_1979
+rtsB	no represses	STM14_2421
+rtsB	no represses	STM14_3227
+rtsB	no represses	STM14_3783
+rtsB	no represses	STM14_4180
+rtsB	no represses	STM14_4578
+rtsB	no represses	STM14_4867
+rtsB	no represses	STM14_4893
+rtsB	no represses	STM14_5044
+rtsB	no represses	STM14_0359
+rtsB	no represses	STM14_0726
+rtsB	no represses	STM14_1528
+rtsB	no represses	STM14_1572
+rtsB	no represses	STM14_1828
+rtsB	no represses	STM14_2148
+rtsB	no represses	STM14_2711
+rtsB	no represses	STM14_2771
+rtsB	no represses	STM14_3645
+rtsB	no represses	STM14_4101
+rtsB	no represses	STM14_0846
+rtsB	no represses	STM14_2004
+rtsB	no represses	STM14_2870
+rtsB	no represses	STM14_0683
+rtsB	no represses	STM14_3775
+rtsB	no represses	STM14_1494
+rtsB	no represses	STM14_0012
+rtsB	no represses	STM14_0225
+rtsB	no represses	STM14_0326
+rtsB	no represses	STM14_0327
+rtsB	no represses	STM14_0331
+rtsB	no represses	STM14_0361
+rtsB	no represses	STM14_0668
+rtsB	no represses	STM14_1053
+rtsB	no represses	STM14_1262
+rtsB	no represses	STM14_1279
+rtsB	no represses	STM14_1950
+rtsB	no represses	STM14_2223
+rtsB	no represses	STM14_2243
+rtsB	no represses	STM14_2255
+rtsB	no represses	STM14_2272
+rtsB	no represses	STM14_2298
+rtsB	no represses	STM14_2822
+rtsB	no represses	STM14_3090
+rtsB	no represses	STM14_3168
+rtsB	no represses	STM14_3364
+rtsB	no represses	STM14_3901
+rtsB	no represses	STM14_4182
+rtsB	no represses	STM14_4316
+rtsB	no represses	STM14_4340
+rtsB	no represses	STM14_4540
+rtsB	no represses	STM14_4894
+rtsB	no represses	STM14_4993
+rtsB	no represses	STM14_5125
+rtsB	no represses	STM14_5367
+rtsB	no represses	STM14_952
+rtsB	no represses	STM14_0343
+rtsB	no represses	STM14_1007
+rtsB	no represses	STM14_4961
+rtsB	no represses	STM14_4361
+rtsB	no represses	STM14_1316
+rtsB	no represses	STM14_0860
+rtsB	no represses	STM14_1038
+rtsB	no represses	STM14_0337
+rtsB	no represses	STM14_1510
+rtsB	no represses	STM14_2710
+rtsB	no represses	STM14_2665
+rtsB	no represses	STM14_1829
+rtsB	no represses	STM14_3690
+rtsB	no represses	STM14_3410
+rtsB	no represses	STM14_982
+rtsB	no represses	STM14_0406
+rtsB	no represses	STM14_1081
+rtsB	no represses	STM14_1658
+rtsB	no represses	STM14_2257
+rtsB	no represses	STM14_2902
+rtsB	no represses	STM14_2952
+rtsB	no represses	STM14_3525
+rtsB	no represses	STM14_3723
+rtsB	no represses	STM14_3757
+rtsB	no represses	STM14_4095
+rtsB	no represses	STM14_5046
+rtsB	no represses	STM14_5132
+rtsB	no represses	STM14_5175
+rtsB	no represses	STM14_1831
+rtsB	no represses	STM14_0599
+rtsB	no represses	STM14_2158
+rtsB	no represses	STM14_4439
+rtsB	no represses	STM14_2270
+rtsB	no represses	STM14_0042
+rtsB	no represses	STM14_0342
+rtsB	no represses	STM14_1249
+rtsB	no represses	STM14_3872
+rtsB	no represses	STM14_4886
+rtsB	no represses	STM14_5020
+rtsB	no represses	STM14_1239
+rtsB	no represses	STM14_0345
+rtsB	no represses	STM14_3207
+rtsB	no represses	STM14_3503
+rtsB	no represses	STM14_4284
+rtsB	no represses	STM14_939
+rtsB	no represses	STM14_940
+rtsB	no represses	STM14_0774
+rtsB	no represses	STM14_2268
+rtsB	no represses	STM14_3070
+rtsB	no represses	STM14_4261
+rtsB	no represses	STM14_1545
+rtsB	no represses	STM14_4932
+rtsB	no represses	STM14_1165
+rtsB	no represses	STM14_4565
+rtsB	no represses	STM14_5211
+rtsB	no represses	STM14_3306
+rtsB	no represses	STM14_3153
+rtsB	no represses	STM14_2094
+rtsB	no represses	STM14_4689
+rtsB	no represses	STM14_1005
+rtsB	no represses	STM14_973
+rtsB	no represses	STM14_1569
+rtsB	no represses	STM14_4892
+rtsB	no represses	STM14_0038
+rtsB	no represses	STM14_0043
+rtsB	no represses	STM14_0097
+rtsB	no represses	STM14_0179
+rtsB	no represses	STM14_0328
+rtsB	no represses	STM14_0332
+rtsB	no represses	STM14_0348
+rtsB	no represses	STM14_0610
+rtsB	no represses	STM14_0655
+rtsB	no represses	STM14_0672
+rtsB	no represses	STM14_0834
+rtsB	no represses	STM14_1198
+rtsB	no represses	STM14_1209
+rtsB	no represses	STM14_1235
+rtsB	no represses	STM14_1280
+rtsB	no represses	STM14_1444
+rtsB	no represses	STM14_1481
+rtsB	no represses	STM14_1557
+rtsB	no represses	STM14_1623
+rtsB	no represses	STM14_1638
+rtsB	no represses	STM14_1784
+rtsB	no represses	STM14_1895
+rtsB	no represses	STM14_1902
+rtsB	no represses	STM14_1923
+rtsB	no represses	STM14_2017
+rtsB	no represses	STM14_2026
+rtsB	no represses	STM14_2049
+rtsB	no represses	STM14_2222
+rtsB	no represses	STM14_2293
+rtsB	no represses	STM14_2313
+rtsB	no represses	STM14_2387
+rtsB	no represses	STM14_2411
+rtsB	no represses	STM14_2624
+rtsB	no represses	STM14_2640
+rtsB	no represses	STM14_2686
+rtsB	no represses	STM14_2759
+rtsB	no represses	STM14_2770
+rtsB	no represses	STM14_2807
+rtsB	no represses	STM14_2808
+rtsB	no represses	STM14_2815
+rtsB	no represses	STM14_2890
+rtsB	no represses	STM14_2923
+rtsB	no represses	STM14_3043
+rtsB	no represses	STM14_3169
+rtsB	no represses	STM14_3178
+rtsB	no represses	STM14_3197
+rtsB	no represses	STM14_3209
+rtsB	no represses	STM14_3298
+rtsB	no represses	STM14_3299
+rtsB	no represses	STM14_3361
+rtsB	no represses	STM14_3421
+rtsB	no represses	STM14_3427
+rtsB	no represses	STM14_3504
+rtsB	no represses	STM14_3507
+rtsB	no represses	STM14_3510
+rtsB	no represses	STM14_3513
+rtsB	no represses	STM14_3642
+rtsB	no represses	STM14_3665
+rtsB	no represses	STM14_3670
+rtsB	no represses	STM14_3691
+rtsB	no represses	STM14_3726
+rtsB	no represses	STM14_3774
+rtsB	no represses	STM14_3895
+rtsB	no represses	STM14_4185
+rtsB	no represses	STM14_4213
+rtsB	no represses	STM14_4374
+rtsB	no represses	STM14_4424
+rtsB	no represses	STM14_4485
+rtsB	no represses	STM14_4580
+rtsB	no represses	STM14_4738
+rtsB	no represses	STM14_4854
+rtsB	no represses	STM14_4930
+rtsB	no represses	STM14_4950
+rtsB	no represses	STM14_5149
+rtsB	no represses	STM14_5182
+rtsB	no represses	STM14_5300
+rtsB	no represses	STM14_5410
+rtsB	no represses	STM14_5429
+rtsB	no represses	STM14_5496
+rtsB	no represses	STM14_970
+rtsB	no represses	STM14_989
+rtsB	no represses	STM14_5557
+hilA	no represses	STM14_0580
+hilA	no represses	STM14_06610
+hilA	no represses	STM14_1174
+hilA	no represses	STM14_1175
+hilA	no represses	STM14_1176
+hilA	no represses	STM14_1177
+hilA	no represses	STM14_1178
+hilA	no represses	STM14_1180
+hilA	no represses	STM14_1486
+hilA	no represses	STM14_1507
+hilA	no represses	STM14_1508
+hilA	no represses	STM14_1829
+hilA	no represses	STM14_3466
+hilA	no represses	STM14_3479
+hilA	no represses	STM14_3847
+hilA	no represses	STM14_4330
+hilA	no represses	STM14_4331
+hilA	no represses	STM14_4969
+hilA	no represses	STM14_5101
+hilA	no represses	STM14_5117
+hilA	no represses	STM14_5118
+hilA	no represses	STM14_5119
+hilA	no represses	STM14_5120
+hilA	no represses	STM14_5121
+hilA	no represses	STM14_5185
+hilA	no represses	STM14_5186
+hilA	no represses	STM14_5187
+hilA	no represses	STM14_5188
+hilA	no represses	STM14_0076
+hilA	no represses	STM14_0097
+hilA	no represses	STM14_0179
+hilA	no represses	STM14_0328
+hilA	no represses	STM14_0363
+hilA	no represses	STM14_0414
+hilA	no represses	STM14_0597
+hilA	no represses	STM14_0653
+hilA	no represses	STM14_0683
+hilA	no represses	STM14_0841
+hilA	no represses	STM14_1108
+hilA	no represses	STM14_1161
+hilA	no represses	STM14_1164
+hilA	no represses	STM14_1179
+hilA	no represses	STM14_1557
+hilA	no represses	STM14_1895
+hilA	no represses	STM14_1914
+hilA	no represses	STM14_2305
+hilA	no represses	STM14_2387
+hilA	no represses	STM14_2454
+hilA	no represses	STM14_2921
+hilA	no represses	STM14_2955
+hilA	no represses	STM14_3109
+hilA	no represses	STM14_3119
+hilA	no represses	STM14_3205
+hilA	no represses	STM14_3295
+hilA	no represses	STM14_3431
+hilA	no represses	STM14_3464
+hilA	no represses	STM14_3502
+hilA	no represses	STM14_3700
+hilA	no represses	STM14_3726
+hilA	no represses	STM14_3800
+hilA	no represses	STM14_3897
+hilA	no represses	STM14_4185
+hilA	no represses	STM14_4379
+hilA	no represses	STM14_4549
+hilA	no represses	STM14_4658
+hilA	no represses	STM14_4759
+hilA	no represses	STM14_4771
+hilA	no represses	STM14_4808
+hilA	no represses	STM14_4874
+hilA	no represses	STM14_5051
+hilA	no represses	STM14_5110
+hilA	no represses	STM14_5122
+hilA	no represses	STM14_5125
+hilA	no represses	STM14_5189
+hilA	no represses	STM14_5208
+hilA	no represses	STM14_5347
+hilA	no represses	STM14_5399
+hilA	no represses	STM14_5416
+hilA	no represses	STM14_5455
+hilA	no represses	STM14_5496
+hilA	no represses	STM14_5589
+hilD	no represses	aas
+hilD	no represses	aceF
+hilD	no represses	adi
+hilD	no represses	alaT
+hilC	no represses	alaT
+hilA	no represses	alaT
+hilD	no represses	alaV
+hilC	no represses	alaV
+hilA	no represses	alaV
+rtsB	no represses	allP
+hilD	no represses	panE
+hilD	no represses	araD
+rtsB	no represses	argB
+rtsB	no represses	argC
+rtsB	no represses	argD_2
+rtsB	no represses	argH
+rtsB	no represses	argI
+invF	no represses	argU
+invF	no represses	argW
+sprB	no represses	argW
+hilA	no represses	argW
+rtsB	no represses	aroE_1
+rtsB	no represses	aroM
+rtsB	no represses	artJ
+rtsB	no represses	asnA
+hilD	no represses	asnB
+sprB	no represses	asnB
+hilD	no represses	asnT_1
+hilC	no represses	asnT_1
+rstA	no represses	asnT_1
+sprB	no represses	asnT_1
+hilA	no represses	asnT_1
+hilD	no represses	asnT_2
+hilC	no represses	asnT_2
+rstA	no represses	asnT_2
+sprB	no represses	asnT_2
+hilA	no represses	asnT_2
+hilD	no represses	asnU
+hilC	no represses	asnU
+rstA	no represses	asnU
+sprB	no represses	asnU
+hilA	no represses	asnU
+hilD	no represses	asnW
+hilC	no represses	asnW
+rstA	no represses	asnW
+sprB	no represses	asnW
+hilA	no represses	asnW
+hilA	no represses	aspT
+hilC	no represses	aspU
+rstA	no represses	aspU
+hilA	no represses	aspU
+hilD	no represses	aspV
+hilC	no represses	aspV
+rstA	no represses	aspV
+hilA	no represses	aspV
+rtsB	no represses	astE
+rstA	no represses	baeR
+hilD	no represses	baeS
+rstA	no represses	baeS
+rstA	no represses	bcfB
+rstA	no represses	bcfF
+rtsB	no represses	bfd
+sprB	no represses	bglX
+rstA	no represses	bioA
+rtsB	no represses	bioB
+hilC	no represses	bioC
+hilA	no represses	cadA
+rstA	no represses	cadB
+hilD	no represses	caiF
+hilD	no represses	caiT
+hilD	no represses	cheM
+hilD	no represses	cheR
+hilD	no represses	cheW
+hilD	no represses	cheY
+hilD	no represses	cheZ
+sprB	no represses	cigR
+rtsB	no represses	citD2
+hilA	no represses	citE2
+hilC	no represses	citT
+invF	no represses	citT
+sprB	no represses	citT
+hilA	no represses	citT
+sprB	no represses	clpB
+hilA	no represses	cobU
+rstA	no represses	cpsG
+hilA	no represses	cpsG
+rstA	no represses	csgA
+rtsB	no represses	csgA
+rtsB	no represses	csgB
+rstA	no represses	csgF
+sprB	no represses	csgF
+rtsB	no represses	csgG
+hilD	no represses	cspA
+hilD	no represses	cspB
+rtsB	no represses	cspD
+hilD	no represses	cybC
+hilD	no represses	cysB
+hilD	no represses	cysZ
+rstA	no represses	dacB
+rtsB	no represses	dadA
+sprB	no represses	dcoB
+sprB	no represses	lpxP
+rstA	no represses	ddl_2
+sprB	no represses	dedD
+hilD	no represses	dkgA
+hilD	no represses	dksA
+hilC	no represses	dksA
+rstA	no represses	dksA
+rtsB	no represses	dlhH
+invF	no represses	dnaJ
+sprB	no represses	dnaJ
+invF	no represses	dnaK
+sprB	no represses	dnaK
+rtsB	no represses	mltD
+rtsB	no represses	dppA
+hilD	no represses	dsbA
+hilC	no represses	dsbA
+rstA	no represses	dsbA
+invF	no represses	dsrA
+hilC	no represses	ecnA
+rstA	no represses	ecnA
+hilA	no represses	ego
+rstA	no represses	entC
+rtsB	no represses	entD
+hilA	no represses	entD
+hilD	no represses	entE
+sprB	no represses	envE
+rtsB	no represses	envF
+invF	no represses	envR
+hilD	no represses	fdnG
+rstA	no represses	fdnG
+hilD	no represses	fdnH
+hilD	no represses	fdnI
+rstA	no represses	fdrA
+invF	no represses	fdrA
+sprB	no represses	fdrA
+hilC	no represses	fepD
+rtsB	no represses	fepD
+rstA	no represses	fepG
+hilD	no represses	ffs
+hilC	no represses	ffs
+rstA	no represses	ffs
+sprB	no represses	ffs
+hilA	no represses	ffs
+hilD	no represses	fixC
+sprB	no represses	fixX
+hilD	no represses	flgA
+hilD	no represses	flgB
+hilD	no represses	flgC
+hilD	no represses	flgD
+hilD	no represses	flgE
+hilD	no represses	flgG
+hilD	no represses	flgH
+hilD	no represses	flgM
+hilD	no represses	flgN
+hilD	no represses	flhB
+hilD	no represses	flhC
+hilD	no represses	flhD
+hilD	no represses	flhE
+hilD	no represses	fliA
+hilD	no represses	fliC
+hilD	no represses	fliE
+hilD	no represses	fliF
+hilD	no represses	fliG
+hilD	no represses	fliH
+hilD	no represses	fliK
+hilD	no represses	fliL
+hilD	no represses	fliM
+hilD	no represses	fliN
+hilD	no represses	fliO
+hilD	no represses	fliP
+hilD	no represses	fliQ
+rstA	no represses	fliR
+hilD	no represses	fliS
+hilD	no represses	fliT
+hilD	no represses	fliZ
+hilD	no represses	fljB
+sprB	no represses	folC
+hilD	no represses	folK
+sprB	no represses	ftsN
+rstA	no represses	ftsQ
+hilD	no represses	ftsW
+rstA	no represses	ftsZ
+sprB	no represses	fxsA
+sprB	no represses	galU
+hilD	no represses	glnS
+hilD	no represses	glnV
+hilC	no represses	glnV
+rstA	no represses	glnV
+hilA	no represses	glnV
+hilC	no represses	glnW
+hilA	no represses	glnW
+hilD	no represses	glnX
+hilC	no represses	glnX
+rstA	no represses	glnX
+hilA	no represses	glnX
+rtsB	no represses	glpE
+hilC	no represses	gltU
+rstA	no represses	gltU
+hilA	no represses	gltU
+hilC	no represses	gltV
+rstA	no represses	gltV
+hilA	no represses	gltV
+hilC	no represses	gltW
+rstA	no represses	gltW
+hilA	no represses	gltW
+rstA	no represses	gmd
+rtsB	no represses	gmd
+rtsB	no represses	gpmA
+sprB	no represses	ytjC
+invF	no represses	groL
+sprB	no represses	groL
+sprB	no represses	groS
+sprB	no represses	grpE
+hilD	no represses	gtgA
+hilC	no represses	hemA
+rstA	no represses	hdeB
+hilD	no represses	hilA
+hilC	no represses	hilA
+rstA	no represses	hilA
+hilD	no represses	hilC
+hilC	no represses	hilC
+rstA	no represses	hilC
+hilA	no represses	hilC
+hilD	no represses	hilD
+hilC	no represses	hilD
+rstA	no represses	hilD
+hilA	no represses	hilD
+hilC	no represses	hisR
+hilC	no represses	hopD
+rstA	no represses	hopD
+invF	no represses	hopD
+rtsB	no represses	hopD
+rtsB	no represses	hpaH
+sprB	no represses	hslO
+invF	no represses	hslU
+sprB	no represses	hslU
+invF	no represses	hslV
+sprB	no represses	hslV
+invF	no represses	htpG
+sprB	no represses	htpG
+hilD	no represses	hycA
+hilD	no represses	hycB
+hilD	no represses	hycC
+hilD	no represses	hycD
+hilD	no represses	hycE
+hilD	no represses	hycF
+hilD	no represses	hycG
+hilD	no represses	hycH
+hilD	no represses	hydN
+hilD	no represses	iacP
+rstA	no represses	iacP
+invF	no represses	iacP
+hilA	no represses	iacP
+hilD	no represses	iagB
+hilC	no represses	iagB
+rstA	no represses	iagB
+sprB	no represses	iap
+invF	no represses	ibpA
+sprB	no represses	ibpA
+invF	no represses	ibpB
+sprB	no represses	ibpB
+hilD	no represses	ilvL
+hilC	no represses	ilvL
+hilD	no represses	invA
+hilC	no represses	invA
+rstA	no represses	invA
+hilA	no represses	invA
+hilD	no represses	invB
+rstA	no represses	invB
+hilA	no represses	invB
+hilD	no represses	invC
+rstA	no represses	invC
+hilA	no represses	invC
+hilD	no represses	invE
+hilC	no represses	invE
+rstA	no represses	invE
+hilA	no represses	invE
+hilD	no represses	invF
+hilC	no represses	invF
+rstA	no represses	invF
+invF	no represses	invF
+hilA	no represses	invF
+hilD	no represses	invG
+hilC	no represses	invG
+rstA	no represses	invG
+hilA	no represses	invG
+hilD	no represses	invH
+hilC	no represses	invH
+rstA	no represses	invH
+hilA	no represses	invH
+hilD	no represses	invI
+rstA	no represses	invI
+hilA	no represses	invI
+hilD	no represses	invJ
+rstA	no represses	invJ
+hilA	no represses	invJ
+hilA	no represses	iroD
+hilC	no represses	kdpB
+rtsB	no represses	kdpB
+rtsB	no represses	kgtP
+hilC	no represses	leuO
+sprB	no represses	leuO
+hilD	no represses	leuP
+hilC	no represses	leuP
+rstA	no represses	leuP
+rtsB	no represses	leuP
+hilA	no represses	leuP
+hilD	no represses	leuQ
+hilC	no represses	leuQ
+rstA	no represses	leuQ
+invF	no represses	leuQ
+rtsB	no represses	leuQ
+hilD	no represses	leuT
+hilC	no represses	leuT
+invF	no represses	leuT
+rtsB	no represses	leuT
+hilD	no represses	leuU
+hilC	no represses	leuU
+rstA	no represses	leuU
+invF	no represses	leuU
+rtsB	no represses	leuU
+hilA	no represses	leuU
+hilD	no represses	leuV
+hilC	no represses	leuV
+rstA	no represses	leuV
+invF	no represses	leuV
+rtsB	no represses	leuV
+hilD	no represses	leuX
+hilC	no represses	leuX
+rstA	no represses	leuX
+invF	no represses	leuX
+rtsB	no represses	leuX
+hilA	no represses	leuX
+hilC	no represses	leuZ
+invF	no represses	leuZ
+sprB	no represses	lolB
+sprB	no represses	lon
+invF	no represses	lpfA
+rtsB	no represses	lpfB
+hilD	no represses	lysV
+hilC	no represses	lysV
+rstA	no represses	lysV
+hilD	no represses	lysZ
+hilC	no represses	lysZ
+rstA	no represses	lysZ
+hilD	no represses	malE
+hilD	no represses	malF
+hilC	no represses	malF
+hilD	no represses	malG
+hilC	no represses	cpsB
+rtsB	no represses	cpsB
+hilD	no represses	manX
+hilD	no represses	manY
+hilD	no represses	manZ
+hilD	no represses	nfsA
+sprB	no represses	menA
+rtsB	no represses	metA
+rtsB	no represses	metF
+hilD	no represses	metW
+hilC	no represses	metW
+rstA	no represses	metW
+hilA	no represses	metW
+hilC	no represses	metY
+hilA	no represses	metY
+hilD	no represses	metZ
+hilC	no represses	metZ
+sprB	no represses	metZ
+hilA	no represses	metZ
+hilD	no represses	micF
+sprB	no represses	mig-14
+sprB	no represses	minC
+sprB	no represses	minD
+sprB	no represses	minE
+sprB	no represses	mipA
+sprB	no represses	mltC
+sprB	no represses	mpl
+hilD	no represses	mraY
+rtsB	no represses	msgA
+hilD	no represses	murC
+rstA	no represses	murC
+hilD	no represses	murD
+hilD	no represses	murF
+sprB	no represses	mutM
+sprB	no represses	mutY
+hilD	no represses	napD
+hilA	no represses	narK
+sprB	no represses	nepI
+hilD	no represses	nhaA
+hilC	no represses	nhaA
+rstA	no represses	nhaA
+hilD	no represses	nhaR
+hilC	no represses	nhaR
+rstA	no represses	nhaR
+sprB	no represses	nhoA
+hilD	no represses	nirD
+sprB	no represses	nrdI
+rstA	no represses	oadA
+rstA	no represses	oadG
+hilD	no represses	ogt
+rtsB	no represses	ompF
+rtsB	no represses	ompS
+hilD	no represses	orgA
+rstA	no represses	orgA
+hilA	no represses	orgA
+hilD	no represses	orgB
+rstA	no represses	orgB
+hilA	no represses	orgB
+hilD	no represses	orgC
+rstA	no represses	orgC
+hilA	no represses	orgC
+hilD	no represses	pagC
+rstA	no represses	pagC
+sprB	no represses	pagC
+rstA	no represses	pagD
+sprB	no represses	pagD
+sprB	no represses	pck
+hilA	no represses	pduA
+hilA	no represses	pduH
+hilC	no represses	pduK
+rstA	no represses	pduK
+sprB	no represses	pduK
+hilA	no represses	pduK
+rstA	no represses	pduO
+hilA	no represses	pduO
+hilC	no represses	pduU
+rstA	no represses	pduU
+hilA	no represses	pduU
+hilD	no represses	pefA
+hilC	no represses	pefA
+rstA	no represses	pefA
+hilC	no represses	pflE
+hilA	no represses	pflE
+rtsB	no represses	pgpB
+hilC	no represses	pheR
+invF	no represses	pheR
+invF	no represses	pheV
+rstA	no represses	phnS
+hilC	no represses	phnU
+hilA	no represses	phnU
+rstA	no represses	phoE
+sprB	no represses	ybeZ
+sprB	no represses	phoP
+hilD	no represses	pipB
+invF	no represses	pipB
+hilA	no represses	pipB
+hilD	no represses	pipC
+invF	no represses	pipC
+hilA	no represses	pipC
+hilD	no represses	pmbA
+hilD	no represses	pmgI
+hilC	no represses	ppdA
+rtsB	no represses	pphA
+sprB	no represses	ppsA
+hilD	no represses	prgH
+hilC	no represses	prgH
+rstA	no represses	prgH
+hilA	no represses	prgH
+hilD	no represses	prgI
+rstA	no represses	prgI
+hilA	no represses	prgI
+hilD	no represses	prgJ
+hilC	no represses	prgJ
+rstA	no represses	prgJ
+hilA	no represses	prgJ
+hilD	no represses	prgK
+hilC	no represses	prgK
+rstA	no represses	prgK
+hilA	no represses	prgK
+hilD	no represses	proK
+hilC	no represses	proK
+rstA	no represses	proK
+hilA	no represses	proK
+hilD	no represses	proL
+hilC	no represses	proL
+rstA	no represses	proL
+invF	no represses	proL
+hilA	no represses	proL
+hilD	no represses	proM
+hilC	no represses	proM
+rstA	no represses	proM
+invF	no represses	proM
+hilA	no represses	proM
+invF	no represses	prpB
+hilA	no represses	pspA
+hilA	no represses	pspB
+hilA	no represses	pspC
+hilA	no represses	pspD
+invF	no represses	pspG
+hilA	no represses	pspG
+rstA	no represses	repA2
+sprB	no represses	rhaA
+hilC	no represses	rhaT
+rtsB	no represses	rihA
+hilD	no represses	rmf
+hilC	no represses	rmf
+rtsB	no represses	rmf
+rstA	no represses	rnfD
+hilD	no represses	rnpB
+hilC	no represses	rnpB
+rstA	no represses	rnpB
+invF	no represses	rnpB
+rtsB	no represses	rnpB
+hilD	no represses	rplT
+hilD	no represses	rpmG
+hilD	no represses	rprA
+hilC	no represses	rprA
+hilD	no represses	rpsO
+hilD	no represses	rpsR
+hilD	no represses	rrfA
+invF	no represses	rrfA
+sprB	no represses	rrfA
+hilD	no represses	rrfB
+hilC	no represses	rrfB
+rstA	no represses	rrfB
+invF	no represses	rrfB
+sprB	no represses	rrfB
+hilD	no represses	rrfC
+hilC	no represses	rrfC
+invF	no represses	rrfC
+sprB	no represses	rrfC
+hilD	no represses	rrfD
+hilC	no represses	rrfD
+invF	no represses	rrfD
+sprB	no represses	rrfD
+hilD	no represses	rrfE
+hilD	no represses	rrfF
+hilC	no represses	rrfF
+hilD	no represses	rrfG
+hilC	no represses	rrfG
+invF	no represses	rrfG
+hilD	no represses	rrfH
+invF	no represses	rrfH
+sprB	no represses	rrfH
+hilA	no represses	rrfH
+sprB	no represses	rrlA
+sprB	no represses	rrlB
+sprB	no represses	rrlC
+sprB	no represses	rrlD
+sprB	no represses	rrlG
+sprB	no represses	rrlH
+rstA	no represses	safB
+sprB	no represses	sanA
+hilD	no represses	selC
+hilC	no represses	selC
+rstA	no represses	selC
+sprB	no represses	selC
+rtsB	no represses	selC
+hilA	no represses	selC
+sprB	no represses	selD
+hilD	no represses	serW
+hilC	no represses	serW
+rstA	no represses	serW
+hilA	no represses	serW
+hilD	no represses	serX
+hilC	no represses	serX
+rstA	no represses	serX
+hilA	no represses	serX
+rtsB	no represses	sfbA
+rstA	no represses	sfbB
+rstA	no represses	sfbC
+hilC	no represses	sgbU
+hilD	no represses	sicA
+rstA	no represses	sicA
+invF	no represses	sicA
+hilA	no represses	sicA
+hilD	no represses	sicP
+invF	no represses	sicP
+hilA	no represses	sicP
+hilD	no represses	sifB
+hilC	no represses	sifB
+sprB	no represses	sifB
+hilC	no represses	sinI
+hilD	no represses	sinR
+rtsB	no represses	sinR
+hilD	no represses	sipA
+rstA	no represses	sipA
+invF	no represses	sipA
+hilA	no represses	sipA
+hilD	no represses	sipB
+rstA	no represses	sipB
+invF	no represses	sipB
+hilA	no represses	sipB
+hilD	no represses	sipC
+rstA	no represses	sipC
+invF	no represses	sipC
+hilA	no represses	sipC
+hilD	no represses	sipD
+rstA	no represses	sipD
+invF	no represses	sipD
+hilA	no represses	sipD
+hilC	no represses	slrB
+rstA	no represses	slrB
+rstA	no represses	slrP
+sprB	no represses	slrP
+sprB	no represses	slyA
+hilD	no represses	sopA
+rstA	no represses	sopA
+invF	no represses	sopA
+hilA	no represses	sopA
+hilD	no represses	sopB
+rstA	no represses	sopB
+invF	no represses	sopB
+hilA	no represses	sopB
+hilD	no represses	sopD
+sprB	no represses	sopD
+hilA	no represses	sopD
+hilD	no represses	sopE2
+rstA	no represses	sopE2
+invF	no represses	sopE2
+hilA	no represses	sopE2
+hilD	no represses	spaO
+rstA	no represses	spaO
+hilA	no represses	spaO
+hilD	no represses	spaP
+rstA	no represses	spaP
+hilA	no represses	spaP
+hilD	no represses	spaQ
+rstA	no represses	spaQ
+hilA	no represses	spaQ
+hilD	no represses	spaR
+hilC	no represses	spaR
+rstA	no represses	spaR
+hilA	no represses	spaR
+hilD	no represses	spaS
+rstA	no represses	spaS
+hilA	no represses	spaS
+hilD	no represses	spf
+hilC	no represses	spf
+rstA	no represses	spf
+invF	no represses	spf
+rtsB	no represses	spf
+hilD	no represses	sprB
+hilC	no represses	sprB
+rstA	no represses	sprB
+sprB	no represses	sprB
+hilA	no represses	sprB
+hilD	no represses	sptP
+rstA	no represses	sptP
+invF	no represses	sptP
+hilA	no represses	sptP
+hilC	no represses	spvA
+rtsB	no represses	spvD
+hilD	no represses	srfA
+hilD	no represses	srfB
+hilC	no represses	srlA
+hilC	no represses	srlD
+hilC	no represses	srlE
+hilD	no represses	ssaB
+sprB	no represses	ssaB
+sprB	no represses	ssaC
+hilD	no represses	ssaG
+hilC	no represses	ssaG
+rstA	no represses	ssaG
+sprB	no represses	ssaG
+hilD	no represses	ssaH
+sprB	no represses	ssaH
+hilD	no represses	ssaI
+sprB	no represses	ssaI
+hilD	no represses	ssaJ
+hilC	no represses	ssaJ
+sprB	no represses	ssaJ
+sprB	no represses	ssaK
+hilD	no represses	ssb
+sprB	no represses	sscA
+hilD	no represses	sseJ
+hilC	no represses	sseJ
+sprB	no represses	sseJ
+hilD	no represses	sseL
+sprB	no represses	sseL
+sprB	no represses	ssrA
+sprB	no represses	stdC
+hilC	no represses	stfD
+hilC	no represses	stfE
+hilA	no represses	stfE
+rtsB	no represses	stfF
+rstA	no represses	stjC
+rtsB	no represses	sugR
+hilD	no represses	tdcA
+hilD	no represses	tdcB
+hilD	no represses	tdcC
+hilD	no represses	tdcD
+hilD	no represses	tdcE
+hilD	no represses	tdcG
+hilD	no represses	thrT
+hilD	no represses	thrU
+hilC	no represses	thrU
+rstA	no represses	thrU
+hilA	no represses	thrU
+hilD	no represses	thrV
+hilC	no represses	thrV
+rstA	no represses	thrV
+invF	no represses	thrV
+hilA	no represses	thrV
+hilD	no represses	thrW
+hilC	no represses	thrW
+invF	no represses	thrW
+hilA	no represses	thrW
+sprB	no represses	topB
+hilD	no represses	tpx
+rtsB	no represses	tpx
+hilD	no represses	traL
+rstA	no represses	traR
+sprB	no represses	trpE
+hilC	no represses	trpT
+rstA	no represses	trpT
+invF	no represses	trpT
+hilA	no represses	trpT
+rtsB	no represses	trxC
+invF	no represses	tyrU
+hilD	no represses	tyrV
+hilC	no represses	tyrV
+invF	no represses	tyrV
+hilD	no represses	ugtL
+sprB	no represses	ugtL
+rtsB	no represses	ulaA_3
+sprB	no represses	bacA
+hilC	no represses	valW
+rstA	no represses	valW
+invF	no represses	valW
+hilA	no represses	valW
+hilC	no represses	wcaC
+rtsB	no represses	wcaC
+rstA	no represses	wcaD
+rtsB	no represses	wcaD
+rstA	no represses	wcaE
+rtsB	no represses	wcaE
+rstA	no represses	wcaF
+sprB	no represses	wcaF
+rtsB	no represses	wcaF
+rstA	no represses	fcl
+hilA	no represses	fcl
+hilD	no represses	wcaH
+hilC	no represses	wcaH
+rstA	no represses	wcaH
+rtsB	no represses	wcaH
+hilA	no represses	wcaH
+hilD	no represses	wcaI
+hilC	no represses	wcaI
+rtsB	no represses	wcaK
+sprB	no represses	wza
+rtsB	no represses	wza
+hilA	no represses	wza
+hilC	no represses	wzb
+invF	no represses	wzb
+sprB	no represses	wzb
+sprB	no represses	wzc
+rtsB	no represses	wzc
+sprB	no represses	wzzB
+invF	no represses	yabI
+sprB	no represses	yabI
+hilD	no represses	gluQ
+hilC	no represses	gluQ
+rstA	no represses	gluQ
+rtsB	no represses	yafS
+rtsB	no represses	ppnP
+sprB	no represses	iprA
+rstA	no represses	yaiY
+rtsB	no represses	acpH
+hilD	no represses	yajG
+sprB	no represses	yajI
+hilD	no represses	ybaL
+rstA	no represses	ybaL
+rtsB	no represses	fadM
+sprB	no represses	cnoX
+rtsB	no represses	ybbV
+sprB	no represses	ybcI
+rtsB	no represses	ybdJ
+sprB	no represses	ybdZ
+sprB	no represses	ybeD
+sprB	no represses	ybeY
+rstA	no represses	zitB
+sprB	no represses	ybiI
+rtsB	no represses	ybiI
+rtsB	no represses	ybiJ
+hilD	no represses	ybjC
+sprB	no represses	ybjD
+rtsB	no represses	lysO
+sprB	no represses	zapC
+sprB	no represses	hspQ
+hilC	no represses	yceO
+rtsB	no represses	yceO
+rtsB	no represses	ychO
+rtsB	no represses	yciE
+hilC	no represses	yciF
+rtsB	no represses	yciF
+hilC	no represses	yciG
+sprB	no represses	yciU
+rtsB	no represses	ydcI
+hilD	no represses	ydcX
+rstA	no represses	ydeJ
+rtsB	no represses	ydeJ
+hilD	no represses	ydfZ
+rtsB	no represses	ydgC
+rstA	no represses	ydgK
+rstA	no represses	ydgP
+hilD	no represses	cnu
+rstA	no represses	cnu
+rtsB	no represses	ydhL
+hilD	no represses	ydiF
+rtsB	no represses	ydiL
+hilC	no represses	ydiM
+rtsB	no represses	ydiM
+rtsB	no represses	ydiN
+hilD	no represses	ydiO
+rtsB	no represses	ydiP
+invF	no represses	ydjM
+rtsB	no represses	yeaO
+rstA	no represses	mepM
+rtsB	no represses	yebB
+rtsB	no represses	yebW
+hilD	no represses	mdtD
+rstA	no represses	mdtD
+rtsB	no represses	yehE
+rtsB	no represses	mlrA
+invF	no represses	yeiH
+rtsB	no represses	yeiH
+hilA	no represses	yfcF
+sprB	no represses	yfdC
+hilC	no represses	yfdH
+hilD	no represses	pdeA
+hilC	no represses	pdeA
+rstA	no represses	pdeA
+hilD	no represses	grcA
+rtsB	no represses	yfiE
+rtsB	no represses	ygbA
+hilA	no represses	norW
+sprB	no represses	ygdP
+sprB	no represses	ygdQ
+hilD	no represses	ygeD
+sprB	no represses	yggX
+sprB	no represses	yghA
+rstA	no represses	ygiD
+hilD	no represses	plsY
+hilC	no represses	plsY
+hilD	no represses	ygiK
+rtsB	no represses	yhcC
+hilC	no represses	yhcR
+rtsB	no represses	yhcR
+hilC	no represses	aaeR
+invF	no represses	tusB
+sprB	no represses	tusB
+sprB	no represses	tsgA
+sprB	no represses	yhgE
+rtsB	no represses	yhgF
+sprB	no represses	yhgH
+sprB	no represses	nfuA
+sprB	no represses	yhhT
+rtsB	no represses	yhhV
+sprB	no represses	rsmJ
+rtsB	no represses	yhjB
+sprB	no represses	yiaB
+hilA	no represses	yiaD
+rtsB	no represses	yiaK
+sprB	no represses	envC
+rstA	no represses	yicJ
+hilA	no represses	yicJ
+sprB	no represses	yidE
+sprB	no represses	yidF
+rstA	no represses	yifZ
+sprB	no represses	yigF
+hilA	no represses	yigF
+hilD	no represses	yigG
+sprB	no represses	yigG
+rtsB	no represses	yigI
+hilD	no represses	srkA
+hilC	no represses	srkA
+rstA	no represses	srkA
+hilA	no represses	yihT
+hilC	no represses	yjbE
+invF	no represses	yjbE
+sprB	no represses	yjbE
+rtsB	no represses	yjbE
+rtsB	no represses	yjbF
+rtsB	no represses	yjbG
+sprB	no represses	yjbJ
+rtsB	no represses	yjcB
+sprB	no represses	yjcE
+hilD	no represses	adiC
+rtsB	no represses	yjeJ
+sprB	no represses	yjeT
+sprB	no represses	yjfJ
+rtsB	no represses	yjfJ
+hilD	no represses	yjiG
+rtsB	no represses	symE
+hilD	no represses	btsT
+hilC	no represses	yjjY
+rstA	no represses	ylbE
+sprB	no represses	ylbE
+hilA	no represses	ylbE
+sprB	no represses	ymdC
+sprB	no represses	yncJ
+hilA	no represses	yneA
+hilA	no represses	lsrF
+rstA	no represses	sad
+rtsB	no represses	ynfA
+rtsB	no represses	yoaH
+rtsB	no represses	yodD
+sprB	no represses	ypeC
+rtsB	no represses	yqeF
+hilD	no represses	yqhD
+sprB	no represses	mlaE
+sprB	no represses	mlaF
+sprB	no represses	hslR
+rtsB	no represses	ytfF
+hilD	no represses	ytfK
+rtsB	no represses	zipA
+rstA	no represses	znuA

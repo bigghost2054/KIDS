@@ -63,7 +63,7 @@ def main() -> None:
     args = parse_argument()
 
     if args.mode == 'find_best_hyperparameter':
-        results_dir = os.path.join(OUTPUT_DIR, DEFAULT_DATASET, 'tucker')
+        results_dir = os.path.join(OUTPUT_DIR, args.dataset, 'tucker')
         print(f'Finding results in directory: {results_dir}')
 
         files = glob(os.path.join(results_dir, args.input_filename))
@@ -93,7 +93,7 @@ def main() -> None:
         print(f'Hyperparameters search result sorted by {args.based_on}:\n{df}')
 
     if args.mode == 'get_test_stats':
-        results_dir = os.path.join(OUTPUT_DIR, DEFAULT_DATASET, 'tucker')
+        results_dir = os.path.join(OUTPUT_DIR, args.dataset, 'tucker')
         print(f'Finding results in directory: {results_dir}')
 
         results = load_pkl(os.path.join(results_dir, args.input_filename))

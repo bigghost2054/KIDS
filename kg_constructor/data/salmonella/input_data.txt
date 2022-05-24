@@ -1,0 +1,6 @@
+Path	Source
+GO_sal/GO_sal_Feb11_Final.txt	GO_sal
+Salm/Sal-Ab_Feb14-Final.txt	Salm
+Pathogen_Detection_DB/PathogenD_db_feb15.txt	Pathogen_Detection_DB
+Salm_TF/regulatory.txt	Salm_TF
+

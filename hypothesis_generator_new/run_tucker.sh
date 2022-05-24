@@ -8,7 +8,7 @@ python kids.py \
 	--dataset=ecoli \
 	--mode=evaluate \
 	--random_state=530 \
-	--num_iterations=300 \
+	--num_iterations=10 \
 	--batch_size=128 \
 	--lr=0.0002 \
 	--dr=1.0 \
@@ -31,7 +31,7 @@ python kids.py \
 	--dataset=ecoli \
 	--mode=evaluate \
 	--random_state=530 \
-	--num_iterations=300 \
+	--num_iterations=10 \
 	--batch_size=128 \
 	--lr=0.0002 \
 	--dr=1.0 \

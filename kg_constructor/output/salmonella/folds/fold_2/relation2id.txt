@@ -1,0 +1,17 @@
+16
+confers resistance to antibiotic	0
+confers no resistance to antibiotic	1
+is downregulated by antibiotic	2
+is upregulated by antibiotic	3
+is not regulated by antibiotic	4
+is mutated by antibiotic	5
+is not mutated by antibiotic	6
+is associated with resistance to antibiotic	7
+represses	8
+no represses	9
+activates	10
+no activates	11
+has	12
+is involved in	13
+is part of	14
+targeted by	15

@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<rules>
+	
+
+	<rule name="confers_resistance_to_antibiotic">
+		<inconsistency name="Predicate">
+			<feature value="confers resistance to antibiotic"></feature>
+			<feature value="confers no resistance to antibiotic"></feature>
+		</inconsistency>
+	</rule>
+	<rule name="confers_no_resistance_to_antibiotic">
+		<inconsistency name="Predicate">
+			<feature value="confers no resistance to antibiotic"></feature>
+			<feature value="confers resistance to antibiotic"></feature>
+		</inconsistency>
+	</rule>
+	<rule name="is_mutated_by_antibiotic">
+		<inconsistency name="Predicate">
+			<feature value="is mutated by antibiotic"></feature>
+			<feature value="is not mutated by antibiotic"></feature>
+		</inconsistency>
+	
+	</rule>
+	
+	<rule name="is associated with resistance to antibiotic">
+		<inconsistency name="Predicate">
+			<feature value="is associated with resistance to antibiotic"></feature>
+			<feature value="confers no resistance to antibiotic"></feature>
+		</inconsistency>
+	</rule>
+	<rule name="is downregulated by antibiotic">
+		<inconsistency name="Predicate">
+			<feature value="is downregulated by antibiotic"></feature>
+			<feature value="is upregulated by antibiotic"></feature>
+		</inconsistency>
+	</rule>
+	<rule name="is upregulated by antibiotic">
+		<inconsistency name="Predicate">
+			<feature value="is upregulated by antibiotic"></feature>
+			<feature value="is downregulated by antibiotic"></feature>
+		</inconsistency>
+	</rule>
+	<rule name="is not regulated by antibiotic">
+		<inconsistency name="Predicate">
+			<feature value="is not regulated by antibiotic"></feature>
+			<feature value="is upregulated by antibiotic"></feature>
+		</inconsistency>
+	</rule>
+
+	<rule name="is not regulated by antibiotic">
+		<inconsistency name="Predicate">
+			<feature value="is not regulated by antibiotic"></feature>
+			<feature value="is downregulated by antibiotic"></feature>
+			</inconsistency>
+	</rule>
+</rules>

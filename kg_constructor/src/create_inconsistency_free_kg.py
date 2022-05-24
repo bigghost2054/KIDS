@@ -253,7 +253,7 @@ def reinstate_resolved_and_validated(
         def _force_pos(x):
             matching_pairs = df_pos_neg_pairs[(df_pos_neg_pairs == x).any(axis=1)]
             return matching_pairs['positive'].tolist()[0]
-
+        
         df_not_validated['Predicate'] = df_not_validated['Predicate'].apply(lambda x: _force_pos(x))
         df_to_append = pd.concat([df_to_append, df_not_validated], ignore_index=True, sort=False)
     else:

@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<rules>
+	
+	<rule name="confers_resistance_to_antibiotic">
+
+		<if>
+			<feature name="Predicate" value="confers resistance to antibiotic"></feature>
+		</if>
+		<then>
+			<feature name="Predicate" value="confers resistance to antibiotic"></feature>
+		</then>
+	</rule>
+	<rule name="confers_no_resistance_to_antibiotic">
+		<if>
+			<feature name="Predicate" value="confers no resistance to antibiotic"></feature>
+		</if>
+		<then>
+			<feature name="Predicate" value="confers no resistance to antibiotic"></feature>
+		</then>
+	</rule>
+	<rule name="is_associated_with_resistance_to_antibiotic">
+		<if>
+			<feature name="Predicate" value="is associated with resistance to antibiotic"></feature>
+		</if>
+		<then>
+			<feature name="Predicate" value="is associated with resistance to antibiotic"></feature>
+		</then>
+	</rule>
+	<rule name="is_downregulated_by_antibiotic">
+		<if>
+			<feature name="Predicate" value="is downregulated by antibiotic"></feature>
+		</if>
+		<then>
+			<feature name="Predicate" value="is downregulated by antibiotic"></feature>
+		</then>
+	</rule>
+	<rule name="is_not_regulated_by_antibiotic">
+		<if>
+			<feature name="Predicate" value="is not regulated by antibiotic"></feature>
+		</if>
+		<then>
+			<feature name="Predicate" value="is not regulated by antibiotic"></feature>
+		</then>
+	</rule>
+	<rule name="is_upregulated_by_antibiotic">
+		<if>
+			<feature name="Predicate" value="is upregulated by antibiotic"></feature>
+		</if>
+		<then>
+			<feature name="Predicate" value="is upregulated by antibiotic"></feature>
+		</then>
+	</rule>
+	<rule name="is_mutated_by_antibiotic">
+		<if>
+			<feature name="Predicate" value="is mutated by antibiotic"></feature>
+		</if>
+		<then>
+			<feature name="Predicate" value="has"></feature>
+			<feature name="Object" value="response to antibiotic"></feature>
+		</then>
+	</rule>
+		<rule name="is_associated_with_resistance_to_antibiotic">
+		<if>
+			<feature name="Predicate" value="is associated with resistance to antibiotic"></feature>
+		</if>
+		<then>
+			<feature name="Predicate" value="has"></feature>
+			<feature name="Object" value="response to antibiotic"></feature>
+		</then>
+	</rule>	
+	<rule name="is_associated_with_resistance_to_antibiotic">
+		<if>
+			<feature name="Predicate" value="is associated with resistance to antibiotic"></feature>
+		</if>
+		
+		<then>
+			<feature name="Predicate" value="has"></feature>
+			<feature name="Object" value="response to antibiotic"></feature>
+		</then>
+	</rule>
+</rules>

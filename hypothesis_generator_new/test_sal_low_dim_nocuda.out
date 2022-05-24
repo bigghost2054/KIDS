@@ -1,0 +1,199 @@
+  0%|          | 0/9500 [00:00<?, ?it/s]  0%|          | 1/9500 [00:03<10:07:48,  3.84s/it] 11%|█         | 1001/9500 [00:04<00:24, 350.58it/s] 21%|██        | 2001/9500 [00:04<00:09, 791.30it/s] 32%|███▏      | 3001/9500 [00:07<00:14, 447.13it/s] 42%|████▏     | 4001/9500 [00:07<00:07, 704.02it/s] 53%|█████▎    | 5001/9500 [00:07<00:04, 1035.30it/s] 63%|�<class 'list'>
+<class 'numpy.ndarray'>
+f1: 0.04033946875344429
+accuracy: 0.08347368421052631
+confusion: 183 8700 7 610
+precision: 0.020601148260722728
+recall: 0.9631578947368421
+Loading train data...
+Loading val data...
+Loading test data...
+Training the TuckER model...
+Number of training data points: 84683
+Starting training...
+Iteration: 1
+Loss: 0
+  0%|          | 0/9500 [00<class 'list'>
+<class 'numpy.ndarray'>
+f1: 0.04329288291243031
+accuracy: 0.3858947368421053
+confusion: 132 5776 58 3534
+precision: 0.02234258632362898
+recall: 0.6947368421052632
+Loading train data...
+Loading val data...
+Loading test data...
+Training the TuckER model...
+Number of training data points: 84683
+Starting training...
+Iteration: 1
+Loss: 0.6896077570973596
+Mode: None
+<class 'list'>
+<class 'numpy.ndarray'>
+f1: 0.05508196721311476
+accuracy: 0.8483157894736842
+confusion: 42 1293 148 8017
+precision: 0.03146067415730337
+recall: 0.22105263157894736
+Loading train data...
+Loading val data...
+Loading test data...
+Training the TuckER model...
+Number of training data points: 84683
+Starting training...
+Iteration: 1
+Loss: 0.6895369428574081
+Mode: None
+<class 'list'>
+<class 'numpy.ndarray'>
+f1: 0.04841713221601489
+accuracy: 0.8924210526315789
+confusion: 26 858 164 8452
+precision: 0.029411764705882353
+recall: 0.1368421052631579
+Loading train data...
+Loading val data...
+Loading test data...
+Training the TuckER model...
+Number of training data points: 84683
+Starting training...
+Iteration: 1
+Loss: 0.6928753127738001
+Mode: None
+<class 'list'>
+<class 'numpy.ndarray'>
+f1: 0.05527638190954774
+accuracy: 0.960421052631579
+confusion: 11 197 179 9113
+precision: 0.052884615384615384
+recall: 0.05789473684210526
+Finding results in directory: ../../output/ecoli/tucker
+Found 1 files in the directory.
+Hyperparameters search result sorted by f1:
+                                     hyperparameters        f1
+0  (3, 128, 0.0002, 1.0, 200, 100, 0.2, 0.4, 0.5,...  0.042807
+1  (3, 128, 0.0002, 1.0, 200, 30, 0.2, 0.4, 0.5, ...  0.040777
+num_iterations: [1]
+batch_size: [8]
+learning_rate: [0.0002]
+decay_rate: [1.0]
+ent_vec_dim: [1]
+rel_vec_dim: [1]
+input_dropout: [0.2]
+hidden_dropout1: [0.4]
+hidden_dropout2: [0.5]
+label_smoothing: [0.1]
+Loading train data...
+Loading val data...
+Loading test data...
+Training the TuckER model...
+Number of training data points: 84683
+Starting training...
+Iteration: 1
+Loss: 0.6894848679620615
+Mode: None
+<class 'list'>
+<class 'numpy.ndarray'>
+f1: 0.04033946875344429
+accuracy: 0.08347368421052631
+confusion: 183 8700 7 610
+precision: 0.020601148260722728
+recall: 0.9631578947368421
+Loading train data...
+Loading val data...
+Loading test data...
+Training the TuckER model...
+Number of training data points: 84683
+Starting training...
+Iteration: 1
+Loss: 0.6919069449775713
+Mode: None
+<class 'list'>
+<class 'numpy.ndarray'>
+f1: 0.04329288291243031
+accuracy: 0.3858947368421053
+confusion: 132 5776 58 3534
+precision: 0.02234258632362898
+recall: 0.6947368421052632
+Loading train data...
+Loading val data...
+Loading test data...
+Training the TuckER model...
+Number of training data points: 84683
+Starting training...
+Iteration: 1
+Loss: 0.6896077570973596
+Mode: None
+<class 'list'>
+<class 'numpy.ndarray'>
+f1: 0.05508196721311476
+accuracy: 0.8483157894736842
+confusion: 42 1293 148 8017
+precision: 0.03146067415730337
+recall: 0.22105263157894736
+Loading train data...
+Loading val data...
+Loading test data...
+Training the TuckER model...
+Number of training data points: 84683
+Starting training...
+Iteration: 1
+Loss: 0.6895369428574081
+Mode: None
+<class 'list'>
+<class 'numpy.ndarray'>
+f1: 0.04841713221601489
+accuracy: 0.8924210526315789
+confusion: 26 858 164 8452
+precision: 0.029411764705882353
+recall: 0.1368421052631579
+Loading train data...
+Loading val data...
+Loading test data...
+Training the TuckER model...
+Number of training data points: 84683
+Starting training...
+Iteration: 1
+Loss: 0.6928753127738001
+Mode: None
+<class 'list'>
+<class 'numpy.ndarray'>
+f1: 0.05527638190954774
+accuracy: 0.960421052631579
+confusion: 11 197 179 9113
+precision: 0.052884615384615384
+recall: 0.05789473684210526
+Finding results in directory: ../../output/ecoli/tucker
+[{'f1': 0.039383368965905254, 'accuracy': 0.025734664764621967, 'tn': 202, 'fp': 34147, 'fn': 1, 'tp': 700, 'precision': 0.020087812437225586, 'recall': 0.9985734664764622}, {'f1': 0.05075311067452521, 'accuracy': 0.8345791726105564, 'tn': 29097, 'fp': 5252, 'fn': 546, 'tp': 155, 'precision': 0.028666543369705935, 'recall': 0.2211126961483595}, {'f1': 0.04377335468618928, 'accuracy': 0.6422539229671897, 'tn': 22224, 'fp': 12125, 'fn': 414, 'tp': 287, 'precision': 0.023122784402191426, 'recall': 0.4094151212553495}, {'f1': 0.047874179052886275, 'accuracy': 0.6856490727532097, 'tn': 23755, 'fp': 10594, 'fn': 424, 'tp': 277, 'precision': 0.02548063655597461, 'recall': 0.39514978601997147}, {'f1': 0.041092112520683954, 'accuracy': 0.8015977175463623, 'tn': 27947, 'fp': 6402, 'fn': 552, 'tp': 149, 'precision': 0.02274461914211571, 'recall': 0.21255349500713266}]
+Aggregated results before taking average:
+{'f1': [0.039383368965905254, 0.05075311067452521, 0.04377335468618928, 0.047874179052886275, 0.041092112520683954], 'accuracy': [0.025734664764621967, 0.8345791726105564, 0.6422539229671897, 0.6856490727532097, 0.8015977175463623], 'tn': [202, 29097, 22224, 23755, 27947], 'fp': [34147, 5252, 12125, 10594, 6402], 'fn': [1, 546, 414, 424, 552], 'tp': [700, 155, 287, 277, 149], 'precision': [0.020087812437225586, 0.028666543369705935, 0.023122784402191426, 0.02548063655597461, 0.02274461914211571], 'recall': [0.9985734664764622, 0.2211126961483595, 0.4094151212553495, 0.39514978601997147, 0.21255349500713266]}
+Aggregated results after taking average:
+{'f1': '0.045±0.004', 'accuracy': '0.598±0.295', 'tn': '20645.000±10534.107', 'fp': '13704.000±10534.107', 'fn': '387.400±201.792', 'tp': '313.600±201.792', 'precision': '0.024±0.003', 'recall': '0.447±0.288'}
+num_iterations: [5]
+batch_size: [8]
+learning_rate: [0.0002]
+decay_rate: [1.0]
+ent_vec_dim: [1]
+rel_vec_dim: [1]
+input_dropout: [0.2]
+hidden_dropout1: [0.4]
+hidden_dropout2: [0.5]
+label_smoothing: [0.1]
+Loading train data...
+Loading test data...
+Training the TuckER model...
+Number of training data points: 84873
+Starting training...
+Iteration: 1
+Loss: 0.689839074564667
+Iteration: 2
+Loss: 0.6622337505526394
+Iteration: 3
+Loss: 0.6147047378874078
+Iteration: 4
+Loss: 0.5695911426269439
+Iteration: 5
+Loss: 0.5392325610442086
+Mode: final
+:04<00:25, 328.09it/s] 21%|██        | 2001/9500 [00:04<00:10, 720.61it/s] 32%|███▏      | 3001/9500 [00:07<00:15, 422.91it/s] 42%|████▏     | 4001/9500 [00:08<00:08, 669.60it/s] 53%|█████▎    | 5001/9500 [00:08<00:04, 979.99it/s] 63%|██████▎   | 6001/9500 [00:11<00:06, 548.54it/s] 74%|███████▎  | 7001/9500 [00:11<00:03, 789.76it/s] 84%|████████▍ | 8001/9500 [00:11<00:01, 1089.77it/s] 95%|█████████▍| 9001/9500 [00:13<00:00, 896.27it/s] 100%|██████████| 9500/9500 [00:13<00:00, 701.33it/s]

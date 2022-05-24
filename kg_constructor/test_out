@@ -1,0 +1,538 @@
+2022-04-14 18:02:56,596 INFO constructor_manager.py: Using pandarallel with 3 cores.
+2022-04-14 18:02:56,597 INFO constructor_manager.py: Input data filename: ../data/sal_ecoli_merge/input_data.txt
+2022-04-14 18:02:56,599 DEBUG constructor_manager.py: File names and paths: {'hiTRN': 'hiTRN/hiTRN.txt', 'GO': 'GO/GO.txt', 'Shaw': 'Shaw_et_al/Shaw_et_al.txt', 'Zhou': 'Zhou_et_al/Zhou_et_al.txt', 'Nichols': 'Nichols_et_al/Nichols_et_al.txt', 'Tamae': 'Tamae_et_al/Tamae_et_al_KO_Antibiotics.txt', 'Liu': 'Liu_et_al/Liu_et_al_KO_Antibiotics.txt', 'Girgis': 'Girgis_et_al/Girgis_et_al.txt', 'Soo': 'Soo_et_al/Soo_et_al.txt', 'CARD': 'CARD/CARD_Antibiotics_Resistance_Ecoli_Genes.txt', 'GO_sal': 'GO_sal/GO_sal_Feb11_Final_converted.txt', 'Salm': 'Salm/salm-Ab-Mar3_converted.txt', 'Pathogen_Detection_DB': 'Pathogen_Detection_DB/PathogenD_db_feb15_converted.txt', 'Salm_TF': 'Salm_TF/regulatory_converted.txt'}
+2022-04-14 18:02:56,599 INFO constructor_manager.py: Loading 'hiTRN' from '../data/sal_ecoli_merge/hiTRN/hiTRN.txt'
+2022-04-14 18:02:56,669 INFO constructor_manager.py: Adding 101878 triples.
+2022-04-14 18:02:56,669 INFO constructor_manager.py: Loading 'GO' from '../data/sal_ecoli_merge/GO/GO.txt'
+2022-04-14 18:02:56,684 WARNING constructor_manager.py: Dropping 138 missing values!
+2022-04-14 18:02:56,689 INFO constructor_manager.py: Adding 17601 triples.
+2022-04-14 18:02:56,689 INFO constructor_manager.py: Loading 'Shaw' from '../data/sal_ecoli_merge/Shaw_et_al/Shaw_et_al.txt'
+2022-04-14 18:02:56,709 INFO constructor_manager.py: Adding 15327 triples.
+2022-04-14 18:02:56,709 INFO constructor_manager.py: Loading 'Zhou' from '../data/sal_ecoli_merge/Zhou_et_al/Zhou_et_al.txt'
+2022-04-14 18:02:56,714 INFO constructor_manager.py: Adding 1457 triples.
+2022-04-14 18:02:56,714 INFO constructor_manager.py: Loading 'Nichols' from '../data/sal_ecoli_merge/Nichols_et_al/Nichols_et_al.txt'
+2022-04-14 18:02:56,881 INFO constructor_manager.py: Adding 186941 triples.
+2022-04-14 18:02:56,881 INFO constructor_manager.py: Loading 'Tamae' from '../data/sal_ecoli_merge/Tamae_et_al/Tamae_et_al_KO_Antibiotics.txt'
+2022-04-14 18:02:56,906 INFO constructor_manager.py: Adding 26926 triples.
+2022-04-14 18:02:56,906 INFO constructor_manager.py: Loading 'Liu' from '../data/sal_ecoli_merge/Liu_et_al/Liu_et_al_KO_Antibiotics.txt'
+2022-04-14 18:02:56,957 INFO constructor_manager.py: Adding 55877 triples.
+2022-04-14 18:02:56,957 INFO constructor_manager.py: Loading 'Girgis' from '../data/sal_ecoli_merge/Girgis_et_al/Girgis_et_al.txt'
+2022-04-14 18:02:57,015 INFO constructor_manager.py: Adding 63636 triples.
+2022-04-14 18:02:57,015 INFO constructor_manager.py: Loading 'Soo' from '../data/sal_ecoli_merge/Soo_et_al/Soo_et_al.txt'
+2022-04-14 18:02:57,180 INFO constructor_manager.py: Adding 188936 triples.
+2022-04-14 18:02:57,180 INFO constructor_manager.py: Loading 'CARD' from '../data/sal_ecoli_merge/CARD/CARD_Antibiotics_Resistance_Ecoli_Genes.txt'
+2022-04-14 18:02:57,183 INFO constructor_manager.py: Adding 147 triples.
+2022-04-14 18:02:57,183 INFO constructor_manager.py: Loading 'GO_sal' from '../data/sal_ecoli_merge/GO_sal/GO_sal_Feb11_Final_converted.txt'
+2022-04-14 18:02:57,240 WARNING constructor_manager.py: Dropping 16 duplicates!
+2022-04-14 18:02:57,241 INFO constructor_manager.py: Adding 74021 triples.
+2022-04-14 18:02:57,241 INFO constructor_manager.py: Loading 'Salm' from '../data/sal_ecoli_merge/Salm/salm-Ab-Mar3_converted.txt'
+2022-04-14 18:02:57,255 WARNING constructor_manager.py: Dropping 2 missing values!
+2022-04-14 18:02:57,259 WARNING constructor_manager.py: Dropping 908 duplicates!
+2022-04-14 18:02:57,260 INFO constructor_manager.py: Adding 14889 triples.
+2022-04-14 18:02:57,260 INFO constructor_manager.py: Loading 'Pathogen_Detection_DB' from '../data/sal_ecoli_merge/Pathogen_Detection_DB/PathogenD_db_feb15_converted.txt'
+2022-04-14 18:02:57,264 WARNING constructor_manager.py: Dropping 143 duplicates!
+2022-04-14 18:02:57,264 INFO constructor_manager.py: Adding 318 triples.
+2022-04-14 18:02:57,264 INFO constructor_manager.py: Loading 'Salm_TF' from '../data/sal_ecoli_merge/Salm_TF/regulatory_converted.txt'
+2022-04-14 18:02:57,271 WARNING constructor_manager.py: Dropping 8 duplicates!
+2022-04-14 18:02:57,271 INFO constructor_manager.py: Adding 6412 triples.
+2022-04-14 18:02:57,393 INFO constructor_manager.py: Total of 754366 triples integrated from 14 sources.
+2022-04-14 18:02:57,422 INFO constructor_manager.py: Cleaning name mapping table...
+2022-04-14 18:02:57,447 WARNING constructor_manager.py: Removing 1 infinite name mapping case!
+2022-04-14 18:02:57,450 DEBUG constructor_manager.py: Looped mapping cases are as follows:
+  Source Target
+0   manY   ptsP
+2022-04-14 18:02:57,503 INFO constructor_manager.py: Name mapping size after cleaning: 21829
+2022-04-14 18:02:57,503 INFO constructor_manager.py: Performing name mapping...
+2022-04-14 18:02:58,240 INFO constructor_manager.py: Found 9 inference rules...
+2022-04-14 18:02:58,241 INFO constructor_manager.py: Applying rule:
+if_where                          Predicate
+if_rule                                  is
+if_value          upregulated by antibiotic
+replace_where              Predicate,Object
+replace_value    has,response to antibiotic
+Name: 0, dtype: object
+2022-04-14 18:02:58,272 INFO constructor_manager.py: Found 0 new triples using this rule.
+2022-04-14 18:02:58,300 INFO constructor_manager.py: Applying rule:
+if_where                                Predicate
+if_rule                                        is
+if_value                upregulated by antibiotic
+replace_where                           Predicate
+replace_value    confers resistance to antibiotic
+Name: 1, dtype: object
+2022-04-14 18:02:58,329 INFO constructor_manager.py: Found 0 new triples using this rule.
+2022-04-14 18:02:58,347 INFO constructor_manager.py: Applying rule:
+if_where                                   Predicate
+if_rule                                           is
+if_value               not upregulated by antibiotic
+replace_where                              Predicate
+replace_value    confers no resistance to antibiotic
+Name: 2, dtype: object
+2022-04-14 18:02:58,377 INFO constructor_manager.py: Found 0 new triples using this rule.
+2022-04-14 18:02:58,393 INFO constructor_manager.py: Applying rule:
+if_where                          Predicate
+if_rule                                  is
+if_value                      is mutated by
+replace_where              Predicate,Object
+replace_value    has,response to antibiotic
+Name: 3, dtype: object
+2022-04-14 18:02:58,423 INFO constructor_manager.py: Found 0 new triples using this rule.
+2022-04-14 18:02:58,440 INFO constructor_manager.py: Applying rule:
+if_where                                             Predicate
+if_rule                                                     is
+if_value                                             activates
+replace_where                                 Predicate,Object
+replace_value    has,DNA binding transcription factor activity
+Name: 4, dtype: object
+2022-04-14 18:02:58,470 INFO constructor_manager.py: Found 2549 new triples using this rule.
+2022-04-14 18:02:58,489 INFO constructor_manager.py: Applying rule:
+if_where                                             Predicate
+if_rule                                                     is
+if_value                                             represses
+replace_where                                 Predicate,Object
+replace_value    has,DNA binding transcription factor activity
+Name: 5, dtype: object
+2022-04-14 18:02:58,524 INFO constructor_manager.py: Found 3826 new triples using this rule.
+2022-04-14 18:02:58,549 INFO constructor_manager.py: Applying rule:
+if_where                              Predicate
+if_rule                                      is
+if_value         is downregulated by antibiotic
+replace_where                  Predicate,Object
+replace_value        has,response to antibiotic
+Name: 6, dtype: object
+2022-04-14 18:02:58,579 INFO constructor_manager.py: Found 412 new triples using this rule.
+2022-04-14 18:02:58,605 INFO constructor_manager.py: Applying rule:
+if_where                                Predicate
+if_rule                                        is
+if_value         confers resistance to antibiotic
+replace_where                    Predicate,Object
+replace_value          has,response to antibiotic
+Name: 7, dtype: object
+2022-04-14 18:02:58,635 INFO constructor_manager.py: Found 976 new triples using this rule.
+2022-04-14 18:02:58,662 INFO constructor_manager.py: Applying rule:
+if_where                                           Predicate
+if_rule                                                   is
+if_value         is associated with resistance to antibiotic
+replace_where                               Predicate,Object
+replace_value                     has,response to antibiotic
+Name: 8, dtype: object
+2022-04-14 18:02:58,693 INFO constructor_manager.py: Found 33 new triples using this rule.
+2022-04-14 18:02:58,921 INFO constructor_manager.py: Inferred -2483 triples using inference rules.
+2022-04-14 18:02:58,951 INFO constructor_manager.py: Found 4 remove rules...
+2022-04-14 18:02:58,951 INFO constructor_manager.py: Applying rule:
+if_where                                 Predicate
+if_rule                                 startswith
+if_value    confers resistance to antibiotic after
+Name: 0, dtype: object
+2022-04-14 18:02:59,161 INFO constructor_manager.py: Applying rule:
+if_where                                    Predicate
+if_rule                                    startswith
+if_value    confers no resistance to antibiotic after
+Name: 1, dtype: object
+2022-04-14 18:02:59,356 INFO constructor_manager.py: Applying rule:
+if_where                          Predicate
+if_rule                          startswith
+if_value    upregulated by antibiotic after
+Name: 2, dtype: object
+2022-04-14 18:02:59,423 INFO constructor_manager.py: Applying rule:
+if_where                              Predicate
+if_rule                              startswith
+if_value    not upregulated by antibiotic after
+Name: 3, dtype: object
+2022-04-14 18:02:59,488 INFO constructor_manager.py: Removed 536135 triples using remove rules.
+2022-04-14 18:02:59,498 INFO create_intermediate_kg.py: Saving knowledge graph with inconsistencies before resolution to '../output/sal_ecoli_merge/kg_with_inconsistencies.txt'
+2022-04-14 18:02:59,789 INFO resolution_manager.py: Detecting inconsistencies using the following rule:
+where                         Object
+value_1       response to antibiotic
+value_2    no response to antibiotic
+Name: 0, dtype: object
+2022-04-14 18:02:59,809 WARNING resolution_manager.py: Did not find any inconsistencies using this rule!
+2022-04-14 18:02:59,809 INFO resolution_manager.py: Detecting inconsistencies using the following rule:
+where                                Predicate
+value_1       confers resistance to antibiotic
+value_2    confers no resistance to antibiotic
+Name: 1, dtype: object
+2022-04-14 18:02:59,861 DEBUG resolution_manager.py: df_grouped_inconsistencies:
+    Subject         Object                                          Predicate             index
+735    parC  Ciprofloxacin  {confers resistance to antibiotic, confers no ...  {119272, 198348}
+2022-04-14 18:02:59,861 INFO resolution_manager.py: Found 1 sets of inconsistencies. Creating their list now.
+2022-04-14 18:02:59,861 DEBUG resolution_manager.py: Processing 1/1...
+2022-04-14 18:02:59,866 INFO resolution_manager.py: Detecting inconsistencies using the following rule:
+where                                              Predicate
+value_1       confers resistance to antibiotic after 30 mins
+value_2    confers no resistance to antibiotic after 30 mins
+Name: 2, dtype: object
+2022-04-14 18:02:59,883 WARNING resolution_manager.py: Did not find any inconsistencies using this rule!
+2022-04-14 18:02:59,883 INFO resolution_manager.py: Detecting inconsistencies using the following rule:
+where                                              Predicate
+value_1      confers resistance to antibiotic after 15 hours
+value_2    confers no resistance to antibiotic after 15 h...
+Name: 3, dtype: object
+2022-04-14 18:02:59,901 WARNING resolution_manager.py: Did not find any inconsistencies using this rule!
+2022-04-14 18:02:59,902 INFO resolution_manager.py: Detecting inconsistencies using the following rule:
+where                                              Predicate
+value_1      confers resistnace to antibiotic after 18 hours
+value_2    confers no resistance to antibiotic after 18 h...
+Name: 4, dtype: object
+2022-04-14 18:02:59,920 WARNING resolution_manager.py: Did not find any inconsistencies using this rule!
+2022-04-14 18:02:59,920 INFO resolution_manager.py: Detecting inconsistencies using the following rule:
+where                                              Predicate
+value_1      confers resistnace to antibiotic after 36 hours
+value_2    confers no resistance to antibiotic after 36 h...
+Name: 5, dtype: object
+2022-04-14 18:02:59,939 WARNING resolution_manager.py: Did not find any inconsistencies using this rule!
+2022-04-14 18:02:59,940 INFO resolution_manager.py: Detecting inconsistencies using the following rule:
+where                                             Predicate
+value_1       confers resistnace to antibiotic after 3 days
+value_2    confers no resistance to antibiotic after 3 days
+Name: 6, dtype: object
+2022-04-14 18:02:59,958 WARNING resolution_manager.py: Did not find any inconsistencies using this rule!
+2022-04-14 18:02:59,959 INFO resolution_manager.py: Detecting inconsistencies using the following rule:
+where                                             Predicate
+value_1       confers resistnace to antibiotic after 7 days
+value_2    confers no resistance to antibiotic after 7 days
+Name: 7, dtype: object
+2022-04-14 18:02:59,977 WARNING resolution_manager.py: Did not find any inconsistencies using this rule!
+2022-04-14 18:02:59,977 INFO resolution_manager.py: Detecting inconsistencies using the following rule:
+where         Predicate
+value_1       activates
+value_2    no activates
+Name: 8, dtype: object
+2022-04-14 18:03:00,562 DEBUG resolution_manager.py: df_grouped_inconsistencies:
+      Subject Object                  Predicate           index
+8259      cra   manY  {no activates, activates}  {11540, 98093}
+11818     crp   manY  {no activates, activates}   {33074, 6076}
+14456     fnr   acrB  {no activates, activates}  {74257, 18853}
+30229     lrp    fre  {no activates, activates}  {56153, 85291}
+44680    soxS   acrB  {no activates, activates}  {11456, 16579}
+2022-04-14 18:03:00,562 INFO resolution_manager.py: Found 5 sets of inconsistencies. Creating their list now.
+2022-04-14 18:03:00,562 DEBUG resolution_manager.py: Processing 1/5...
+2022-04-14 18:03:00,566 DEBUG resolution_manager.py: Processing 2/5...
+2022-04-14 18:03:00,570 DEBUG resolution_manager.py: Processing 3/5...
+2022-04-14 18:03:00,575 DEBUG resolution_manager.py: Processing 4/5...
+2022-04-14 18:03:00,580 DEBUG resolution_manager.py: Processing 5/5...
+2022-04-14 18:03:00,584 INFO resolution_manager.py: Detecting inconsistencies using the following rule:
+where         Predicate
+value_1       represses
+value_2    no represses
+Name: 9, dtype: object
+2022-04-14 18:03:01,239 DEBUG resolution_manager.py: df_grouped_inconsistencies:
+      Subject Object                  Predicate             index
+701      arcA    fre  {represses, no represses}    {97458, 75731}
+8327      cra   manY  {represses, no represses}      {4184, 7076}
+11891     crp   manY  {represses, no represses}    {36540, 82940}
+41919    rstA   csgF  {represses, no represses}   {45747, 213718}
+42522    rtsB   cpsB  {represses, no represses}  {209248, 213980}
+2022-04-14 18:03:01,239 INFO resolution_manager.py: Found 5 sets of inconsistencies. Creating their list now.
+2022-04-14 18:03:01,239 DEBUG resolution_manager.py: Processing 1/5...
+2022-04-14 18:03:01,244 DEBUG resolution_manager.py: Processing 2/5...
+2022-04-14 18:03:01,248 DEBUG resolution_manager.py: Processing 3/5...
+2022-04-14 18:03:01,252 DEBUG resolution_manager.py: Processing 4/5...
+2022-04-14 18:03:01,256 DEBUG resolution_manager.py: Processing 5/5...
+2022-04-14 18:03:01,262 INFO resolution_manager.py: Detecting inconsistencies using the following rule:
+where                         Predicate
+value_1        is mutated by antibiotic
+value_2    is not mutated by antibiotic
+Name: 10, dtype: object
+2022-04-14 18:03:01,347 DEBUG resolution_manager.py: df_grouped_inconsistencies:
+     Subject        Object                                          Predicate             index
+1123    aaeA  Streptomycin  {is not mutated by antibiotic, is mutated by a...  {206729, 193222}
+1127     aas  Streptomycin  {is not mutated by antibiotic, is mutated by a...  {193232, 193231}
+1134    aceA  Streptomycin  {is not mutated by antibiotic, is mutated by a...  {193253, 193254}
+1149    acrF  Streptomycin  {is not mutated by antibiotic, is mutated by a...  {193306, 193307}
+1157    adhE  Streptomycin  {is not mutated by antibiotic, is mutated by a...  {193330, 193331}
+...      ...           ...                                                ...               ...
+4400    ypfG  Streptomycin  {is not mutated by antibiotic, is mutated by a...  {207523, 207524}
+4426    yqjD  Streptomycin  {is not mutated by antibiotic, is mutated by a...  {207606, 207607}
+4451    ytgA  Streptomycin  {is not mutated by antibiotic, is mutated by a...  {207753, 207754}
+4467    znuA  Streptomycin  {is not mutated by antibiotic, is mutated by a...  {207790, 207791}
+4468    znuB  Streptomycin  {is not mutated by antibiotic, is mutated by a...  {207794, 207795}
+
+[242 rows x 4 columns]
+2022-04-14 18:03:01,347 INFO resolution_manager.py: Found 242 sets of inconsistencies. Creating their list now.
+2022-04-14 18:03:01,347 DEBUG resolution_manager.py: Processing 1/242...
+2022-04-14 18:03:01,453 DEBUG resolution_manager.py: Processing 25/242...
+2022-04-14 18:03:01,558 DEBUG resolution_manager.py: Processing 49/242...
+2022-04-14 18:03:01,659 DEBUG resolution_manager.py: Processing 73/242...
+2022-04-14 18:03:01,762 DEBUG resolution_manager.py: Processing 97/242...
+2022-04-14 18:03:01,864 DEBUG resolution_manager.py: Processing 121/242...
+2022-04-14 18:03:01,966 DEBUG resolution_manager.py: Processing 145/242...
+2022-04-14 18:03:02,069 DEBUG resolution_manager.py: Processing 169/242...
+2022-04-14 18:03:02,181 DEBUG resolution_manager.py: Processing 193/242...
+2022-04-14 18:03:02,285 DEBUG resolution_manager.py: Processing 217/242...
+2022-04-14 18:03:02,394 DEBUG resolution_manager.py: Processing 241/242...
+2022-04-14 18:03:02,403 INFO resolution_manager.py: Detecting inconsistencies using the following rule:
+where                                        Predicate
+value_1    is associated with resistance to antibiotic
+value_2            confers no resistance to antibiotic
+Name: 11, dtype: object
+2022-04-14 18:03:02,427 DEBUG resolution_manager.py: df_grouped_inconsistencies:
+Empty DataFrame
+Columns: [Subject, Object, Predicate, index]
+Index: []
+2022-04-14 18:03:02,427 INFO resolution_manager.py: Found 0 sets of inconsistencies. Creating their list now.
+2022-04-14 18:03:02,428 INFO resolution_manager.py: Detecting inconsistencies using the following rule:
+where                           Predicate
+value_1    is downregulated by antibiotic
+value_2      is upregulated by antibiotic
+Name: 12, dtype: object
+2022-04-14 18:03:02,458 DEBUG resolution_manager.py: df_grouped_inconsistencies:
+Empty DataFrame
+Columns: [Subject, Object, Predicate, index]
+Index: []
+2022-04-14 18:03:02,459 INFO resolution_manager.py: Found 0 sets of inconsistencies. Creating their list now.
+2022-04-14 18:03:02,459 INFO resolution_manager.py: Detecting inconsistencies using the following rule:
+where                           Predicate
+value_1      is upregulated by antibiotic
+value_2    is downregulated by antibiotic
+Name: 13, dtype: object
+2022-04-14 18:03:02,490 DEBUG resolution_manager.py: df_grouped_inconsistencies:
+Empty DataFrame
+Columns: [Subject, Object, Predicate, index]
+Index: []
+2022-04-14 18:03:02,490 INFO resolution_manager.py: Found 0 sets of inconsistencies. Creating their list now.
+2022-04-14 18:03:02,490 INFO resolution_manager.py: Detecting inconsistencies using the following rule:
+where                           Predicate
+value_1    is not regulated by antibiotic
+value_2      is upregulated by antibiotic
+Name: 14, dtype: object
+2022-04-14 18:03:02,610 DEBUG resolution_manager.py: df_grouped_inconsistencies:
+     Subject         Object                                          Predicate             index
+2203    accD  Chlorhexidine  {is upregulated by antibiotic, is not regulate...  {193248, 204898}
+2391    argP  Chlorhexidine  {is upregulated by antibiotic, is not regulate...  {196656, 193606}
+2399    arnA  Chlorhexidine  {is upregulated by antibiotic, is not regulate...  {206288, 193619}
+2579    bcsZ  Chlorhexidine  {is upregulated by antibiotic, is not regulate...  {193872, 193887}
+2950    cueR  Chlorhexidine  {is upregulated by antibiotic, is not regulate...  {194530, 194402}
+3863    gltI   Fosmidomycin  {is upregulated by antibiotic, is not regulate...  {205400, 196059}
+4533    lpoB  Chlorhexidine  {is upregulated by antibiotic, is not regulate...  {197084, 205695}
+4560    lpxD   Fosmidomycin  {is upregulated by antibiotic, is not regulate...  {196402, 200343}
+4732    menH  Chlorhexidine  {is upregulated by antibiotic, is not regulate...  {197394, 206287}
+4945    msrB   Fosmidomycin  {is upregulated by antibiotic, is not regulate...  {197681, 206021}
+5108    nfsA  Chlorhexidine  {is upregulated by antibiotic, is not regulate...  {197937, 197293}
+6034    rhaM  Chlorhexidine  {is upregulated by antibiotic, is not regulate...  {199520, 207098}
+6066    ribD   Fosmidomycin  {is upregulated by antibiotic, is not regulate...  {205277, 199566}
+6839    sstT   Fosmidomycin  {is upregulated by antibiotic, is not regulate...  {200770, 206652}
+6919    sthA   Fosmidomycin  {is upregulated by antibiotic, is not regulate...  {204817, 200878}
+7108    tmcA  Chlorhexidine  {is upregulated by antibiotic, is not regulate...  {204444, 207525}
+7387    ulaA   Fosmidomycin  {is upregulated by antibiotic, is not regulate...  {200240, 204854}
+7631    yajL  Chlorhexidine  {is upregulated by antibiotic, is not regulate...  {204386, 205259}
+2022-04-14 18:03:02,610 INFO resolution_manager.py: Found 18 sets of inconsistencies. Creating their list now.
+2022-04-14 18:03:02,610 DEBUG resolution_manager.py: Processing 1/18...
+2022-04-14 18:03:02,615 DEBUG resolution_manager.py: Processing 2/18...
+2022-04-14 18:03:02,619 DEBUG resolution_manager.py: Processing 3/18...
+2022-04-14 18:03:02,623 DEBUG resolution_manager.py: Processing 4/18...
+2022-04-14 18:03:02,628 DEBUG resolution_manager.py: Processing 5/18...
+2022-04-14 18:03:02,632 DEBUG resolution_manager.py: Processing 6/18...
+2022-04-14 18:03:02,636 DEBUG resolution_manager.py: Processing 7/18...
+2022-04-14 18:03:02,640 DEBUG resolution_manager.py: Processing 8/18...
+2022-04-14 18:03:02,644 DEBUG resolution_manager.py: Processing 9/18...
+2022-04-14 18:03:02,648 DEBUG resolution_manager.py: Processing 10/18...
+2022-04-14 18:03:02,652 DEBUG resolution_manager.py: Processing 11/18...
+2022-04-14 18:03:02,657 DEBUG resolution_manager.py: Processing 12/18...
+2022-04-14 18:03:02,661 DEBUG resolution_manager.py: Processing 13/18...
+2022-04-14 18:03:02,665 DEBUG resolution_manager.py: Processing 14/18...
+2022-04-14 18:03:02,669 DEBUG resolution_manager.py: Processing 15/18...
+2022-04-14 18:03:02,673 DEBUG resolution_manager.py: Processing 16/18...
+2022-04-14 18:03:02,678 DEBUG resolution_manager.py: Processing 17/18...
+2022-04-14 18:03:02,682 DEBUG resolution_manager.py: Processing 18/18...
+2022-04-14 18:03:02,686 INFO resolution_manager.py: Detecting inconsistencies using the following rule:
+where                           Predicate
+value_1    is not regulated by antibiotic
+value_2    is downregulated by antibiotic
+Name: 15, dtype: object
+2022-04-14 18:03:02,805 DEBUG resolution_manager.py: df_grouped_inconsistencies:
+     Subject         Object                                          Predicate             index
+2293    acrB  Chlorhexidine  {is not regulated by antibiotic, is downregula...  {193292, 193301}
+2795    chbA  Chlorhexidine  {is not regulated by antibiotic, is downregula...  {194201, 194198}
+3968    gltI  Chlorhexidine  {is not regulated by antibiotic, is downregula...  {196058, 205399}
+3995    gmhB  Chlorhexidine  {is not regulated by antibiotic, is downregula...  {196104, 205177}
+4097    hdfR  Chlorhexidine  {is not regulated by antibiotic, is downregula...  {207015, 196271}
+4261    hupB  Chlorhexidine  {is not regulated by antibiotic, is downregula...  {196539, 196437}
+4795    mdtK  Chlorhexidine  {is not regulated by antibiotic, is downregula...  {197354, 205932}
+4870    mgrB   Fosmidomycin  {is not regulated by antibiotic, is downregula...  {197465, 207479}
+4928    mltD   Fosmidomycin  {is not regulated by antibiotic, is downregula...  {194900, 197542}
+4946    mntP   Fosmidomycin  {is not regulated by antibiotic, is downregula...  {197562, 206083}
+5234    nrdF  Chlorhexidine  {is not regulated by antibiotic, is downregula...  {198016, 206469}
+5306    nusB  Chlorhexidine  {is not regulated by antibiotic, is downregula...  {200607, 198119}
+5685    plsY   Fosmidomycin  {is not regulated by antibiotic, is downregula...  {206627, 198726}
+5974    ratA  Chlorhexidine  {is not regulated by antibiotic, is downregula...  {206464, 199288}
+6212     rmf   Fosmidomycin  {is not regulated by antibiotic, is downregula...  {199418, 199668}
+6953     tar   Fosmidomycin  {is not regulated by antibiotic, is downregula...  {204290, 194229}
+7058   tnpA1   Fosmidomycin  {is not regulated by antibiotic, is downregula...  {204451, 204452}
+2022-04-14 18:03:02,805 INFO resolution_manager.py: Found 17 sets of inconsistencies. Creating their list now.
+2022-04-14 18:03:02,805 DEBUG resolution_manager.py: Processing 1/17...
+2022-04-14 18:03:02,809 DEBUG resolution_manager.py: Processing 2/17...
+2022-04-14 18:03:02,813 DEBUG resolution_manager.py: Processing 3/17...
+2022-04-14 18:03:02,818 DEBUG resolution_manager.py: Processing 4/17...
+2022-04-14 18:03:02,822 DEBUG resolution_manager.py: Processing 5/17...
+2022-04-14 18:03:02,826 DEBUG resolution_manager.py: Processing 6/17...
+2022-04-14 18:03:02,830 DEBUG resolution_manager.py: Processing 7/17...
+2022-04-14 18:03:02,835 DEBUG resolution_manager.py: Processing 8/17...
+2022-04-14 18:03:02,839 DEBUG resolution_manager.py: Processing 9/17...
+2022-04-14 18:03:02,843 DEBUG resolution_manager.py: Processing 10/17...
+2022-04-14 18:03:02,847 DEBUG resolution_manager.py: Processing 11/17...
+2022-04-14 18:03:02,851 DEBUG resolution_manager.py: Processing 12/17...
+2022-04-14 18:03:02,855 DEBUG resolution_manager.py: Processing 13/17...
+2022-04-14 18:03:02,859 DEBUG resolution_manager.py: Processing 14/17...
+2022-04-14 18:03:02,864 DEBUG resolution_manager.py: Processing 15/17...
+2022-04-14 18:03:02,868 DEBUG resolution_manager.py: Processing 16/17...
+2022-04-14 18:03:02,872 DEBUG resolution_manager.py: Processing 17/17...
+2022-04-14 18:03:02,877 INFO resolution_manager.py: Found 288 inconsistencies
+2022-04-14 18:03:02,880 INFO averagelog.py: Resolving inconsistencies using Average Log
+2022-04-14 18:03:07,683 INFO averagelog.py: 	iteration, delta : 1 inf
+2022-04-14 18:03:08,581 INFO averagelog.py: 	iteration, delta : 2 0.103045
+2022-04-14 18:03:09,494 INFO averagelog.py: 	iteration, delta : 3 0.079438
+2022-04-14 18:03:10,391 INFO averagelog.py: 	iteration, delta : 4 0.072239
+2022-04-14 18:03:11,308 INFO averagelog.py: 	iteration, delta : 5 0.051825
+2022-04-14 18:03:12,205 INFO averagelog.py: 	iteration, delta : 6 0.038560
+2022-04-14 18:03:13,104 INFO averagelog.py: 	iteration, delta : 7 0.029495
+2022-04-14 18:03:14,013 INFO averagelog.py: 	iteration, delta : 8 0.023060
+2022-04-14 18:03:14,911 INFO averagelog.py: 	iteration, delta : 9 0.018360
+2022-04-14 18:03:14,995 DEBUG sums.py: Processing inconsistencies: 0 / 288
+2022-04-14 18:04:30,566 DEBUG sums.py: Processing inconsistencies: 100 / 288
+2022-04-14 18:05:55,339 DEBUG sums.py: Processing inconsistencies: 200 / 288
+2022-04-14 18:07:12,360 INFO resolution_manager.py: Converting resolved inconsistencies from dictionary to pandas DataFrame.
+2022-04-14 18:07:12,966 INFO resolution_manager.py: Reformating data without inconsistencies.
+2022-04-14 18:07:17,408 INFO create_intermediate_kg.py: Saving resolved inconsistencies to '../output/sal_ecoli_merge/resolved_inconsistencies.txt'
+2022-04-14 18:07:17,410 INFO create_intermediate_kg.py: Saving knowledge graph without inconsistencies to '../output/sal_ecoli_merge/kg_without_inconsistencies.txt'
+2022-04-14 18:07:25,620 DEBUG create_intermediate_kg.py: Inconsistencies stat:
+                      Single source Multiple sources Inconsistencies
+GO                            12698             4796               0
+GO_sal                        68953             4721               0
+hiTRN                        101882               75              17
+Salm                          15229              204             555
+Pathogen_Detection_DB           396              189               0
+Salm_TF                        6405                0               3
+CARD                            174               26               1
+2022-04-14 18:07:25,627 DEBUG create_intermediate_kg.py: Trustworthiness:
+CARD                     0.025983
+GO                       1.000000
+GO_sal                   0.874581
+Pathogen_Detection_DB    0.088841
+Salm                     0.144234
+Salm_TF                  0.057191
+hiTRN                    0.680437
+dtype: float64
+2022-04-14 18:07:28,382 DEBUG create_inconsistency_free_kg.py: Resolved inconsistencies:
+    Subject                            Predicate  ... Belief difference                             Conflicting tuple info
+0      parC  confers no resistance to antibiotic  ...          0.063081  [(('parC', 'confers resistance to antibiotic',...
+1       cra                            activates  ...          0.000000  [(('cra', 'no activates', 'manY'), ['hiTRN'], ...
+2       crp                            activates  ...          0.000000  [(('crp', 'no activates', 'manY'), ['hiTRN'], ...
+3       fnr                            activates  ...          0.000000  [(('fnr', 'no activates', 'acrB'), ['hiTRN'], ...
+4       lrp                            activates  ...          0.000000  [(('lrp', 'no activates', 'fre'), ['hiTRN'], 0...
+..      ...                                  ...  ...               ...                                                ...
+283    plsY       is downregulated by antibiotic  ...          0.000000  [(('plsY', 'is not regulated by antibiotic', '...
+284    ratA       is downregulated by antibiotic  ...          0.000000  [(('ratA', 'is not regulated by antibiotic', '...
+285     rmf       is downregulated by antibiotic  ...          0.000000  [(('rmf', 'is not regulated by antibiotic', 'F...
+286     tar       is downregulated by antibiotic  ...          0.000000  [(('tar', 'is not regulated by antibiotic', 'F...
+287   tnpA1       is downregulated by antibiotic  ...          0.000000  [(('tnpA1', 'is not regulated by antibiotic', ...
+
+[288 rows x 10 columns]
+2022-04-14 18:07:28,398 DEBUG create_inconsistency_free_kg.py: Validation results:
+    Subject                            Predicate            Object
+0      atpA  confers no resistance to antibiotic        Ampicillin
+1      atpG  confers no resistance to antibiotic        Ampicillin
+2      bluF  confers no resistance to antibiotic        Ampicillin
+3       cof  confers no resistance to antibiotic        Ampicillin
+4       dam  confers no resistance to antibiotic        Ampicillin
+..      ...                                  ...               ...
+231    zapC  confers no resistance to antibiotic  Sulfamethoxazole
+232    lptB  confers no resistance to antibiotic        Vancomycin
+233    lpxD  confers no resistance to antibiotic        Vancomycin
+234    rpsO  confers no resistance to antibiotic        Vancomycin
+235    tufA  confers no resistance to antibiotic        Vancomycin
+
+[236 rows x 3 columns]
+2022-04-14 18:07:28,804 INFO create_inconsistency_free_kg.py: Saving merged inconsistencies to '../output/sal_ecoli_merge/validation_results_merged.txt'
+2022-04-14 18:07:29,123 DEBUG create_inconsistency_free_kg.py: KG without inconsistencies:
+           Subject                         Predicate                              Object  Belief  Source size    Sources
+0        AAC(3)-Ia  confers resistance to antibiotic                     Aminoglycosides    0.08            1       Salm
+1        AAC(3)-Ia  confers resistance to antibiotic                         Gentamicins    0.08            1       Salm
+2        AAC(3)-Ia  confers resistance to antibiotic                        Streptomycin    0.08            1       Salm
+3        AAC(3)-Ia                               has              response to antibiotic    0.08            1       Salm
+4       AAC(3)-VIa  confers resistance to antibiotic                     Aminoglycosides    0.08            1       Salm
+...            ...                               ...                                 ...     ...          ...        ...
+210158         zwf                        is part of      connected anatomical structure    0.47            1     GO_sal
+210159         zwf                        is part of                           cytoplasm    0.47            1     GO_sal
+210160         zwf                        is part of                             cytosol    1.00            2  GO_sal,GO
+210161         zwf                        is part of  intracellular anatomical structure    0.47            1     GO_sal
+210162         zwf                        is part of          material anatomical entity    0.47            1     GO_sal
+
+[210163 rows x 6 columns]
+2022-04-14 18:07:29,123 INFO create_inconsistency_free_kg.py: Number of data without inconsistencies: (210163, 6)
+2022-04-14 18:07:29,123 INFO create_inconsistency_free_kg.py: Number of resolved inconsistencies: (288, 12)
+2022-04-14 18:07:29,451 INFO create_inconsistency_free_kg.py: Number of resolved inconsistencies to append: 288
+2022-04-14 18:07:29,480 INFO create_inconsistency_free_kg.py: Number of triples in the final knowledge graph: 210451
+2022-04-14 18:07:29,480 INFO create_inconsistency_free_kg.py: Saving final knowledge graph to '../output/sal_ecoli_merge/kg_final.txt'
+2022-04-14 18:07:31,852 INFO postprocess.py: Random seed set to: 530
+2022-04-14 18:07:32,393 DEBUG postprocess.py: Size of data grouped by predicates before adding label:
+Predicate
+activates                                       2549
+activates                                       1849
+confers no resistance to antibiotic               72
+confers resistance to antibiotic                 906
+has                                            30670
+is associated with resistance to antibiotic       33
+is downregulated by antibiotic                   412
+is involved in                                 40742
+is mutated by antibiotic                         267
+is not mutated by antibiotic                    4209
+is not regulated by antibiotic                  8484
+is part of                                     16027
+is upregulated by antibiotic                     434
+no activates                                   49607
+no represses                                   50336
+represses                                       3823
+targeted by                                       31
+dtype: int64
+2022-04-14 18:07:32,921 DEBUG postprocess.py: Size of data grouped by predicates after adding label:
+Predicate
+activates                                      52156
+activates                                       1849
+confers resistance to antibiotic                 978
+has                                            30670
+is associated with resistance to antibiotic       33
+is involved in                                 40742
+is mutated by antibiotic                        4476
+is not regulated by antibiotic                  9330
+is part of                                     16027
+represses                                      54159
+targeted by                                       31
+dtype: int64
+2022-04-14 18:07:32,936 DEBUG postprocess.py: Size of data grouped by label:
+Label
+-1    104224
+1     104345
+        1882
+dtype: int64
+2022-04-14 18:07:32,936 INFO postprocess.py: Saving final KG with label column to '../output/sal_ecoli_merge/kg_final_with_label.txt'
+2022-04-14 18:07:33,282 INFO postprocess.py: Number of only positives: 104345
+2022-04-14 18:07:33,282 INFO postprocess.py: Number of matching relation positives: 906
+2022-04-14 18:07:33,283 INFO postprocess.py: Number of other relations positives: 103439
+2022-04-14 18:07:33,283 INFO postprocess.py: Test proportion: 0.2
+2022-04-14 18:07:33,284 INFO postprocess.py: Generating negatives for test set!
+  0%|          | 0/182 [00:00<?, ?it/s]  1%|          | 1/182 [00:00<00:56,  3.18it/s]  1%|          | 2/182 [00:00<00:53,  3.36it/s]  2%|▏         | 3/182 [00:00<00:54,  3.27it/s]  2%|▏         | 4/182 [00:01<00:55,  3.19it/s]  3%|▎         | 5/182 [00:01<00:56,  3.14it/s]  3%|▎         | 6/182 [00:01<00:55,  3.19it/s]  4%|▍         | 7/182 [00:02<00:53,  3.27it/s]  4%|▍         | 8/182 [00:02<00:52,  3.29it/s]  5%|▍         | 9/182 [00:02<00:51,  3.33it/s]  5%|▌         | 10/182 [00:03<00:51,  3.31it/s]  6%|▌         | 11/182 [00:03<00:50,  3.38it/s]  7%|▋         | 12/182 [00:03<00:49,  3.40it/s]  7%|▋         | 13/182 [00:03<00:49,  3.42it/s]  8%|▊         | 14/182 [00:04<00:49,  3.42it/s]  8%|▊         | 15/182 [00:04<00:50,  3.34it/s]  9%|▉         | 16/182 [00:04<00:49,  3.35it/s]  9%|▉         | 17/182 [00:05<00:48,  3.40it/s] 10%|▉         | 18/182 [00:05<00:48,  3.39it/s] 10%|█         | 19/182 [00:05<00:48,  3.34it/s] 11%|█         | 20/182 [00:06<00:47,  3.39it/s] 12%|█▏        | 21/182 [00:06<00:46,  3.47it/s] 12%|█▏        | 22/182 [00:06<00:46,  3.48it/s] 13%|█▎        | 23/182 [00:06<00:45,  3.47it/s] 13%|█▎        | 24/182 [00:07<00:45,  3.44it/s] 14%|█▎        | 25/182 [00:07<00:45,  3.44it/s] 14%|█▍        | 26/182 [00:07<00:45,  3.45it/s] 15%|█▍        | 27/182 [00:08<00:44,  3.48it/s] 15%|█▌        | 28/182 [00:08<00:44,  3.49it/s] 16%|█▌        | 29/182 [00:08<00:44,  3.48it/s] 16%|█▋        | 30/182 [00:08<00:43,  3.49it/s] 17%|█▋        | 31/182 [00:09<00:43,  3.51it/s] 18%|█▊        | 32/182 [00:09<00:42,  3.51it/s] 18%|█▊        | 33/182 [00:09<00:43,  3.45it/s] 19%|█▊        | 34/182 [00:10<00:45,  3.26it/s] 19%|█▉        | 35/182 [00:10<00:46,  3.19it/s] 20%|█▉        | 36/182 [00:10<00:46,  3.15it/s] 20%|██        | 37/182 [00:11<00:49,  2.95it/s] 21%|██        | 38/182 [00:11<00:47,  3.04it/s] 21%|██▏       | 39/182 [00:11<00:45,  3.14it/s] 22%|██▏       | 40/182 [00:12<00:44,  3.18it/s] 23%|██▎       | 41/182 [00:12<00:43,  3.23it/s] 23%|██▎       | 42/182 [00:12<00:42,  3.28it/s] 24%|██▎       | 43/182 [00:12<00:41,  3.34it/s] 24%|██▍       | 44/182 [00:13<00:40,  3.39it/s] 25%|██▍       | 45/182 [00:13<00:40,  3.36it/s] 25%|██▌       | 46/182 [00:13<00:40,  3.37it/s] 26%|██▌       | 47/182 [00:14<00:39,  3.40it/s] 26%|██▋       | 48/182 [00:14<00:38,  3.44it/s] 27%|██▋       | 49/182 [00:14<00:38,  3.47it/s] 27%|██▋       | 50/182 [00:14<00:37,  3.50it/s] 28%|██▊       | 51/182 [00:15<00:37,  3.52it/s] 29%|██▊       | 52/182 [00:15<00:37,  3.50it/s] 29%|██▉       | 53/182 [00:15<00:36,  3.50it/s] 30%|██▉       | 54/182 [00:16<00:36,  3.49it/s] 30%|███       | 55/182 [00:16<00:36,  3.52it/s] 31%|███       | 56/182 [00:16<00:36,  3.42it/s] 31%|███▏      | 57/182 [00:17<00:38,  3.23it/s] 32%|███▏      | 58/182 [00:17<00:38,  3.22it/s] 32%|███▏      | 59/182 [00:17<00:38,  3.18it/s] 33%|███▎      | 60/182 [00:17<00:38,  3.16it/s] 34%|███▎      | 61/182 [00:18<00:40,  3.00it/s] 34%|███▍      | 62/182 [00:18<00:39,  3.01it/s] 35%|███▍      | 63/182 [00:18<00:37,  3.14it/s] 35%|███▌      | 64/182 [00:19<00:37,  3.14it/s] 36%|███▌      | 65/182 [00:19<00:37,  3.15it/s] 36%|███▋      | 66/182 [00:19<00:36,  3.15it/s] 37%|███▋      | 67/182 [00:20<00:35,  3.21it/s] 37%|███▋      | 68/182 [00:20<00:36,  3.15it/s] 38%|███▊      | 69/182 [00:20<00:35,  3.20it/s] 38%|███▊      | 70/182 [00:21<00:33,  3.32it/s] 39%|███▉      | 71/182 [00:21<00:32,  3.41it/s] 40%|███▉      | 72/182 [00:21<00:32,  3.42it/s] 40%|████      | 73/182 [00:21<00:31,  3.44it/s] 41%|████      | 74/182 [00:22<00:31,  3.42it/s] 41%|████      | 75/182 [00:22<00:30,  3.47it/s] 42%|████▏     | 76/182 [00:22<00:32,  3.24it/s] 42%|████▏     | 77/182 [00:23<00:33,  3.14it/s] 43%|████▎     | 78/182 [00:23<00:33,  3.14it/s] 43%|████▎     | 79/182 [00:23<00:31,  3.26it/s] 44%|████▍     | 80/182 [00:24<00:32,  3.10it/s] 45%|████▍     | 81/182 [00:24<00:31,  3.18it/s] 45%|████▌     | 82/182 [00:24<00:31,  3.19it/s] 46%|████▌     | 83/182 [00:25<00:30,  3.25it/s] 46%|████▌     | 84/182 [00:25<00:29,  3.33it/s] 47%|████▋     | 85/182 [00:25<00:28,  3.38it/s] 47%|████▋     | 86/182 [00:25<00:27,  3.48it/s] 48%|████▊     | 87/182 [00:26<00:28,  3.31it/s] 48%|████▊     | 88/182 [00:26<00:29,  3.20it/s] 49%|████▉     | 89/182 [00:26<00:28,  3.29it/s] 49%|████▉     | 90/182 [00:27<00:27,  3.37it/s] 50%|█████     | 91/182 [00:27<00:26,  3.40it/s] 51%|█████     | 92/182 [00:27<00:26,  3.39it/s] 51%|█████     | 93/182 [00:28<00:25,  3.45it/s] 52%|█████▏    | 94/182 [00:28<00:27,  3.23it/s] 52%|█████▏    | 95/182 [00:28<00:26,  3.27it/s] 53%|█████▎    | 96/182 [00:29<00:26,  3.20it/s] 53%|█████▎    | 97/182 [00:29<00:27,  3.12it/s] 54%|█████▍    | 98/182 [00:29<00:30,  2.76it/s] 54%|█████▍    | 99/182 [00:30<00:28,  2.90it/s] 55%|█████▍    | 100/182 [00:30<00:27,  3.04it/s] 55%|█████▌    | 101/182 [00:30<00:25,  3.13it/s] 56%|█████▌    | 102/182 [00:31<00:25,  3.15it/s] 57%|█████▋    | 103/182 [00:31<00:24,  3.27it/s] 57%|█████▋    | 104/182 [00:31<00:23,  3.32it/s] 58%|█████▊    | 105/182 [00:31<00:23,  3.35it/s] 58%|█████▊    | 106/182 [00:32<00:22,  3.45it/s] 59%|█████▉    | 107/182 [00:32<00:21,  3.50it/s] 59%|█████▉    | 108/182 [00:32<00:21,  3.50it/s] 60%|█████▉    | 109/182 [00:32<00:21,  3.47it/s] 60%|██████    | 110/182 [00:33<00:20,  3.55it/s] 61%|██████    | 111/182 [00:33<00:20,  3.53it/s] 62%|██████▏   | 112/182 [00:33<00:19,  3.53it/s] 62%|██████▏   | 113/182 [00:34<00:19,  3.58it/s] 63%|██████▎   | 114/182 [00:34<00:18,  3.59it/s] 63%|██████▎   | 115/182 [00:34<00:18,  3.63it/s] 64%|██████▎   | 116/182 [00:34<00:18,  3.60it/s] 64%|██████▍   | 117/182 [00:35<00:17,  3.63it/s] 65%|██████▍   | 118/182 [00:35<00:17,  3.62it/s] 65%|██████▌   | 119/182 [00:35<00:17,  3.58it/s] 66%|██████▌   | 120/182 [00:36<00:17,  3.54it/s] 66%|██████▋   | 121/182 [00:36<00:17,  3.49it/s] 67%|██████▋   | 122/182 [00:36<00:17,  3.49it/s] 68%|██████▊   | 123/182 [00:36<00:16,  3.50it/s] 68%|██████▊   | 124/182 [00:37<00:16,  3.47it/s] 69%|██████▊   | 125/182 [00:37<00:16,  3.49it/s] 69%|██████▉   | 126/182 [00:37<00:15,  3.52it/s] 70%|██████▉   | 127/182 [00:38<00:15,  3.50it/s] 70%|███████   | 128/182 [00:38<00:15,  3.54it/s] 71%|███████   | 129/182 [00:38<00:14,  3.56it/s] 71%|███████▏  | 130/182 [00:38<00:14,  3.50it/s] 72%|███████▏  | 131/182 [00:39<00:14,  3.46it/s] 73%|███████▎  | 132/182 [00:39<00:14,  3.53it/s] 73%|███████▎  | 133/182 [00:39<00:13,  3.56it/s] 74%|███████▎  | 134/182 [00:40<00:13,  3.59it/s] 74%|███████▍  | 135/182 [00:40<00:12,  3.62it/s] 75%|███████▍  | 136/182 [00:40<00:12,  3.60it/s] 75%|███████▌  | 137/182 [00:40<00:12,  3.59it/s] 76%|███████▌  | 138/182 [00:41<00:12,  3.51it/s] 76%|███████▋  | 139/182 [00:41<00:12,  3.48it/s] 77%|███████▋  | 140/182 [00:41<00:11,  3.53it/s] 77%|███████▋  | 141/182 [00:42<00:11,  3.58it/s] 78%|███████▊  | 142/182 [00:42<00:11,  3.55it/s] 79%|███████▊  | 143/182 [00:42<00:11,  3.49it/s] 79%|███████▉  | 144/182 [00:42<00:10,  3.49it/s] 80%|███████▉  | 145/182 [00:43<00:10,  3.42it/s] 80%|████████  | 146/182 [00:43<00:10,  3.31it/s] 81%|████████  | 147/182 [00:43<00:11,  3.18it/s] 81%|████████▏ | 148/182 [00:44<00:11,  3.05it/s] 82%|████████▏ | 149/182 [00:44<00:11,  2.89it/s] 82%|████████▏ | 150/182 [00:44<00:10,  2.94it/s] 83%|████████▎ | 151/182 [00:45<00:10,  3.09it/s] 84%|████████▎ | 152/182 [00:45<00:09,  3.15it/s] 84%|████████▍ | 153/182 [00:45<00:09,  3.13it/s] 85%|████████▍ | 154/182 [00:46<00:08,  3.28it/s] 85%|████████▌ | 155/182 [00:46<00:08,  3.35it/s] 86%|████████▌ | 156/182 [00:46<00:07,  3.35it/s] 86%|████████▋ | 157/182 [00:46<00:07,  3.36it/s] 87%|████████▋ | 158/182 [00:47<00:07,  3.41it/s] 87%|████████▋ | 159/182 [00:47<00:06,  3.47it/s] 88%|████████▊ | 160/182 [00:47<00:06,  3.51it/s] 88%|████████▊ | 161/182 [00:48<00:06,  3.43it/s] 89%|████████▉ | 162/182 [00:48<00:05,  3.46it/s] 90%|████████▉ | 163/182 [00:48<00:05,  3.52it/s] 90%|█████████ | 164/182 [00:49<00:05,  3.35it/s] 91%|█████████ | 165/182 [00:49<00:05,  3.36it/s] 91%|█████████ | 166/182 [00:49<00:04,  3.40it/s] 92%|█████████▏| 167/182 [00:49<00:04,  3.39it/s] 92%|█████████▏| 168/182 [00:50<00:04,  3.37it/s] 93%|█████████▎| 169/182 [00:50<00:03,  3.38it/s] 93%|█████████▎| 170/182 [00:50<00:03,  3.44it/s] 94%|█████████▍| 171/182 [00:51<00:03,  3.47it/s] 95%|█████████▍| 172/182 [00:51<00:02,  3.50it/s] 95%|█████████▌| 173/182 [00:51<00:02,  3.57it/s] 96%|█████████▌| 174/182 [00:51<00:02,  3.61it/s] 96%|█████████▌| 175/182 [00:52<00:01,  3.60it/s] 97%|█████████▋| 176/182 [00:52<00:01,  3.61it/s] 97%|█████████▋| 177/182 [00:52<00:01,  3.56it/s] 98%|█████████▊| 178/182 [00:52<00:01,  3.59it/s] 98%|█████████▊| 179/182 [00:53<00:00,  3.65it/s] 99%|█████████▉| 180/182 [00:53<00:00,  3.59it/s] 99%|█████████▉| 181/182 [00:53<00:00,  3.62it/s]100%|██████████| 182/182 [00:54<00:00,  3.65it/s]100%|██████████| 182/182 [00:54<00:00,  3.37it/s]
+2022-04-14 18:08:34,556 INFO postprocess.py: Saving folds to '../output/sal_ecoli_merge/folds'
+2022-04-14 18:08:34,556 INFO postprocess.py: Processing fold 0...
+2022-04-14 18:08:34,558 INFO postprocess.py: Generating negatives for val set!
+  0%|          | 0/145 [00:00<?, ?it/s]  1%|          | 1/145 [00:00<00:40,  3.53it/s]  1%|▏         | 2/145 [00:00<00:39,  3.59it/s]  2%|▏         | 3/145 [00:00<00:41,  3.39it/s]  3%|▎         | 4/145 [00:01<00:44,  3.18it/s]  3%|▎         | 5/145 [00:01<00:42,  3.28it/s]  4%|▍         | 6/145 [00:01<00:41,  3.34it/s]  5%|▍         | 7/145 [00:02<00:46,  2.95it/s]  6%|▌         | 8/145 [00:02<00:48,  2.81it/s]  6%|▌         | 9/145 [00:03<00:58,  2.33it/s]  7%|▋         | 10/145 [00:03<01:02,  2.15it/s]  8%|▊         | 11/145 [00:04<01:02,  2.16it/s]  8%|▊         | 12/145 [00:04<00:58,  2.29it/s]  9%|▉         | 13/145 [00:04<00:52,  2.51it/s] 10%|▉         | 14/145 [00:05<00:49,  2.62it/s] 10%|█         | 15/145 [00:05<00:47,  2.76it/s] 11%|█         | 16/145 [00:05<00:43,  2.97it/s] 12%|█▏        | 17/145 [00:06<00:41,  3.10it/s] 12%|█▏        | 18/145 [00:06<00:39,  3.23it/s] 13%|█▎        | 19/145 [00:06<00:38,  3.27it/s] 14%|█▍        | 20/145 [00:06<00:37,  3.29it/s] 14%|█▍        | 21/145 [00:07<00:37,  3.35it/s] 15%|█▌        | 22/145 [00:07<00:35,  3.44it/s] 16%|█▌        | 23/145 [00:07<00:37,  3.28it/s] 17%|█▋        | 24/145 [00:08<00:35,  3.38it/s] 17%|█▋        | 25/145 [00:08<00:35,  3.34it/s] 18%|█▊        | 26/145 [00:08<00:36,  3.30it/s] 19%|█▊        | 27/145 [00:09<00:35,  3.29it/s] 19%|█▉        | 28/145 [00:09<00:35,  3.32it/s] 20%|██        | 29/145 [00:09<00:35,  3.30it/s] 21%|██        | 30/145 [00:09<00:34,  3.30it/s] 21%|██▏       | 31/145 [00:10<00:34,  3.29it/s] 22%|██▏       | 32/145 [00:10<00:33,  3.35it/s] 23%|██▎       | 33/145 [00:10<00:33,  3.36it/s] 23%|██▎       | 34/145 [00:11<00:33,  3.29it/s] 24%|██▍       | 35/145 [00:11<00:32,  3.36it/s] 25%|██▍       | 36/145 [00:11<00:32,  3.36it/s] 26%|██▌       | 37/145 [00:12<00:35,  3.07it/s] 26%|██▌       | 38/145 [00:12<00:34,  3.06it/s] 27%|██▋       | 39/145 [00:12<00:34,  3.10it/s] 28%|██▊       | 40/145 [00:13<00:32,  3.22it/s] 28%|██▊       | 41/145 [00:13<00:31,  3.32it/s] 29%|██▉       | 42/145 [00:13<00:32,  3.19it/s] 30%|██▉       | 43/145 [00:14<00:31,  3.22it/s] 30%|███       | 44/145 [00:14<00:30,  3.28it/s] 31%|███       | 45/145 [00:14<00:31,  3.21it/s] 32%|███▏      | 46/145 [00:14<00:30,  3.23it/s] 32%|███▏      | 47/145 [00:15<00:29,  3.28it/s] 33%|███▎      | 48/145 [00:15<00:29,  3.31it/s] 34%|███▍      | 49/145 [00:15<00:28,  3.37it/s] 34%|███▍      | 50/145 [00:16<00:27,  3.46it/s] 35%|███▌      | 51/145 [00:16<00:26,  3.52it/s] 36%|███▌      | 52/145 [00:16<00:26,  3.57it/s] 37%|███▋      | 53/145 [00:16<00:25,  3.58it/s] 37%|███▋      | 54/145 [00:17<00:25,  3.61it/s] 38%|███▊      | 55/145 [00:17<00:24,  3.61it/s] 39%|███▊      | 56/145 [00:17<00:24,  3.64it/s] 39%|███▉      | 57/145 [00:17<00:24,  3.66it/s] 40%|████      | 58/145 [00:18<00:23,  3.69it/s] 41%|████      | 59/145 [00:18<00:23,  3.68it/s] 41%|████▏     | 60/145 [00:18<00:23,  3.69it/s] 42%|████▏     | 61/145 [00:19<00:22,  3.66it/s] 43%|████▎     | 62/145 [00:19<00:22,  3.67it/s] 43%|████▎     | 63/145 [00:19<00:22,  3.67it/s] 44%|████▍     | 64/145 [00:19<00:22,  3.67it/s] 45%|████▍     | 65/145 [00:20<00:21,  3.67it/s] 46%|████▌     | 66/145 [00:20<00:21,  3.66it/s] 46%|████▌     | 67/145 [00:20<00:21,  3.68it/s] 47%|████▋     | 68/145 [00:20<00:20,  3.70it/s] 48%|████▊     | 69/145 [00:21<00:21,  3.61it/s] 48%|████▊     | 70/145 [00:21<00:20,  3.66it/s] 49%|████▉     | 71/145 [00:21<00:20,  3.66it/s] 50%|████▉     | 72/145 [00:22<00:19,  3.66it/s] 50%|█████     | 73/145 [00:22<00:19,  3.66it/s] 51%|█████     | 74/145 [00:22<00:19,  3.67it/s] 52%|█████▏    | 75/145 [00:22<00:19,  3.68it/s] 52%|█████▏    | 76/145 [00:23<00:18,  3.68it/s] 53%|█████▎    | 77/145 [00:23<00:18,  3.64it/s] 54%|█████▍    | 78/145 [00:23<00:18,  3.66it/s] 54%|█████▍    | 79/145 [00:23<00:17,  3.68it/s] 55%|█████▌    | 80/145 [00:24<00:17,  3.69it/s] 56%|█████▌    | 81/145 [00:24<00:17,  3.64it/s] 57%|█████▋    | 82/145 [00:24<00:17,  3.65it/s] 57%|█████▋    | 83/145 [00:25<00:16,  3.67it/s] 58%|█████▊    | 84/145 [00:25<00:16,  3.62it/s] 59%|█████▊    | 85/145 [00:25<00:16,  3.63it/s] 59%|█████▉    | 86/145 [00:25<00:16,  3.63it/s] 60%|██████    | 87/145 [00:26<00:15,  3.65it/s] 61%|██████    | 88/145 [00:26<00:15,  3.66it/s] 61%|██████▏   | 89/145 [00:26<00:15,  3.68it/s] 62%|██████▏   | 90/145 [00:27<00:15,  3.64it/s] 63%|██████▎   | 91/145 [00:27<00:14,  3.67it/s] 63%|██████▎   | 92/145 [00:27<00:14,  3.66it/s] 64%|██████▍   | 93/145 [00:27<00:14,  3.68it/s] 65%|██████▍   | 94/145 [00:28<00:13,  3.66it/s] 66%|██████▌   | 95/145 [00:28<00:13,  3.65it/s] 66%|██████▌   | 96/145 [00:28<00:13,  3.66it/s] 67%|██████▋   | 97/145 [00:28<00:13,  3.66it/s] 68%|██████▊   | 98/145 [00:29<00:12,  3.68it/s] 68%|██████▊   | 99/145 [00:29<00:12,  3.68it/s] 69%|██████▉   | 100/145 [00:29<00:12,  3.64it/s] 70%|██████▉   | 101/145 [00:30<00:12,  3.62it/s] 70%|███████   | 102/145 [00:30<00:11,  3.64it/s] 71%|███████   | 103/145 [00:30<00:11,  3.63it/s] 72%|███████▏  | 104/145 [00:30<00:11,  3.67it/s] 72%|███████▏  | 105/145 [00:31<00:10,  3.67it/s] 73%|███████▎  | 106/145 [00:31<00:10,  3.69it/s] 74%|███████▍  | 107/145 [00:31<00:10,  3.70it/s] 74%|███████▍  | 108/145 [00:31<00:10,  3.67it/s] 75%|███████▌  | 109/145 [00:32<00:09,  3.65it/s] 76%|███████▌  | 110/145 [00:32<00:09,  3.67it/s] 77%|███████▋  | 111/145 [00:32<00:09,  3.68it/s] 77%|███████▋  | 112/145 [00:33<00:08,  3.67it/s] 78%|███████▊  | 113/145 [00:33<00:08,  3.67it/s] 79%|███████▊  | 114/145 [00:33<00:08,  3.70it/s] 79%|███████▉  | 115/145 [00:33<00:08,  3.69it/s] 80%|████████  | 116/145 [00:34<00:07,  3.64it/s] 81%|████████  | 117/145 [00:34<00:07,  3.66it/s] 81%|████████▏ | 118/145 [00:34<00:07,  3.66it/s] 82%|████████▏ | 119/145 [00:34<00:07,  3.67it/s] 83%|████████▎ | 120/145 [00:35<00:06,  3.67it/s] 83%|████████▎ | 121/145 [00:35<00:06,  3.69it/s] 84%|████████▍ | 122/145 [00:35<00:06,  3.69it/s] 85%|████████▍ | 123/145 [00:36<00:05,  3.69it/s] 86%|████████▌ | 124/145 [00:36<00:05,  3.64it/s] 86%|████████▌ | 125/145 [00:36<00:05,  3.64it/s] 87%|████████▋ | 126/145 [00:36<00:05,  3.67it/s] 88%|████████▊ | 127/145 [00:37<00:04,  3.70it/s] 88%|████████▊ | 128/145 [00:37<00:04,  3.70it/s] 89%|████████▉ | 129/145 [00:37<00:04,  3.69it/s] 90%|████████▉ | 130/145 [00:37<00:04,  3.71it/s] 90%|█████████ | 131/145 [00:38<00:03,  3.70it/s] 91%|█████████ | 132/145 [00:38<00:03,  3.66it/s] 92%|█████████▏| 133/145 [00:38<00:03,  3.67it/s] 92%|█████████▏| 134/145 [00:38<00:02,  3.70it/s] 93%|█████████▎| 135/145 [00:39<00:02,  3.70it/s] 94%|█████████▍| 136/145 [00:39<00:02,  3.70it/s] 94%|█████████▍| 137/145 [00:39<00:02,  3.71it/s] 95%|█████████▌| 138/145 [00:40<00:01,  3.69it/s] 96%|█████████▌| 139/145 [00:40<00:01,  3.68it/s] 97%|█████████▋| 140/145 [00:40<00:01,  3.66it/s] 97%|█████████▋| 141/145 [00:40<00:01,  3.68it/s] 98%|█████████▊| 142/145 [00:41<00:00,  3.58it/s] 99%|█████████▊| 143/145 [00:41<00:00,  3.59it/s] 99%|█████████▉| 144/145 [00:41<00:00,  3.43it/s]100%|██████████| 145/145 [00:42<00:00,  3.35it/s]100%|██████████| 145/145 [00:42<00:00,  3.44it/s]
+2022-04-14 18:09:22,006 INFO postprocess.py: Processing fold 1...
+2022-04-14 18:09:22,010 INFO postprocess.py: Generating negatives for val set!
+  0%|          | 0/145 [00:00<?, ?it/s]  1%|          | 1/145 [00:00<00:43,  3.32it/s]  1%|▏         | 2/145 [00:00<00:42,  3.33it/s]  2%|▏         | 3/145 [00:00<00:42,  3.30it/s]  3%|▎         | 4/145 [00:01<00:42,  3.30it/s]  3%|▎         | 5/145 [00:01<00:42,  3.32it/s]  4%|▍         | 6/145 [00:01<00:41,  3.36it/s]  5%|▍         | 7/145 [00:02<00:41,  3.36it/s]  6%|▌         | 8/145 [00:02<00:40,  3.37it/s]  6%|▌         | 9/145 [00:02<00:40,  3.36it/s]  7%|▋         | 10/145 [00:02<00:40,  3.33it/s]  8%|▊         | 11/145 [00:03<00:42,  3.19it/s]  8%|▊         | 12/145 [00:03<00:40,  3.31it/s]  9%|▉         | 13/145 [00:03<00:40,  3.24it/s] 10%|▉         | 14/145 [00:04<00:38,  3.37it/s] 10%|█         | 15/145 [00:04<00:38,  3.36it/s] 11%|█         | 16/145 [00:04<00:37,  3.46it/s] 12%|█▏        | 17/145 [00:05<00:38,  3.32it/s] 12%|█▏        | 18/145 [00:05<00:38,  3.30it/s] 13%|█▎        | 19/145 [00:05<00:38,  3.31it/s] 14%|█▍        | 20/145 [00:06<00:37,  3.32it/s] 14%|█▍        | 21/145 [00:06<00:37,  3.32it/s] 15%|█▌        | 22/145 [00:06<00:36,  3.33it/s] 16%|█▌        | 23/145 [00:06<00:36,  3.31it/s] 17%|█▋        | 24/145 [00:07<00:36,  3.32it/s] 17%|█▋        | 25/145 [00:07<00:37,  3.22it/s] 18%|█▊        | 26/145 [00:07<00:36,  3.27it/s] 19%|█▊        | 27/145 [00:08<00:35,  3.29it/s] 19%|█▉        | 28/145 [00:08<00:35,  3.30it/s] 20%|██        | 29/145 [00:08<00:35,  3.31it/s] 21%|██        | 30/145 [00:09<00:34,  3.32it/s] 21%|██▏       | 31/145 [00:09<00:34,  3.33it/s] 22%|██▏       | 32/145 [00:09<00:34,  3.29it/s] 23%|██▎       | 33/145 [00:09<00:34,  3.25it/s] 23%|██▎       | 34/145 [00:10<00:34,  3.20it/s] 24%|██▍       | 35/145 [00:10<00:34,  3.20it/s] 25%|██▍       | 36/145 [00:10<00:34,  3.19it/s] 26%|██▌       | 37/145 [00:11<00:34,  3.16it/s] 26%|██▌       | 38/145 [00:11<00:34,  3.10it/s] 27%|██▋       | 39/145 [00:11<00:34,  3.12it/s] 28%|██▊       | 40/145 [00:12<00:32,  3.23it/s] 28%|██▊       | 41/145 [00:12<00:31,  3.35it/s] 29%|██▉       | 42/145 [00:12<00:29,  3.45it/s] 30%|██▉       | 43/145 [00:12<00:28,  3.52it/s] 30%|███       | 44/145 [00:13<00:28,  3.57it/s] 31%|███       | 45/145 [00:13<00:27,  3.62it/s] 32%|███▏      | 46/145 [00:13<00:27,  3.62it/s] 32%|███▏      | 47/145 [00:14<00:26,  3.65it/s] 33%|███▎      | 48/145 [00:14<00:26,  3.65it/s] 34%|███▍      | 49/145 [00:14<00:26,  3.66it/s] 34%|███▍      | 50/145 [00:14<00:25,  3.66it/s] 35%|███▌      | 51/145 [00:15<00:25,  3.67it/s] 36%|███▌      | 52/145 [00:15<00:25,  3.65it/s] 37%|███▋      | 53/145 [00:15<00:25,  3.63it/s] 37%|███▋      | 54/145 [00:16<00:25,  3.61it/s] 38%|███▊      | 55/145 [00:16<00:24,  3.63it/s] 39%|███▊      | 56/145 [00:16<00:24,  3.61it/s] 39%|███▉      | 57/145 [00:16<00:24,  3.63it/s] 40%|████      | 58/145 [00:17<00:23,  3.68it/s] 41%|████      | 59/145 [00:17<00:23,  3.69it/s] 41%|████▏     | 60/145 [00:17<00:23,  3.69it/s] 42%|████▏     | 61/145 [00:17<00:22,  3.71it/s] 43%|████▎     | 62/145 [00:18<00:22,  3.68it/s] 43%|████▎     | 63/145 [00:18<00:22,  3.71it/s] 44%|████▍     | 64/145 [00:18<00:21,  3.69it/s] 45%|████▍     | 65/145 [00:18<00:21,  3.71it/s] 46%|████▌     | 66/145 [00:19<00:21,  3.70it/s] 46%|████▌     | 67/145 [00:19<00:20,  3.72it/s] 47%|████▋     | 68/145 [00:19<00:20,  3.71it/s] 48%|████▊     | 69/145 [00:20<00:20,  3.71it/s] 48%|████▊     | 70/145 [00:20<00:20,  3.65it/s] 49%|████▉     | 71/145 [00:20<00:20,  3.67it/s] 50%|████▉     | 72/145 [00:20<00:20,  3.64it/s] 50%|█████     | 73/145 [00:21<00:19,  3.67it/s] 51%|█████     | 74/145 [00:21<00:19,  3.64it/s] 52%|█████▏    | 75/145 [00:21<00:19,  3.55it/s] 52%|█████▏    | 76/145 [00:22<00:19,  3.51it/s] 53%|█████▎    | 77/145 [00:22<00:19,  3.52it/s] 54%|█████▍    | 78/145 [00:22<00:18,  3.58it/s] 54%|█████▍    | 79/145 [00:22<00:18,  3.60it/s] 55%|█████▌    | 80/145 [00:23<00:17,  3.64it/s] 56%|█████▌    | 81/145 [00:23<00:17,  3.65it/s] 57%|█████▋    | 82/145 [00:23<00:17,  3.66it/s] 57%|█████▋    | 83/145 [00:23<00:17,  3.61it/s] 58%|█████▊    | 84/145 [00:24<00:16,  3.66it/s] 59%|█████▊    | 85/145 [00:24<00:17,  3.48it/s] 59%|█████▉    | 86/145 [00:24<00:17,  3.45it/s] 60%|██████    | 87/145 [00:25<00:16,  3.51it/s] 61%|██████    | 88/145 [00:25<00:15,  3.57it/s] 61%|██████▏   | 89/145 [00:25<00:15,  3.63it/s] 62%|██████▏   | 90/145 [00:25<00:15,  3.66it/s] 63%|██████▎   | 91/145 [00:26<00:14,  3.68it/s] 63%|██████▎   | 92/145 [00:26<00:14,  3.68it/s] 64%|██████▍   | 93/145 [00:26<00:14,  3.56it/s] 65%|██████▍   | 94/145 [00:27<00:14,  3.59it/s] 66%|██████▌   | 95/145 [00:27<00:13,  3.62it/s] 66%|██████▌   | 96/145 [00:27<00:13,  3.65it/s] 67%|██████▋   | 97/145 [00:27<00:13,  3.67it/s] 68%|██████▊   | 98/145 [00:28<00:12,  3.67it/s] 68%|██████▊   | 99/145 [00:28<00:12,  3.68it/s] 69%|██████▉   | 100/145 [00:28<00:12,  3.68it/s] 70%|██████▉   | 101/145 [00:28<00:12,  3.63it/s] 70%|███████   | 102/145 [00:29<00:11,  3.63it/s] 71%|███████   | 103/145 [00:29<00:11,  3.65it/s] 72%|███████▏  | 104/145 [00:29<00:11,  3.67it/s] 72%|███████▏  | 105/145 [00:30<00:10,  3.67it/s] 73%|███████▎  | 106/145 [00:30<00:10,  3.69it/s] 74%|███████▍  | 107/145 [00:30<00:10,  3.71it/s] 74%|███████▍  | 108/145 [00:30<00:10,  3.70it/s] 75%|███████▌  | 109/145 [00:31<00:09,  3.68it/s] 76%|███████▌  | 110/145 [00:31<00:09,  3.67it/s] 77%|███████▋  | 111/145 [00:31<00:09,  3.70it/s] 77%|███████▋  | 112/145 [00:31<00:08,  3.71it/s] 78%|███████▊  | 113/145 [00:32<00:08,  3.69it/s] 79%|███████▊  | 114/145 [00:32<00:08,  3.68it/s] 79%|███████▉  | 115/145 [00:32<00:08,  3.72it/s] 80%|████████  | 116/145 [00:32<00:07,  3.71it/s] 81%|████████  | 117/145 [00:33<00:07,  3.68it/s] 81%|████████▏ | 118/145 [00:33<00:07,  3.69it/s] 82%|████████▏ | 119/145 [00:33<00:07,  3.71it/s] 83%|████████▎ | 120/145 [00:34<00:06,  3.71it/s] 83%|████████▎ | 121/145 [00:34<00:06,  3.71it/s] 84%|████████▍ | 122/145 [00:34<00:06,  3.72it/s] 85%|████████▍ | 123/145 [00:34<00:05,  3.74it/s] 86%|████████▌ | 124/145 [00:35<00:05,  3.71it/s] 86%|████████▌ | 125/145 [00:35<00:05,  3.69it/s] 87%|████████▋ | 126/145 [00:35<00:05,  3.68it/s] 88%|████████▊ | 127/145 [00:35<00:04,  3.73it/s] 88%|████████▊ | 128/145 [00:36<00:04,  3.75it/s] 89%|████████▉ | 129/145 [00:36<00:04,  3.74it/s] 90%|████████▉ | 130/145 [00:36<00:04,  3.68it/s] 90%|█████████ | 131/145 [00:37<00:03,  3.70it/s] 91%|█████████ | 132/145 [00:37<00:03,  3.67it/s] 92%|█████████▏| 133/145 [00:37<00:03,  3.62it/s] 92%|█████████▏| 134/145 [00:37<00:03,  3.64it/s] 93%|█████████▎| 135/145 [00:38<00:02,  3.68it/s] 94%|█████████▍| 136/145 [00:38<00:02,  3.71it/s] 94%|█████████▍| 137/145 [00:38<00:02,  3.71it/s] 95%|█████████▌| 138/145 [00:38<00:01,  3.75it/s] 96%|█████████▌| 139/145 [00:39<00:01,  3.75it/s] 97%|█████████▋| 140/145 [00:39<00:01,  3.57it/s] 97%|█████████▋| 141/145 [00:39<00:01,  3.39it/s] 98%|█████████▊| 142/145 [00:40<00:00,  3.30it/s] 99%|█████████▊| 143/145 [00:40<00:00,  3.26it/s] 99%|█████████▉| 144/145 [00:40<00:00,  3.26it/s]100%|██████████| 145/145 [00:41<00:00,  3.29it/s]100%|██████████| 145/145 [00:41<00:00,  3.53it/s]
+2022-04-14 18:10:10,030 INFO postprocess.py: Processing fold 2...
+2022-04-14 18:10:10,033 INFO postprocess.py: Generating negatives for val set!
+  0%|          | 0/145 [00:00<?, ?it/s]  1%|          | 1/145 [00:00<00:39,  3.65it/s]  1%|▏         | 2/145 [00:00<00:40,  3.51it/s]  2%|▏         | 3/145 [00:00<00:39,  3.58it/s]  3%|▎         | 4/145 [00:01<00:38,  3.65it/s]  3%|▎         | 5/145 [00:01<00:38,  3.66it/s]  4%|▍         | 6/145 [00:01<00:38,  3.65it/s]  5%|▍         | 7/145 [00:01<00:37,  3.64it/s]  6%|▌         | 8/145 [00:02<00:37,  3.70it/s]  6%|▌         | 9/145 [00:02<00:36,  3.70it/s]  7%|▋         | 10/145 [00:02<00:36,  3.70it/s]  8%|▊         | 11/145 [00:02<00:36,  3.71it/s]  8%|▊         | 12/145 [00:03<00:35,  3.72it/s]  9%|▉         | 13/145 [00:03<00:35,  3.69it/s] 10%|▉         | 14/145 [00:03<00:36,  3.61it/s] 10%|█         | 15/145 [00:04<00:35,  3.63it/s] 11%|█         | 16/145 [00:04<00:35,  3.67it/s] 12%|█▏        | 17/145 [00:04<00:34,  3.66it/s] 12%|█▏        | 18/145 [00:04<00:34,  3.69it/s] 13%|█▎        | 19/145 [00:05<00:34,  3.70it/s] 14%|█▍        | 20/145 [00:05<00:33,  3.70it/s] 14%|█▍        | 21/145 [00:05<00:33,  3.70it/s] 15%|█▌        | 22/145 [00:05<00:33,  3.66it/s] 16%|█▌        | 23/145 [00:06<00:33,  3.67it/s] 17%|█▋        | 24/145 [00:06<00:32,  3.67it/s] 17%|█▋        | 25/145 [00:06<00:32,  3.66it/s] 18%|█▊        | 26/145 [00:07<00:32,  3.71it/s] 19%|█▊        | 27/145 [00:07<00:32,  3.64it/s] 19%|█▉        | 28/145 [00:07<00:32,  3.60it/s] 20%|██        | 29/145 [00:07<00:31,  3.63it/s] 21%|██        | 30/145 [00:08<00:31,  3.61it/s] 21%|██▏       | 31/145 [00:08<00:31,  3.64it/s] 22%|██▏       | 32/145 [00:08<00:30,  3.65it/s] 23%|██▎       | 33/145 [00:09<00:30,  3.66it/s] 23%|██▎       | 34/145 [00:09<00:30,  3.67it/s] 24%|██▍       | 35/145 [00:09<00:29,  3.70it/s] 25%|██▍       | 36/145 [00:09<00:29,  3.70it/s] 26%|██▌       | 37/145 [00:10<00:29,  3.70it/s] 26%|██▌       | 38/145 [00:10<00:29,  3.67it/s] 27%|██▋       | 39/145 [00:10<00:28,  3.66it/s] 28%|██▊       | 40/145 [00:10<00:28,  3.65it/s] 28%|██▊       | 41/145 [00:11<00:28,  3.69it/s] 29%|██▉       | 42/145 [00:11<00:27,  3.68it/s] 30%|██▉       | 43/145 [00:11<00:27,  3.69it/s] 30%|███       | 44/145 [00:12<00:27,  3.66it/s] 31%|███       | 45/145 [00:12<00:27,  3.68it/s] 32%|███▏      | 46/145 [00:12<00:27,  3.66it/s] 32%|███▏      | 47/145 [00:12<00:26,  3.67it/s] 33%|███▎      | 48/145 [00:13<00:26,  3.67it/s] 34%|███▍      | 49/145 [00:13<00:26,  3.67it/s] 34%|███▍      | 50/145 [00:13<00:25,  3.69it/s] 35%|███▌      | 51/145 [00:13<00:25,  3.68it/s] 36%|███▌      | 52/145 [00:14<00:25,  3.70it/s] 37%|███▋      | 53/145 [00:14<00:24,  3.69it/s] 37%|███▋      | 54/145 [00:14<00:24,  3.65it/s] 38%|███▊      | 55/145 [00:15<00:24,  3.65it/s] 39%|███▊      | 56/145 [00:15<00:24,  3.66it/s] 39%|███▉      | 57/145 [00:15<00:24,  3.66it/s] 40%|████      | 58/145 [00:15<00:23,  3.66it/s] 41%|████      | 59/145 [00:16<00:23,  3.69it/s] 41%|████▏     | 60/145 [00:16<00:22,  3.70it/s] 42%|████▏     | 61/145 [00:16<00:22,  3.70it/s] 43%|████▎     | 62/145 [00:16<00:22,  3.66it/s] 43%|████▎     | 63/145 [00:17<00:22,  3.66it/s] 44%|████▍     | 64/145 [00:17<00:22,  3.65it/s] 45%|████▍     | 65/145 [00:17<00:21,  3.65it/s] 46%|████▌     | 66/145 [00:17<00:21,  3.68it/s] 46%|████▌     | 67/145 [00:18<00:21,  3.68it/s] 47%|████▋     | 68/145 [00:18<00:20,  3.70it/s] 48%|████▊     | 69/145 [00:18<00:20,  3.68it/s] 48%|████▊     | 70/145 [00:19<00:20,  3.64it/s] 49%|████▉     | 71/145 [00:19<00:20,  3.67it/s] 50%|████▉     | 72/145 [00:19<00:19,  3.67it/s] 50%|█████     | 73/145 [00:19<00:19,  3.72it/s] 51%|█████     | 74/145 [00:20<00:19,  3.71it/s] 52%|█████▏    | 75/145 [00:20<00:18,  3.73it/s] 52%|█████▏    | 76/145 [00:20<00:18,  3.64it/s] 53%|█████▎    | 77/145 [00:20<00:18,  3.65it/s] 54%|█████▍    | 78/145 [00:21<00:18,  3.63it/s] 54%|█████▍    | 79/145 [00:21<00:18,  3.62it/s] 55%|█████▌    | 80/145 [00:21<00:17,  3.65it/s] 56%|█████▌    | 81/145 [00:22<00:17,  3.66it/s] 57%|█████▋    | 82/145 [00:22<00:17,  3.66it/s] 57%|█████▋    | 83/145 [00:22<00:16,  3.69it/s] 58%|█████▊    | 84/145 [00:22<00:16,  3.70it/s] 59%|█████▊    | 85/145 [00:23<00:16,  3.68it/s] 59%|█████▉    | 86/145 [00:23<00:16,  3.65it/s] 60%|██████    | 87/145 [00:23<00:15,  3.65it/s] 61%|██████    | 88/145 [00:23<00:15,  3.69it/s] 61%|██████▏   | 89/145 [00:24<00:15,  3.67it/s] 62%|██████▏   | 90/145 [00:24<00:14,  3.70it/s] 63%|██████▎   | 91/145 [00:24<00:14,  3.68it/s] 63%|██████▎   | 92/145 [00:25<00:14,  3.69it/s] 64%|██████▍   | 93/145 [00:25<00:14,  3.65it/s] 65%|██████▍   | 94/145 [00:25<00:13,  3.66it/s] 66%|██████▌   | 95/145 [00:25<00:13,  3.66it/s] 66%|██████▌   | 96/145 [00:26<00:13,  3.67it/s] 67%|██████▋   | 97/145 [00:26<00:13,  3.65it/s] 68%|██████▊   | 98/145 [00:26<00:12,  3.68it/s] 68%|██████▊   | 99/145 [00:26<00:12,  3.68it/s] 69%|██████▉   | 100/145 [00:27<00:12,  3.69it/s] 70%|██████▉   | 101/145 [00:27<00:12,  3.65it/s] 70%|███████   | 102/145 [00:27<00:11,  3.66it/s] 71%|███████   | 103/145 [00:28<00:11,  3.68it/s] 72%|███████▏  | 104/145 [00:28<00:11,  3.69it/s] 72%|███████▏  | 105/145 [00:28<00:10,  3.67it/s] 73%|███████▎  | 106/145 [00:28<00:10,  3.70it/s] 74%|███████▍  | 107/145 [00:29<00:10,  3.69it/s] 74%|███████▍  | 108/145 [00:29<00:10,  3.68it/s] 75%|███████▌  | 109/145 [00:29<00:09,  3.63it/s] 76%|███████▌  | 110/145 [00:29<00:09,  3.64it/s] 77%|███████▋  | 111/145 [00:30<00:09,  3.67it/s] 77%|███████▋  | 112/145 [00:30<00:09,  3.66it/s] 78%|███████▊  | 113/145 [00:30<00:08,  3.60it/s] 79%|███████▊  | 114/145 [00:31<00:08,  3.63it/s] 79%|███████▉  | 115/145 [00:31<00:08,  3.66it/s] 80%|████████  | 116/145 [00:31<00:07,  3.67it/s] 81%|████████  | 117/145 [00:31<00:07,  3.64it/s] 81%|████████▏ | 118/145 [00:32<00:07,  3.68it/s] 82%|████████▏ | 119/145 [00:32<00:07,  3.68it/s] 83%|████████▎ | 120/145 [00:32<00:06,  3.67it/s] 83%|████████▎ | 121/145 [00:32<00:06,  3.69it/s] 84%|████████▍ | 122/145 [00:33<00:06,  3.69it/s] 85%|████████▍ | 123/145 [00:33<00:05,  3.70it/s] 86%|████████▌ | 124/145 [00:33<00:05,  3.69it/s] 86%|████████▌ | 125/145 [00:34<00:05,  3.68it/s] 87%|████████▋ | 126/145 [00:34<00:05,  3.69it/s] 88%|████████▊ | 127/145 [00:34<00:04,  3.69it/s] 88%|████████▊ | 128/145 [00:34<00:04,  3.66it/s] 89%|████████▉ | 129/145 [00:35<00:04,  3.68it/s] 90%|████████▉ | 130/145 [00:35<00:04,  3.69it/s] 90%|█████████ | 131/145 [00:35<00:03,  3.68it/s] 91%|█████████ | 132/145 [00:35<00:03,  3.67it/s] 92%|█████████▏| 133/145 [00:36<00:03,  3.66it/s] 92%|█████████▏| 134/145 [00:36<00:03,  3.66it/s] 93%|█████████▎| 135/145 [00:36<00:02,  3.67it/s] 94%|█████████▍| 136/145 [00:37<00:02,  3.69it/s] 94%|█████████▍| 137/145 [00:37<00:02,  3.71it/s] 95%|█████████▌| 138/145 [00:37<00:01,  3.70it/s] 96%|█████████▌| 139/145 [00:37<00:01,  3.70it/s] 97%|█████████▋| 140/145 [00:38<00:01,  3.68it/s] 97%|█████████▋| 141/145 [00:38<00:01,  3.69it/s] 98%|█████████▊| 142/145 [00:38<00:00,  3.73it/s] 99%|█████████▊| 143/145 [00:38<00:00,  3.72it/s] 99%|█████████▉| 144/145 [00:39<00:00,  3.71it/s]100%|██████████| 145/145 [00:39<00:00,  3.69it/s]100%|██████████| 145/145 [00:39<00:00,  3.67it/s]
+2022-04-14 18:10:54,793 INFO postprocess.py: Processing fold 3...
+2022-04-14 18:10:54,797 INFO postprocess.py: Generating negatives for val set!
+  0%|          | 0/145 [00:00<?, ?it/s]  1%|          | 1/145 [00:00<00:39,  3.68it/s]  1%|▏         | 2/145 [00:00<00:38,  3.72it/s]  2%|▏         | 3/145 [00:00<00:38,  3.70it/s]  3%|▎         | 4/145 [00:01<00:38,  3.68it/s]  3%|▎         | 5/145 [00:01<00:37,  3.70it/s]  4%|▍         | 6/145 [00:01<00:37,  3.69it/s]  5%|▍         | 7/145 [00:01<00:37,  3.71it/s]  6%|▌         | 8/145 [00:02<00:37,  3.68it/s]  6%|▌         | 9/145 [00:02<00:37,  3.67it/s]  7%|▋         | 10/145 [00:02<00:36,  3.67it/s]  8%|▊         | 11/145 [00:02<00:36,  3.67it/s]  8%|▊         | 12/145 [00:03<00:35,  3.70it/s]  9%|▉         | 13/145 [00:03<00:35,  3.69it/s] 10%|▉         | 14/145 [00:03<00:35,  3.70it/s] 10%|█         | 15/145 [00:04<00:34,  3.72it/s] 11%|█         | 16/145 [00:04<00:35,  3.68it/s] 12%|█▏        | 17/145 [00:04<00:34,  3.66it/s] 12%|█▏        | 18/145 [00:04<00:34,  3.65it/s] 13%|█▎        | 19/145 [00:05<00:34,  3.69it/s] 14%|█▍        | 20/145 [00:05<00:33,  3.68it/s] 14%|█▍        | 21/145 [00:05<00:33,  3.67it/s] 15%|█▌        | 22/145 [00:05<00:33,  3.66it/s] 16%|█▌        | 23/145 [00:06<00:33,  3.67it/s] 17%|█▋        | 24/145 [00:06<00:33,  3.65it/s] 17%|█▋        | 25/145 [00:06<00:32,  3.68it/s] 18%|█▊        | 26/145 [00:07<00:32,  3.68it/s] 19%|█▊        | 27/145 [00:07<00:31,  3.71it/s] 19%|█▉        | 28/145 [00:07<00:31,  3.70it/s] 20%|██        | 29/145 [00:07<00:31,  3.67it/s] 21%|██        | 30/145 [00:08<00:31,  3.66it/s] 21%|██▏       | 31/145 [00:08<00:31,  3.68it/s] 22%|██▏       | 32/145 [00:08<00:30,  3.65it/s] 23%|██▎       | 33/145 [00:08<00:30,  3.68it/s] 23%|██▎       | 34/145 [00:09<00:30,  3.70it/s] 24%|██▍       | 35/145 [00:09<00:29,  3.72it/s] 25%|██▍       | 36/145 [00:09<00:29,  3.69it/s] 26%|██▌       | 37/145 [00:10<00:29,  3.71it/s] 26%|██▌       | 38/145 [00:10<00:28,  3.72it/s] 27%|██▋       | 39/145 [00:10<00:28,  3.71it/s] 28%|██▊       | 40/145 [00:10<00:28,  3.65it/s] 28%|██▊       | 41/145 [00:11<00:28,  3.66it/s] 29%|██▉       | 42/145 [00:11<00:27,  3.69it/s] 30%|██▉       | 43/145 [00:11<00:27,  3.68it/s] 30%|███       | 44/145 [00:11<00:27,  3.69it/s] 31%|███       | 45/145 [00:12<00:27,  3.67it/s] 32%|███▏      | 46/145 [00:12<00:26,  3.67it/s] 32%|███▏      | 47/145 [00:12<00:26,  3.65it/s] 33%|███▎      | 48/145 [00:13<00:26,  3.62it/s] 34%|███▍      | 49/145 [00:13<00:26,  3.67it/s] 34%|███▍      | 50/145 [00:13<00:25,  3.68it/s] 35%|███▌      | 51/145 [00:13<00:25,  3.68it/s] 36%|███▌      | 52/145 [00:14<00:25,  3.67it/s] 37%|███▋      | 53/145 [00:14<00:25,  3.67it/s] 37%|███▋      | 54/145 [00:14<00:24,  3.67it/s] 38%|███▊      | 55/145 [00:14<00:24,  3.63it/s] 39%|███▊      | 56/145 [00:15<00:24,  3.64it/s] 39%|███▉      | 57/145 [00:15<00:23,  3.67it/s] 40%|████      | 58/145 [00:15<00:23,  3.70it/s] 41%|████      | 59/145 [00:16<00:23,  3.65it/s] 41%|████▏     | 60/145 [00:16<00:23,  3.66it/s] 42%|████▏     | 61/145 [00:16<00:22,  3.66it/s] 43%|████▎     | 62/145 [00:16<00:22,  3.66it/s] 43%|████▎     | 63/145 [00:17<00:22,  3.63it/s] 44%|████▍     | 64/145 [00:17<00:22,  3.67it/s] 45%|████▍     | 65/145 [00:17<00:21,  3.67it/s] 46%|████▌     | 66/145 [00:17<00:21,  3.70it/s] 46%|████▌     | 67/145 [00:18<00:21,  3.67it/s] 47%|████▋     | 68/145 [00:18<00:21,  3.67it/s] 48%|████▊     | 69/145 [00:18<00:20,  3.66it/s] 48%|████▊     | 70/145 [00:19<00:20,  3.70it/s] 49%|████▉     | 71/145 [00:19<00:20,  3.64it/s] 50%|████▉     | 72/145 [00:19<00:19,  3.67it/s] 50%|█████     | 73/145 [00:19<00:19,  3.67it/s] 51%|█████     | 74/145 [00:20<00:19,  3.64it/s] 52%|█████▏    | 75/145 [00:20<00:19,  3.67it/s] 52%|█████▏    | 76/145 [00:20<00:18,  3.69it/s] 53%|█████▎    | 77/145 [00:20<00:18,  3.68it/s] 54%|█████▍    | 78/145 [00:21<00:18,  3.66it/s] 54%|█████▍    | 79/145 [00:21<00:18,  3.60it/s] 55%|█████▌    | 80/145 [00:21<00:17,  3.62it/s] 56%|█████▌    | 81/145 [00:22<00:17,  3.63it/s] 57%|█████▋    | 82/145 [00:22<00:17,  3.65it/s] 57%|█████▋    | 83/145 [00:22<00:16,  3.69it/s] 58%|█████▊    | 84/145 [00:22<00:16,  3.70it/s] 59%|█████▊    | 85/145 [00:23<00:16,  3.71it/s] 59%|█████▉    | 86/145 [00:23<00:15,  3.70it/s] 60%|██████    | 87/145 [00:23<00:15,  3.67it/s] 61%|██████    | 88/145 [00:23<00:15,  3.69it/s] 61%|██████▏   | 89/145 [00:24<00:15,  3.69it/s] 62%|██████▏   | 90/145 [00:24<00:14,  3.69it/s] 63%|██████▎   | 91/145 [00:24<00:14,  3.70it/s] 63%|██████▎   | 92/145 [00:25<00:14,  3.67it/s] 64%|██████▍   | 93/145 [00:25<00:14,  3.68it/s] 65%|██████▍   | 94/145 [00:25<00:13,  3.68it/s] 66%|██████▌   | 95/145 [00:25<00:13,  3.66it/s] 66%|██████▌   | 96/145 [00:26<00:13,  3.64it/s] 67%|██████▋   | 97/145 [00:26<00:13,  3.62it/s] 68%|██████▊   | 98/145 [00:26<00:12,  3.63it/s] 68%|██████▊   | 99/145 [00:26<00:12,  3.67it/s] 69%|██████▉   | 100/145 [00:27<00:12,  3.68it/s] 70%|██████▉   | 101/145 [00:27<00:12,  3.53it/s] 70%|███████   | 102/145 [00:27<00:12,  3.55it/s] 71%|███████   | 103/145 [00:28<00:11,  3.59it/s] 72%|███████▏  | 104/145 [00:28<00:11,  3.63it/s] 72%|███████▏  | 105/145 [00:28<00:10,  3.65it/s] 73%|███████▎  | 106/145 [00:28<00:10,  3.65it/s] 74%|███████▍  | 107/145 [00:29<00:10,  3.68it/s] 74%|███████▍  | 108/145 [00:29<00:10,  3.66it/s] 75%|███████▌  | 109/145 [00:29<00:09,  3.67it/s] 76%|███████▌  | 110/145 [00:29<00:09,  3.63it/s] 77%|███████▋  | 111/145 [00:30<00:09,  3.65it/s] 77%|███████▋  | 112/145 [00:30<00:09,  3.66it/s] 78%|███████▊  | 113/145 [00:30<00:08,  3.70it/s] 79%|███████▊  | 114/145 [00:31<00:08,  3.69it/s] 79%|███████▉  | 115/145 [00:31<00:08,  3.70it/s] 80%|████████  | 116/145 [00:31<00:07,  3.68it/s] 81%|████████  | 117/145 [00:31<00:07,  3.67it/s] 81%|████████▏ | 118/145 [00:32<00:07,  3.65it/s] 82%|████████▏ | 119/145 [00:32<00:07,  3.66it/s] 83%|████████▎ | 120/145 [00:32<00:06,  3.67it/s] 83%|████████▎ | 121/145 [00:32<00:06,  3.67it/s] 84%|████████▍ | 122/145 [00:33<00:06,  3.69it/s] 85%|████████▍ | 123/145 [00:33<00:05,  3.71it/s] 86%|████████▌ | 124/145 [00:33<00:05,  3.73it/s] 86%|████████▌ | 125/145 [00:34<00:05,  3.73it/s] 87%|████████▋ | 126/145 [00:34<00:05,  3.68it/s] 88%|████████▊ | 127/145 [00:34<00:04,  3.70it/s] 88%|████████▊ | 128/145 [00:34<00:04,  3.70it/s] 89%|████████▉ | 129/145 [00:35<00:04,  3.66it/s] 90%|████████▉ | 130/145 [00:35<00:04,  3.68it/s] 90%|█████████ | 131/145 [00:35<00:03,  3.69it/s] 91%|█████████ | 132/145 [00:35<00:03,  3.73it/s] 92%|█████████▏| 133/145 [00:36<00:03,  3.67it/s] 92%|█████████▏| 134/145 [00:36<00:03,  3.66it/s] 93%|█████████▎| 135/145 [00:36<00:02,  3.67it/s] 94%|█████████▍| 136/145 [00:37<00:02,  3.68it/s] 94%|█████████▍| 137/145 [00:37<00:02,  3.68it/s] 95%|█████████▌| 138/145 [00:37<00:01,  3.71it/s] 96%|█████████▌| 139/145 [00:37<00:01,  3.68it/s] 97%|█████████▋| 140/145 [00:38<00:01,  3.67it/s] 97%|█████████▋| 141/145 [00:38<00:01,  3.69it/s] 98%|█████████▊| 142/145 [00:38<00:00,  3.68it/s] 99%|█████████▊| 143/145 [00:38<00:00,  3.67it/s] 99%|█████████▉| 144/145 [00:39<00:00,  3.53it/s]100%|██████████| 145/145 [00:39<00:00,  3.56it/s]100%|██████████| 145/145 [00:39<00:00,  3.67it/s]
+2022-04-14 18:11:39,491 INFO postprocess.py: Processing fold 4...
+2022-04-14 18:11:39,494 INFO postprocess.py: Generating negatives for val set!
+  0%|          | 0/144 [00:00<?, ?it/s]  1%|          | 1/144 [00:00<00:39,  3.59it/s]  1%|▏         | 2/144 [00:00<00:39,  3.62it/s]  2%|▏         | 3/144 [00:00<00:38,  3.70it/s]  3%|▎         | 4/144 [00:01<00:37,  3.69it/s]  3%|▎         | 5/144 [00:01<00:37,  3.69it/s]  4%|▍         | 6/144 [00:01<00:37,  3.66it/s]  5%|▍         | 7/144 [00:01<00:37,  3.67it/s]  6%|▌         | 8/144 [00:02<00:37,  3.68it/s]  6%|▋         | 9/144 [00:02<00:37,  3.64it/s]  7%|▋         | 10/144 [00:02<00:36,  3.67it/s]  8%|▊         | 11/144 [00:02<00:36,  3.69it/s]  8%|▊         | 12/144 [00:03<00:35,  3.69it/s]  9%|▉         | 13/144 [00:03<00:35,  3.69it/s] 10%|▉         | 14/144 [00:03<00:35,  3.69it/s] 10%|█         | 15/144 [00:04<00:36,  3.57it/s] 11%|█         | 16/144 [00:04<00:35,  3.61it/s] 12%|█▏        | 17/144 [00:04<00:35,  3.58it/s] 12%|█▎        | 18/144 [00:04<00:34,  3.63it/s] 13%|█▎        | 19/144 [00:05<00:34,  3.65it/s] 14%|█▍        | 20/144 [00:05<00:34,  3.64it/s] 15%|█▍        | 21/144 [00:05<00:33,  3.64it/s] 15%|█▌        | 22/144 [00:06<00:33,  3.66it/s] 16%|█▌        | 23/144 [00:06<00:33,  3.65it/s] 17%|█▋        | 24/144 [00:06<00:32,  3.67it/s] 17%|█▋        | 25/144 [00:06<00:32,  3.63it/s] 18%|█▊        | 26/144 [00:07<00:32,  3.65it/s] 19%|█▉        | 27/144 [00:07<00:31,  3.67it/s] 19%|█▉        | 28/144 [00:07<00:31,  3.67it/s] 20%|██        | 29/144 [00:07<00:31,  3.68it/s] 21%|██        | 30/144 [00:08<00:30,  3.70it/s] 22%|██▏       | 31/144 [00:08<00:30,  3.70it/s] 22%|██▏       | 32/144 [00:08<00:30,  3.69it/s] 23%|██▎       | 33/144 [00:09<00:30,  3.67it/s] 24%|██▎       | 34/144 [00:09<00:29,  3.69it/s] 24%|██▍       | 35/144 [00:09<00:29,  3.68it/s] 25%|██▌       | 36/144 [00:09<00:29,  3.67it/s] 26%|██▌       | 37/144 [00:10<00:29,  3.69it/s] 26%|██▋       | 38/144 [00:10<00:28,  3.72it/s] 27%|██▋       | 39/144 [00:10<00:28,  3.71it/s] 28%|██▊       | 40/144 [00:10<00:28,  3.69it/s] 28%|██▊       | 41/144 [00:11<00:27,  3.69it/s] 29%|██▉       | 42/144 [00:11<00:27,  3.71it/s] 30%|██▉       | 43/144 [00:11<00:27,  3.66it/s] 31%|███       | 44/144 [00:11<00:27,  3.67it/s] 31%|███▏      | 45/144 [00:12<00:26,  3.68it/s] 32%|███▏      | 46/144 [00:12<00:26,  3.70it/s] 33%|███▎      | 47/144 [00:12<00:26,  3.68it/s] 33%|███▎      | 48/144 [00:13<00:26,  3.67it/s] 34%|███▍      | 49/144 [00:13<00:25,  3.66it/s] 35%|███▍      | 50/144 [00:13<00:25,  3.70it/s] 35%|███▌      | 51/144 [00:13<00:25,  3.69it/s] 36%|███▌      | 52/144 [00:14<00:24,  3.70it/s] 37%|███▋      | 53/144 [00:14<00:24,  3.72it/s] 38%|███▊      | 54/144 [00:14<00:24,  3.69it/s] 38%|███▊      | 55/144 [00:14<00:24,  3.69it/s] 39%|███▉      | 56/144 [00:15<00:24,  3.65it/s] 40%|███▉      | 57/144 [00:15<00:23,  3.66it/s] 40%|████      | 58/144 [00:15<00:23,  3.65it/s] 41%|████      | 59/144 [00:16<00:23,  3.67it/s] 42%|████▏     | 60/144 [00:16<00:22,  3.68it/s] 42%|████▏     | 61/144 [00:16<00:22,  3.66it/s] 43%|████▎     | 62/144 [00:16<00:22,  3.64it/s] 44%|████▍     | 63/144 [00:17<00:22,  3.64it/s] 44%|████▍     | 64/144 [00:17<00:22,  3.62it/s] 45%|████▌     | 65/144 [00:17<00:21,  3.65it/s] 46%|████▌     | 66/144 [00:17<00:21,  3.64it/s] 47%|████▋     | 67/144 [00:18<00:20,  3.69it/s] 47%|████▋     | 68/144 [00:18<00:20,  3.69it/s] 48%|████▊     | 69/144 [00:18<00:20,  3.67it/s] 49%|████▊     | 70/144 [00:19<00:20,  3.69it/s] 49%|████▉     | 71/144 [00:19<00:19,  3.70it/s] 50%|█████     | 72/144 [00:19<00:19,  3.63it/s] 51%|█████     | 73/144 [00:19<00:19,  3.66it/s] 51%|█████▏    | 74/144 [00:20<00:18,  3.69it/s] 52%|█████▏    | 75/144 [00:20<00:18,  3.71it/s] 53%|█████▎    | 76/144 [00:20<00:18,  3.70it/s] 53%|█████▎    | 77/144 [00:20<00:18,  3.70it/s] 54%|█████▍    | 78/144 [00:21<00:17,  3.72it/s] 55%|█████▍    | 79/144 [00:21<00:17,  3.71it/s] 56%|█████▌    | 80/144 [00:21<00:17,  3.61it/s] 56%|█████▋    | 81/144 [00:22<00:17,  3.62it/s] 57%|█████▋    | 82/144 [00:22<00:17,  3.64it/s] 58%|█████▊    | 83/144 [00:22<00:16,  3.66it/s] 58%|█████▊    | 84/144 [00:22<00:16,  3.66it/s] 59%|█████▉    | 85/144 [00:23<00:16,  3.66it/s] 60%|█████▉    | 86/144 [00:23<00:15,  3.67it/s] 60%|██████    | 87/144 [00:23<00:15,  3.68it/s] 61%|██████    | 88/144 [00:23<00:15,  3.65it/s] 62%|██████▏   | 89/144 [00:24<00:15,  3.67it/s] 62%|██████▎   | 90/144 [00:24<00:14,  3.67it/s] 63%|██████▎   | 91/144 [00:24<00:14,  3.69it/s] 64%|██████▍   | 92/144 [00:25<00:14,  3.66it/s] 65%|██████▍   | 93/144 [00:25<00:13,  3.68it/s] 65%|██████▌   | 94/144 [00:25<00:13,  3.69it/s] 66%|██████▌   | 95/144 [00:25<00:13,  3.68it/s] 67%|██████▋   | 96/144 [00:26<00:13,  3.67it/s] 67%|██████▋   | 97/144 [00:26<00:12,  3.69it/s] 68%|██████▊   | 98/144 [00:26<00:12,  3.71it/s] 69%|██████▉   | 99/144 [00:26<00:12,  3.68it/s] 69%|██████▉   | 100/144 [00:27<00:11,  3.67it/s] 70%|███████   | 101/144 [00:27<00:11,  3.65it/s] 71%|███████   | 102/144 [00:27<00:11,  3.68it/s] 72%|███████▏  | 103/144 [00:28<00:11,  3.66it/s] 72%|███████▏  | 104/144 [00:28<00:10,  3.66it/s] 73%|███████▎  | 105/144 [00:28<00:10,  3.69it/s] 74%|███████▎  | 106/144 [00:28<00:10,  3.70it/s] 74%|███████▍  | 107/144 [00:29<00:10,  3.69it/s] 75%|███████▌  | 108/144 [00:29<00:09,  3.70it/s] 76%|███████▌  | 109/144 [00:29<00:09,  3.71it/s] 76%|███████▋  | 110/144 [00:29<00:09,  3.73it/s] 77%|███████▋  | 111/144 [00:30<00:08,  3.72it/s] 78%|███████▊  | 112/144 [00:30<00:08,  3.65it/s] 78%|███████▊  | 113/144 [00:30<00:08,  3.65it/s] 79%|███████▉  | 114/144 [00:31<00:08,  3.69it/s] 80%|███████▉  | 115/144 [00:31<00:07,  3.68it/s] 81%|████████  | 116/144 [00:31<00:07,  3.61it/s] 81%|████████▏ | 117/144 [00:31<00:07,  3.62it/s] 82%|████████▏ | 118/144 [00:32<00:07,  3.63it/s] 83%|████████▎ | 119/144 [00:32<00:06,  3.62it/s] 83%|████████▎ | 120/144 [00:32<00:06,  3.64it/s] 84%|████████▍ | 121/144 [00:32<00:06,  3.65it/s] 85%|████████▍ | 122/144 [00:33<00:05,  3.69it/s] 85%|████████▌ | 123/144 [00:33<00:05,  3.68it/s] 86%|████████▌ | 124/144 [00:33<00:05,  3.70it/s] 87%|████████▋ | 125/144 [00:34<00:05,  3.69it/s] 88%|████████▊ | 126/144 [00:34<00:04,  3.69it/s] 88%|████████▊ | 127/144 [00:34<00:04,  3.64it/s] 89%|████████▉ | 128/144 [00:34<00:04,  3.63it/s] 90%|████████▉ | 129/144 [00:35<00:04,  3.64it/s] 90%|█████████ | 130/144 [00:35<00:03,  3.67it/s] 91%|█████████ | 131/144 [00:35<00:03,  3.64it/s] 92%|█████████▏| 132/144 [00:35<00:03,  3.65it/s] 92%|█████████▏| 133/144 [00:36<00:03,  3.66it/s] 93%|█████████▎| 134/144 [00:36<00:02,  3.70it/s] 94%|█████████▍| 135/144 [00:36<00:02,  3.64it/s] 94%|█████████▍| 136/144 [00:37<00:02,  3.67it/s] 95%|█████████▌| 137/144 [00:37<00:01,  3.68it/s] 96%|█████████▌| 138/144 [00:37<00:01,  3.66it/s] 97%|█████████▋| 139/144 [00:37<00:01,  3.67it/s] 97%|█████████▋| 140/144 [00:38<00:01,  3.66it/s] 98%|█████████▊| 141/144 [00:38<00:00,  3.70it/s] 99%|█████████▊| 142/144 [00:38<00:00,  3.71it/s] 99%|█████████▉| 143/144 [00:38<00:00,  3.67it/s]100%|██████████| 144/144 [00:39<00:00,  3.67it/s]100%|██████████| 144/144 [00:39<00:00,  3.67it/s]
+2022-04-14 18:12:24,449 INFO postprocess.py: Saving final model data to '../output/sal_ecoli_merge/final'
+2022-04-14 18:12:25,850 INFO postprocess.py: Converting data into OpenKE compatible format.
+2022-04-14 18:12:25,851 INFO postprocess.py: Folds directories found: ['../output/sal_ecoli_merge/folds/fold_0/', '../output/sal_ecoli_merge/folds/fold_1/', '../output/sal_ecoli_merge/folds/fold_2/', '../output/sal_ecoli_merge/folds/fold_3/', '../output/sal_ecoli_merge/folds/fold_4/']
+2022-04-14 18:12:25,851 INFO postprocess.py: Final directory found: ../output/sal_ecoli_merge/final
+2022-04-14 18:12:25,869 INFO postprocess.py: Processing folds directory '../output/sal_ecoli_merge/folds/fold_0/'...
+2022-04-14 18:13:18,453 INFO postprocess.py: Processing folds directory '../output/sal_ecoli_merge/folds/fold_1/'...
+2022-04-14 18:14:41,574 INFO postprocess.py: Processing folds directory '../output/sal_ecoli_merge/folds/fold_2/'...
+2022-04-14 18:15:41,380 INFO postprocess.py: Processing folds directory '../output/sal_ecoli_merge/folds/fold_3/'...
+2022-04-14 18:16:38,518 INFO postprocess.py: Processing folds directory '../output/sal_ecoli_merge/folds/fold_4/'...

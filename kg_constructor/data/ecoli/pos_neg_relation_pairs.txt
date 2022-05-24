@@ -1,9 +1,8 @@
 positive	negative
 confers resistance to antibiotic	confers no resistance to antibiotic
-is upregulated by antibiotic	is not regulated by antibiotic
-is upregulated by antibiotic	is downregulated by antibiotic
-is mutated by antibiotic	is not mutated by antibiotic
-	no activates
+upregulated by antibiotic	not upregulated by antibiotic
+represses	no represses
+activates	no activates
 has	
 is involved in	
 is part of	

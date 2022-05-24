@@ -7,20 +7,29 @@ class Data:
         if self.mode == 'gridsearch':
             self.train_data = self.load_data(data_dir, "train", reverse=reverse)
             self.test_data = self.load_data(data_dir, "val", reverse=reverse)
+            self.train_data_with_negative = None 
         elif self.mode == 'evaluate':
             train_data = self.load_data(data_dir, "train", reverse=reverse)
             val_data = self.load_data(data_dir, "val", reverse=reverse)
             self.train_data = train_data + [x for x in val_data if x[-1] == '1']
             self.test_data = self.load_data(data_dir, "test", reverse=reverse)
+            self.train_data_with_negative = None
         elif self.mode == 'final':
             self.train_data = self.load_data(data_dir, "train", reverse=reverse)
             self.test_data = self.load_data(data_dir, "test", reverse=reverse)
+            self.train_data_with_negative = self.load_data(data_dir, "train_with_negative", reverse=reverse)
 
         self.data = self.train_data + self.test_data
         self.entities = self.get_entities(self.data)
         self.train_relations = self.get_relations(self.train_data)
         self.test_relations = self.get_relations(self.test_data)
-        self.relations = self.train_relations + \
+        if self.train_data_with_negative:
+            self.train_with_negative_relations = self.get_relations(self.train_data_with_negative)
+            self.relations = self.train_relations + \
+            [i for i in self.test_relations if i not in self.train_relations] + \
+            [i for i in self.train_with_negative_relations if not (i in self.train_relations or i in self.test_relations)] 
+        else:
+            self.relations = self.train_relations + \
             [i for i in self.test_relations if i not in self.train_relations]
 
     def load_data(self, data_dir, data_type, reverse=False):

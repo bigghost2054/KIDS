@@ -1,0 +1,9 @@
+type	name
+person	Bill Gates
+person	Phoebe Gates
+person	Melinda French
+person	Jennifer Gates
+person	Rory Gates
+company	Microsoft
+location	Washington
+location	Texas

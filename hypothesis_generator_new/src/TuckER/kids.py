@@ -17,6 +17,13 @@ from torch.optim.lr_scheduler import ExponentialLR  # noqa: E402
 from sklearn.metrics import f1_score, confusion_matrix
 from sklearn.metrics import precision_score, recall_score, accuracy_score  # noqa: E402
 
+from imblearn.pipeline import Pipeline
+from imblearn.over_sampling import SMOTE
+from sklearn.ensemble import AdaBoostClassifier
+from sklearn.tree import DecisionTreeClassifier
+from sklearn.model_selection import RandomizedSearchCV, PredefinedSplit
+from sklearn.calibration import CalibratedClassifierCV
+
 from load_data import Data  # noqa: E402
 from model import TuckER  # noqa: E402
 from utils import save_pkl, load_pkl  # noqa: E402
@@ -100,16 +107,16 @@ class Experiment:
 
         return threshold
 
-    def evaluate(self, model, data, mode):
+    def evaluate(self, model, data, mode, calibrator = None):
         print(f'Mode: {mode}')
         test_data_idxs_all = np.array(self.get_data_idxs(data))
 
         score = []
-        for idx in range(0, test_data_idxs_all.shape[0], 10000):
-            if idx + 10000 > test_data_idxs_all.shape[0]:
+        for idx in range(0, test_data_idxs_all.shape[0], 1000):
+            if idx + 1000 > test_data_idxs_all.shape[0]:
                 test_data_idxs = test_data_idxs_all[idx:, ]
             else:
-                test_data_idxs = test_data_idxs_all[idx:idx+10000,]
+                test_data_idxs = test_data_idxs_all[idx:idx+1000,]
         
             e1_idx = torch.tensor(test_data_idxs[:, 0])
             r_idx = torch.tensor(test_data_idxs[:, 1])
@@ -134,8 +141,12 @@ class Experiment:
 
             for idx, x in enumerate(test_data_idxs[:, 2]):
                 score.append(y_pred[idx, x].item())
-
+        
         if mode == 'final':
+            #DO CALIBRATE
+            score = calibrator.predict_proba(np.array(score).reshape(-1,1))[:,1].tolist()
+
+        if mode == 'final' or mode == 'calibrate':
             return score
 
         labels = [1 if x[-1] == '1' else 0 for x in data]
@@ -144,7 +155,8 @@ class Experiment:
 
         f1 = f1_score(labels, predictions)
         accuracy = accuracy_score(labels, predictions)
-
+        print(type(labels))
+        print(type(predictions))
         tn, fp, fn, tp = confusion_matrix(labels, predictions).ravel()
         precision = precision_score(labels, predictions)
         recall = recall_score(labels, predictions)
@@ -213,12 +225,22 @@ class Experiment:
             print(f'Loss: {np.mean(losses)}')
 
         model.eval()
-        with torch.no_grad():
+        with torch.no_grad():   
             if mode != 'final':
                 score, metrics, threshold = self.evaluate(model, self.data.test_data, mode=mode)
                 return score, metrics, threshold
             elif mode == 'final':
-                score = self.evaluate(model, self.data.test_data, mode=mode)
+                score_train = self.evaluate(model, self.data.train_data_with_negative, mode='calibrate')
+                
+                clf = DecisionTreeClassifier(max_depth=1) 
+                ros = SMOTE(sampling_strategy='minority')
+                pipeline = Pipeline([('smote', ros),('decision_tree',clf)])
+                calibrator = CalibratedClassifierCV(pipeline, method='isotonic',cv=5)
+                labels_train = [1 if x[-1] == '1' else 0 for x in self.data.train_data_with_negative]
+                calibrator.fit(np.array(score_train).reshape(-1,1),np.array(labels_train))
+                
+                
+                score = self.evaluate(model, self.data.test_data, mode=mode, calibrator = calibrator)
                 return score
             else:
                 raise ValueError(f'Invalid mode: {mode}')
